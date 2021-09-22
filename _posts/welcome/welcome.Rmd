@@ -1,8 +1,7 @@
 ---
-title: "Welcome to Senior Project"
+title: "Welcome"
 description: |
-  Welcome to our new blog, Senior Project. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my blog for my Senior Project. I am very excited to be working with genetic data to find diseases that are related to one another. Please feel free to browse around and see what I'm up to!
 author:
   - name: Nora Jones 
     url: https://example.com/norajones
