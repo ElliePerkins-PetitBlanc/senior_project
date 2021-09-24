@@ -3,10 +3,6 @@ title: "Welcome"
 description: |
   Welcome to my blog for my Senior Project. I am very excited to be working with genetic data to find diseases that are related to one another. Please feel free to browse around and see what I'm up to!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
 date: 09-20-2021
 output:
   distill::distill_article:
