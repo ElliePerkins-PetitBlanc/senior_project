@@ -29,9 +29,9 @@ I will need to look at the research that has already been done about related dis
 ### Proposed Deliverables
 
 * Find and clean datasets to use for comparisons
-* Learn how to show the graphics for comparing genes and diseases
+* Learn how to show the graphics for comparing genes and diseases in r
 * Use statistical analysis to figure out if the differences are significant
-* 
+ 
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
