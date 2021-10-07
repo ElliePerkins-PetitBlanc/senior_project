@@ -1,0 +1,1146 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Background trait(s)","Study accession",Location
+rs743446-<b>?</b>,"5 x 10-6",,0.49,2.4,'-,[1.64-3.49],"ERG, LINC00114","Neonatal lupus","neonatal systemic lupus erythematosus",'-,GCST000738,21:38684499
+rs2403106-<b>?</b>,"3 x 10-6",,0.07,2.48,'-,[1.70-3.61],'-,"Neonatal lupus","neonatal systemic lupus erythematosus",'-,GCST000738,12:83614496
+rs1391511-<b>?</b>,"7 x 10-6",,0.36,1.84,'-,[1.41-2.40],'-,"Neonatal lupus","neonatal systemic lupus erythematosus",'-,GCST000738,"Mapping not available"
+rs1890645-<b>?</b>,"4 x 10-6",,0.30,2.98,'-,[1.88-4.73],'-,"Neonatal lupus","neonatal systemic lupus erythematosus",'-,GCST000738,1:195562293
+rs3099844-<b>?</b>,"5 x 10-10",,0.11,3.34,'-,[2.29-4.89],MICB-DT,"Neonatal lupus","neonatal systemic lupus erythematosus",'-,GCST000738,6:31481199
+rs4660116-<b>C</b>,"2 x 10-7",,'-,1.17,'-,[NR],LYST,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,1:235865541
+rs7097397-<b>G</b>,"9 x 10-12",,'-,1.2,'-,[NR],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,10:48817351
+rs11185603-<b>C</b>,"4 x 10-7",,'-,1.15,'-,[NR],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,7:50267214
+rs387619-<b>C</b>,"3 x 10-13",,'-,1.21,'-,[NR],"CD44, PDHX","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,11:35076646
+rs820077-<b>G</b>,"1 x 10-8",,'-,1.19,'-,[NR],ANKS1A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:35066077
+rs58688157-<b>A</b>,"5 x 10-13",,'-,1.24,'-,[NR],CDHR5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,11:625085
+rs9273076-<b>T</b>,"8 x 10-13",(conditional),'-,1.3,'-,[NR],HLA-DQA1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:32644524
+rs6568431-<b>A</b>,"5 x 10-14",,'-,1.2,'-,[NR],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:106140931
+rs6679677-<b>A</b>,"1 x 10-15",,'-,1.39,'-,[NR],"RSBN1, PHTF1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,1:113761186
+rs6736175-<b>C</b>,"9 x 10-17",(conditional),'-,1.24,'-,[NR],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,2:191081596
+rs13332649-<b>A</b>,"2 x 10-18",,'-,1.34,'-,[NR],"LINC02132, IRF8","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,16:85933077
+rs2431098-<b>G</b>,"4 x 10-18",,'-,1.25,'-,[NR],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,5:160460329
+rs58721818-<b>T</b>,"3 x 10-19",,'-,1.82,'-,[NR],"TNFAIP3, LINC02528","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:137922602
+rs11059919-<b>G</b>,"8 x 10-9",,'-,1.16,'-,[NR],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,12:128804645
+rs2736332-<b>C</b>,"2 x 10-22",,'-,1.31,'-,[NR],"FAM167A, BLK","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,8:11482456
+rs6889239-<b>C</b>,"4 x 10-24",,'-,1.33,'-,[NR],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,5:151078210
+rs114092478-<b>T</b>,"3 x 10-93",(conditional),'-,2,'-,[NR],"HLA-DQB3, MTCO3P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:32714358
+rs268134-<b>G</b>,"1 x 10-10",,'-,1.21,'-,[NR],SPRED2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,2:65381229
+rs10048743-<b>G</b>,"2 x 10-10",,'-,1.25,'-,[NR],IKZF2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,2:213025508
+rs35000415-<b>T</b>,"1 x 10-60",,'-,1.83,'-,[NR],IRF5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,7:128945562
+rs1267499-<b>A</b>,"8 x 10-8",,'-,1.15,'-,[1.09–1.20],RNU6-793P,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:14715651
+rs7090925-<b>A</b>,"9 x 10-8",,'-,1.13,'-,[1.08–1.18],KRT8P37,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,10:8437905
+rs4388254-<b>T</b>,"7 x 10-10",,'-,1.4,'-,[NR],"VDAC1, TCF7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,5:134092910
+rs1150757-<b>A</b>,"6 x 10-107",,'-,2.33,'-,[NR],TNXB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:32061428
+rs77583790-<b>A</b>,"6 x 10-11",,'-,2.15,'-,[NR],IL12A-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,3:159976265
+rs6671847-<b>A</b>,"1 x 10-12",,'-,1.2,'-,[NR],FCGR2A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,1:161509020
+rs74290525-<b>G</b>,"1 x 10-12",(conditional),'-,2.06,'-,[NR],SLC44A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:31867385
+rs6568431-<b>A</b>,"5 x 10-14",,'-,1.21,'-,[1.15–1.27],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:106140931
+rs6932056-<b>C</b>,"2 x 10-31",,'-,1.83,'-,[1.65–2.02],"LINC02528, TNFAIP3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:137921300
+rs849142-<b>A</b>,"9 x 10-11",,'-,1.14,'-,[1.10–1.19],JAZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,7:28146272
+rs4917014-<b>T</b>,"6 x 10-14",,'-,1.18,'-,[1.13–1.24],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,7:50266267
+rs10488631-<b>C</b>,"9 x 10-110",,'-,1.92,'-,[1.81–2.03],"IRF5, TNPO3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,7:128954129
+rs2736340-<b>T</b>,"6 x 10-20",,'-,1.29,'-,[1.22–1.37],"BLK, FAM167A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,8:11486464
+rs2663052-<b>C</b>,"5 x 10-9",,'-,1.16,'-,[1.10–1.22],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,10:48861350
+rs4948496-<b>C</b>,"1 x 10-10",,'-,1.14,'-,[1.10–1.19],ARID5B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,10:62045858
+rs12802200-<b>C</b>,"9 x 10-10",,'-,1.23,'-,[1.15–1.31],MIR210HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,11:566936
+rs2732549-<b>T</b>,"1 x 10-23",,'-,1.24,'-,[1.19–1.29],"CD44, PDHX","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,11:35066852
+rs3794060-<b>C</b>,"1 x 10-20",,'-,1.23,'-,[1.18–1.29],NADSYN1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,11:71476633
+rs7941765-<b>C</b>,"1 x 10-10",,'-,1.14,'-,[1.10–1.19],"FLI1, ETS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,11:128629105
+rs10774625-<b>A</b>,"4 x 10-9",,'-,1.13,'-,[1.08–1.18],ATXN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,12:111472415
+rs1059312-<b>C</b>,"1 x 10-13",,'-,1.17,'-,[1.12–1.21],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,12:128794319
+rs4902562-<b>A</b>,"6 x 10-10",,'-,1.14,'-,[1.09–1.19],RAD51B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,14:68264741
+rs2289583-<b>A</b>,"6 x 10-15",,'-,1.19,'-,[1.14–1.24],SCAMP5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,15:75018695
+rs9652601-<b>G</b>,"7 x 10-17",,'-,1.21,'-,[1.15–1.26],CLEC16A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,16:11080508
+rs34572943-<b>A</b>,"3 x 10-76",,'-,1.71,'-,[1.61–1.81],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,16:31261032
+rs11644034-<b>G</b>,"1 x 10-17",,'-,1.25,'-,[1.19–1.32],LINC02132,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,16:85939006
+rs2286672-<b>T</b>,"3 x 10-9",,'-,1.25,'-,[1.16–1.35],PLD2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,17:4809322
+rs2941509-<b>A</b>,"8 x 10-9",,'-,1.35,'-,[1.22–1.49],IKZF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,17:39764941
+rs2304256-<b>C</b>,"4 x 10-13",,'-,1.24,'-,[1.17–1.31],TYK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,19:10364976
+rs7444-<b>C</b>,"2 x 10-22",,'-,1.27,'-,[1.21–1.33],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,22:21622645
+rs887369-<b>C</b>,"5 x 10-10",,'-,1.15,'-,[1.10–1.21],TASL,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,X:30559729
+rs1734787-<b>C</b>,"2 x 10-15",,'-,1.31,'-,[1.22–1.40],MECP2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,X:154059995
+rs10753074-<b>T</b>,"6 x 10-12",(conditional),'-,1.21,'-,[NR],PRDX6-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,1:173377204
+rs10995092-<b>T</b>,"2 x 10-7",,'-,1.22,'-,[NR],RTKN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,10:62241941
+rs11085727-<b>C</b>,"1 x 10-13",,'-,1.24,'-,[NR],TYK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,19:10355447
+rs11889341-<b>T</b>,"2 x 10-76",,'-,1.68,'-,[NR],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,2:191079016
+rs3747093-<b>A</b>,"3 x 10-13",,'-,1.26,'-,[NR],"YDJC, CCDC116","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,22:21630090
+rs7941765-<b>C</b>,"2 x 10-8",,'-,1.16,'-,[NR],"FLI1, ETS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,11:128629105
+rs7200786-<b>A</b>,"2 x 10-8",,'-,1.15,'-,[NR],CLEC16A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,16:11083944
+rs12531540-<b>C</b>,"3 x 10-8",,'-,1.15,'-,[NR],JAZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,7:28123055
+rs1990760-<b>T</b>,"4 x 10-8",,'-,1.15,'-,[NR],IFIH1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,2:162267541
+rs3024493-<b>A</b>,"6 x 10-8",,'-,1.2,'-,[NR],IL10,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,1:206770623
+rs2532871-<b>C</b>,"7 x 10-8",,'-,1.32,'-,[NR],TASL,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,X:30555616
+rs10516487-<b>G</b>,"8 x 10-8",,'-,1.16,'-,[NR],BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,4:101829919
+rs143123127-<b>A</b>,"6 x 10-9",,'-,1.51,'-,[NR],IKZF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,17:39850937
+rs10912578-<b>A</b>,"4 x 10-19",,'-,1.27,'-,[NR],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,1:173282717
+rs114090659-<b>C</b>,"6 x 10-92",(conditional),'-,1.99,'-,[NR],"MUC21, NAPGP2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,6:30973212
+rs3757387-<b>C</b>,"1 x 10-48",(conditional),'-,1.45,'-,[NR],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,7:128936032
+rs35472514-<b>G</b>,"4 x 10-53",,'-,1.7,'-,[NR],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,16:31272002
+rs17849501-<b>T</b>,"2 x 10-59",,'-,2.01,'-,[NR],"SMG7, NCF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,1:183573188
+rs4902562-<b>A</b>,"2 x 10-6",,'-,1.13,'-,[NR],RAD51B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,14:68264741
+rs79404002-<b>A</b>,"3 x 10-6",,'-,1.29,'-,[NR],"GLTPD2, PSMB6","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,17:4793960
+rs597808-<b>A</b>,"6 x 10-10",,'-,1.18,'-,[NR],ATXN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,12:111535554
+rs2289583-<b>A</b>,"6 x 10-10",,'-,1.18,'-,[NR],SCAMP5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003156,15:75018695
+rs9398235-<b>A</b>,"1 x 10-7",,'-,1.15,'-,[1.09–1.21],DDO,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:110410913
+rs9271366-<b>G</b>,"1 x 10-7",,0.16,1.26,'-,[1.18-1.36],"HLA-DRB1, HLA-DQA1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,6:32619077
+rs6920220-<b>A</b>,"4 x 10-7",,0.21,1.17,'-,[1.10-1.25],LINC02539,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,6:137685367
+rs2269368-<b>T</b>,"8 x 10-7",,0.14,1.11,'-,[1.01-1.22],ARHGAP4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,X:153924366
+rs2431099-<b>G</b>,"2 x 10-6",,0.52,1.15,'-,[1.09-1.22],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,5:160459613
+rs5754217-<b>T</b>,"2 x 10-6",,0.19,1.2,'-,[1.13-1.27],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,22:21585386
+rs1990760-<b>T</b>,"3 x 10-7",,0.6,1.17,'-,'-,IFIH1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,2:162267541
+rs7708392-<b>C</b>,"4 x 10-13",,0.24,1.27,'-,[1.10–1.35],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,5:151077924
+rs6568431-<b>A</b>,"7 x 10-10",,0.38,1.2,'-,[1.14–1.27],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,6:106140931
+rs849142-<b>T</b>,"2 x 10-9",,0.49,1.19,'-,[1.13–1.26],JAZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,7:28146272
+rs11755393-<b>G</b>,"2 x 10-8",,0.35,1.17,'-,[1.10–1.24],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,6:34856859
+rs3024505-<b>A</b>,"4 x 10-8",,0.16,1.19,'-,[1.11–1.28],"IL10, Y_RNA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,1:206766559
+rs10911363-<b>T</b>,"1 x 10-7",,0.27,1.19,'-,[1.12–1.26],"SMG7, NCF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,1:183580622
+rs12444486-<b>T</b>,"2 x 10-7",,0.5,1.16,'-,[1.10–1.23],LINC02132,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,16:85959043
+rs11013210-<b>T</b>,"2 x 10-7",,0.21,1.18,'-,"[1.11–1.26 ]",ARMC3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,10:22960180
+rs1874791-<b>A</b>,"3 x 10-7",,0.18,1.18,'-,[1.10–1.26],IL12RB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,1:67340749
+rs9782955-<b>C</b>,"5 x 10-7",,0.74,1.18,'-,[1.11–1.26],LYST,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,1:235876577
+rs7683537-<b>T</b>,"8 x 10-7",,0.82,1.23,'-,[1.14–1.33],CENPU,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,4:184710844
+rs428073-<b>T</b>,"8 x 10-7",,0.69,1.18,'-,[1.11–1.26],TAOK3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,12:118244946
+rs497273-<b>G</b>,"8 x 10-7",,0.65,1.14,'-,[1.08–1.21],SPPL3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,12:120766879
+rs1861525-<b>G</b>,"2 x 10-6",,0.05,1.27,'-,[1.12–1.45],CYCS,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,7:25121983
+rs921916-<b>C</b>,"2 x 10-6",,0.18,1.15,'-,[1.07–1.23],SPATA48,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,7:50189102
+rs7333671-<b>G</b>,"2 x 10-6",,0.08,1.22,'-,[1.11–1.34],KLF12,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,13:73704828
+rs12992463-<b>A</b>,"3 x 10-6",,0.5,1.12,'-,[1.06–1.19],RNA5SP87,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,2:22328233
+rs12620999-<b>C</b>,"3 x 10-6",,0.19,1.13,'-,[1.06–1.21],COPS8,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,2:237127724
+rs503425-<b>C</b>,"3 x 10-6",,0.2,1.16,'-,[1.08–1.24],"SETP16, DDX6","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,11:118822018
+rs10742326-<b>G</b>,"4 x 10-6",,0.59,1.14,'-,[1.08–1.21],APIP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,11:34788463
+rs4766921-<b>G</b>,"5 x 10-6",,0.67,1.18,'-,[1.09–1.27],"SRRM4, LINC02439","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,12:118913063
+rs11951576-<b>C</b>,"5 x 10-6",,0.69,1.14,'-,[1.08–1.22],TENT4A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,5:6731300
+rs6438700-<b>C</b>,"6 x 10-6",,0.82,1.18,'-,[1.09–1.27],"CASR, CD86","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,3:122153978
+rs6486730-<b>G</b>,"7 x 10-6",,0.41,1.13,'-,[1.07–1.19],"TMEM132C, SLC15A4","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,12:128790482
+rs4748857-<b>C</b>,"7 x 10-6",,0.73,1.16,'-,[1.09–1.24],C10orf67,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,10:23310629
+rs3914167-<b>G</b>,"8 x 10-6",,0.27,1.15,'-,[1.09–1.23],"C9, DAB2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,5:39406395
+rs3135394-<b>G</b>,"2 x 10-60",,0.1,1.98,'-,[1.84–2.14],HLA-DRA,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,6:32440720
+rs7574865-<b>T</b>,"1 x 10-41",,0.23,1.57,'-,[1.49–1.69],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,2:191099907
+rs2070197-<b>C</b>,"6 x 10-24",,0.11,1.88,'-,[1.78–1.95],IRF5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,7:128948946
+rs11860650-<b>T</b>,"2 x 10-20",,0.13,1.43,'-,[1.32–1.54],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,16:31315385
+rs2736340-<b>T</b>,"8 x 10-17",,0.25,1.35,'-,[1.27–1.43],"BLK, FAM167A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,8:11486464
+rs5029937-<b>T</b>,"5 x 10-13",,0.03,1.71,'-,[1.51–1.95],TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,6:137874014
+rs2476601-<b>A</b>,"3 x 10-12",,0.1,1.35,'-,[1.24–1.47],PTPN22,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,1:113834946
+rs4963128-<b>C</b>,"5 x 10-9",,0.67,1.2,'-,[1.13–1.27],PHRF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,11:589564
+rs2205960-<b>T</b>,"6 x 10-9",,0.23,1.22,'-,[1.15–1.30],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST004867,1:173222336
+rs1801274-<b>?</b>,"6 x 10-11",(EA),0.497,1.21,'-,[NR],FCGR2A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:161509955
+rs10912578-<b>?</b>,"2 x 10-15",(EA),0.306,1.28,'-,[NR],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:173282717
+rs7444-<b>?</b>,"2 x 10-6",(Chinese),0.519,1.23,'-,[NR],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,22:21622645
+rs6889239-<b>?</b>,"2 x 10-18",(EA),0.251,1.32,'-,[NR],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,5:151078210
+rs17849501-<b>?</b>,"2 x 10-59",(EA),0.051,2.24,'-,[NR],"SMG7, NCF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:183573188
+rs268134-<b>?</b>,"2 x 10-7",(EA),0.249,1.19,'-,[NR],SPRED2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:65381229
+rs2111485-<b>?</b>,"3 x 10-6",(EA),0.404,1.15,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,"Mapping not available"
+rs10048743-<b>?</b>,"2 x 10-8",(EA),0.129,1.26,'-,[NR],IKZF2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:213025508
+rs2230926-<b>?</b>,"2 x 10-16",(EA),0.035,1.75,'-,[NR],TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:137874929
+rs564799-<b>?</b>,"1 x 10-6",(EA),0.408,1.16,'-,[NR],IL12A-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,3:160011200
+rs2736332-<b>?</b>,"5 x 10-18",(EA),0.273,1.32,'-,[NR],"FAM167A, BLK","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,8:11482456
+rs7097397-<b>?</b>,"9 x 10-11",(EA),0.383,1.22,'-,[NR],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,10:48817351
+rs4948496-<b>?</b>,"1 x 10-6",(EA),0.469,1.15,'-,[NR],ARID5B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,10:62045858
+rs387619-<b>?</b>,"4 x 10-11",(EA),0.444,1.22,'-,[NR],"CD44, PDHX","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,11:35076646
+rs7941765-<b>?</b>,"1 x 10-6",(EA),0.492,1.15,'-,[NR],"FLI1, ETS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,11:128629105
+rs1059312-<b>?</b>,"3 x 10-6",(EA),0.391,1.14,'-,[NR],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,12:128794319
+rs9652601-<b>?</b>,"4 x 10-7",(EA),0.332,1.17,'-,[NR],CLEC16A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,16:11080508
+rs1143679-<b>?</b>,"5 x 10-48",(EA),0.12,1.78,'-,[NR],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,16:31265490
+rs13332649-<b>?</b>,"5 x 10-17",(EA),0.21,1.37,'-,[NR],"LINC02132, IRF8","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,16:85933077
+rs13385731-<b>?</b>,"4 x 10-6",(Chinese),0.16,1.35,'-,[NR],RASGRP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:33476823
+rs10912578-<b>?</b>,"2 x 10-8",(Chinese),0.46,1.28,'-,[NR],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:173282717
+rs7329174-<b>?</b>,"3 x 10-6",(Chinese),0.211,1.27,'-,[NR],ELF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,13:40983974
+rs6889239-<b>?</b>,"3 x 10-6",(Chinese),0.743,1.28,'-,[NR],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,5:151078210
+rs6762714-<b>T</b>,"8 x 10-10",(EA),0.392,1.14,'-,[1.09-1.19],LPP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,3:188752450
+rs17603856-<b>T</b>,"3 x 10-8",(EA),0.645,1.1235955,'-,[1.08-1.18],ATXN1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:16630667
+rs1887428-<b>G</b>,"1 x 10-6",(EA),0.373,1.11,'-,[1.06-1.16],JAK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,9:4984530
+rs2736332-<b>?</b>,"3 x 10-14",(Chinese),0.718,1.5,'-,[NR],"FAM167A, BLK","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,8:11482456
+rs7097397-<b>?</b>,"5 x 10-7",(Chinese),0.694,1.27,'-,[NR],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,10:48817351
+rs11889341-<b>?</b>,"1 x 10-65",(EA),0.216,1.75,'-,[NR],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:191079016
+rs2476601-<b>?</b>,"8 x 10-13",(EA),0.091,1.39,'-,[NR],PTPN22,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:113834946
+rs2431098-<b>?</b>,"2 x 10-15",(EA),0.481,1.26,'-,[NR],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,5:160460329
+rs1150757-<b>?</b>,"2 x 10-101",(EA),0.092,2.53,'-,[NR],TNXB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:32061428
+rs6568431-<b>?</b>,"4 x 10-12",(EA),0.376,1.22,'-,[NR],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:106140931
+rs9311676-<b>?</b>,"5 x 10-6",(EA),0.424,1.14,'-,[NR],"PDHB, KCTD6","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,3:58484624
+rs35000415-<b>?</b>,"2 x 10-45",(EA),0.108,1.8,'-,[NR],IRF5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,7:128945562
+4:102721293-<b>?</b>,"5 x 10-10",(EA),0.446,1.2,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,"Mapping not available"
+rs4388254-<b>?</b>,"4 x 10-10",(EA),0.045,1.47,'-,[NR],"VDAC1, TCF7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,5:134092910
+rs1061502-<b>?</b>,"9 x 10-11",(EA),0.273,1.23,'-,[NR],IRF7,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,11:614318
+rs10774625-<b>?</b>,"9 x 10-8",(EA),0.499,1.17,'-,[NR],ATXN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,12:111472415
+rs2289583-<b>?</b>,"9 x 10-9",(EA),0.291,1.2,'-,[NR],SCAMP5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,15:75018695
+rs2941509-<b>?</b>,"4 x 10-6",(EA),0.032,1.41,'-,[NR],IKZF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,17:39764941
+rs2304256-<b>?</b>,"2 x 10-12",(EA),0.286,1.26,'-,[NR],TYK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,19:10364976
+rs9462027-<b>?</b>,"1 x 10-10",(Chinese),0.286,1.46,'-,[NR],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:34829464
+rs7444-<b>?</b>,"1 x 10-13",(EA),0.204,1.28,'-,[NR],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,22:21622645
+rs6705628-<b>?</b>,"3 x 10-8",(Chinese),0.178,1.4,'-,[NR],DGUOK-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:73981235
+rs11889341-<b>?</b>,"4 x 10-22",(Chinese),0.339,1.56,'-,[NR],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:191079016
+rs17321999-<b>C</b>,"2 x 10-9",(EA),0.809,1.1904762,'-,[1.12-1.27],LBH,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:30256991
+rs6568431-<b>?</b>,"3 x 10-6",(Chinese),0.347,1.24,'-,[NR],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:106140931
+rs2230926-<b>?</b>,"1 x 10-12",(Chinese),0.031,2.03,'-,[NR],TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:137874929
+rs4917014-<b>?</b>,"3 x 10-6",(Chinese),0.299,1.26,'-,[NR],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,7:50266267
+rs494003-<b>A</b>,"2 x 10-6",(EA),0.19,1.13,'-,[1.07-1.19],AP5B1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,11:65774827
+rs34889541-<b>G</b>,"3 x 10-10",(Chinese),0.86,1.2820514,'-,[1.19-1.39],"PTPRC, ATP6V1G3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:198625639
+rs2297550-<b>G</b>,"2 x 10-7",(Chinese),0.546,1.14,'-,[1.08-1.20],"IKBKE, SRGAP2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:206470429
+rs7579944-<b>C</b>,"6 x 10-6",(Chinese),0.359,1.1494253,'-,[1.09-1.22],"H3P5, LBH","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:30222160
+rs17321999-<b>C</b>,"1 x 10-8",(Chinese),0.836,1.2195122,'-,[1.14-1.3],LBH,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:30256991
+rs6762714-<b>T</b>,"6 x 10-7",(Chinese),0.825,1.2,'-,[1.12-1.29],LPP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,3:188752450
+rs597325-<b>G</b>,"1 x 10-10",(Chinese),0.48,1.1904762,'-,[1.12-1.25],BACH2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:90292775
+rs73135369-<b>C</b>,"7 x 10-13",(Chinese),0.076,1.38,'-,[1.26-1.51],GTF2IRD1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,7:74526648
+rs1887428-<b>G</b>,"4 x 10-14",(Chinese),0.346,1.24,'-,[1.17-1.31],JAK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,9:4984530
+rs1170426-<b>C</b>,"4 x 10-8",(Chinese),0.176,1.2,'-,[1.12-1.28],ZFP90,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,16:68569895
+rs34889541-<b>G</b>,"2 x 10-12",,0.93,1.2345679,'-,[1.16-1.32],"PTPRC, ATP6V1G3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:198625639
+rs2297550-<b>G</b>,"1 x 10-11",,0.12,1.16,'-,[1.11-1.21],"IKBKE, SRGAP2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:206470429
+rs7579944-<b>C</b>,"1 x 10-9",,0.634,1.1111112,'-,[1.08-1.15],"H3P5, LBH","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:30222160
+rs17321999-<b>C</b>,"2 x 10-16",,0.809,1.2048193,'-,[1.15-1.27],LBH,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,2:30256991
+rs6762714-<b>T</b>,"4 x 10-15",,0.392,1.16,'-,[1.12-1.20],LPP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,3:188752450
+rs17603856-<b>T</b>,"3 x 10-12",,0.645,1.1363636,'-,[1.1-1.18],ATXN1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:16630667
+rs597325-<b>G</b>,"4 x 10-12",,0.615,1.1235955,'-,[1.09-1.16],BACH2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:90292775
+rs73135369-<b>C</b>,"9 x 10-14",,0.022,1.32,'-,[1.23-1.42],GTF2IRD1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,7:74526648
+rs1887428-<b>G</b>,"2 x 10-17",,0.373,1.16,'-,[1.12-1.20],JAK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,9:4984530
+rs494003-<b>A</b>,"6 x 10-9",,0.19,1.14,'-,[1.09-1.19],AP5B1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,11:65774827
+rs1170426-<b>C</b>,"2 x 10-8",,0.235,1.12,'-,[1.08-1.17],ZFP90,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,16:68569895
+rs12753920-<b>G</b>,"6 x 10-7",,0.332,1.11,'-,[NR],"BTBD8, C1orf146","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,1:92200342
+rs427221-<b>C</b>,"5 x 10-6",,0.479,1.08,'-,[NR],LINC01967,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,3:28034494
+rs9402743-<b>G</b>,"5 x 10-6",,0.358,1.08,'-,[NR],LINC00271,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003622,6:135679896
+rs4916342-<b>?</b>,"8 x 10-9",,NR,1.33,'-,[1.22-1.49],"PRDX6-AS1, PSMB2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,1:173378698
+rs2267828-<b>?</b>,"6 x 10-8",,NR,1.2345679,'-,[1.14-1.32],GTF2IRD1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,7:74511782
+rs11235667-<b>?</b>,"7 x 10-11",,NR,1.5873016,'-,[1.39-1.82],"FCHSD2, P2RY2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,11:73152652
+rs1048257-<b>?</b>,"9 x 10-7",,NR,1.2195122,'-,[1.12-1.32],AHNAK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,14:104938047
+rs76413021-<b>?</b>,"3 x 10-13",,NR,1.52,'-,[1.36-1.71],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,1:173237158
+rs12612769-<b>?</b>,"2 x 10-19",,NR,1.59,'-,[1.43-1.75],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,2:191089272
+rs2230926-<b>?</b>,"2 x 10-14",,NR,1.93,'-,[1.63-2.28],TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,6:137874929
+rs11185602-<b>?</b>,"2 x 10-16",,NR,1.5151515,'-,[1.37-1.67],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,7:50259481
+rs113478424-<b>?</b>,"4 x 10-12",,NR,1.59,'-,[1.39-1.81],"KCP, IRF5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,7:128935744
+rs2736345-<b>?</b>,"8 x 10-11",,NR,1.4285715,'-,[1.28-1.59],BLK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,8:11494976
+rs7097397-<b>?</b>,"2 x 10-9",,NR,1.33,'-,[1.21-1.46],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,10:48817351
+rs1801274-<b>?</b>,"7 x 10-6",,NR,1.35,'-,[1.18-1.53],FCGR2A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,1:161509955
+rs13385731-<b>?</b>,"1 x 10-6",,NR,1.4492754,'-,[1.25-1.69],RASGRP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,2:33476823
+rs1059312-<b>?</b>,"2 x 10-6",,NR,1.25,'-,[1.14-1.37],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,12:128794319
+rs10521318-<b>?</b>,"4 x 10-6",,NR,1.4925373,'-,[1.27-1.79],LINC02132,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,16:85977731
+rs139110493-<b>?</b>,"1 x 10-12",,NR,2.48,'-,1.93-3.19,HIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,7:75580635
+rs5986948-<b>?</b>,"4 x 10-10",,NR,1.56,'-,[1.35-1.79],"TMEM187, IRAK1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,X:154000721
+rs1128334-<b>?</b>,"7 x 10-12",,NR,1.39,'-,1.26-1.52,ETS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003599,11:128459064
+rs1874791-<b>A</b>,"3 x 10-7",,'-,1.14,'-,[1.09–1.20],IL12RB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,1:67340749
+rs6914831-<b>C</b>,"4 x 10-7",,'-,1.11,'-,[1.07–1.16],AHI1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:135318506
+rs912784-<b>T</b>,"6 x 10-7",,'-,1.29,'-,[1.17–1.42],LCP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,13:46211386
+rs494003-<b>T</b>,"2 x 10-6",,'-,1.13,'-,[1.08–1.19],AP5B1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,11:65774827
+rs11908000-<b>T</b>,"2 x 10-6",,'-,3.03,'-,[1.92–4.77],MIR8062,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,20:7377776
+rs959260-<b>A</b>,"3 x 10-6",,'-,1.14,'-,[1.08–1.20],GRB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,17:75373341
+rs2288012-<b>A</b>,"4 x 10-6",,'-,1.12,'-,[1.07–1.17],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,"Mapping not available"
+rs9402743-<b>G</b>,"5 x 10-6",,'-,1.1,'-,[1.06–1.15],LINC00271,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:135679896
+rs2476601-<b>A</b>,"1 x 10-28",,'-,1.43,'-,[1.34–1.53],PTPN22,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,1:113834946
+rs1801274-<b>C</b>,"1 x 10-12",,'-,1.16,'-,[1.11–1.21],FCGR2A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,1:161509955
+rs704840-<b>G</b>,"3 x 10-19",,'-,1.22,'-,[1.17–1.27],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,1:173257056
+rs17849501-<b>T</b>,"3 x 10-88",,'-,2.1,'-,[1.95–2.26],"SMG7, NCF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,1:183573188
+rs3024505-<b>T</b>,"5 x 10-9",,'-,1.17,'-,[1.11–1.24],"IL10, Y_RNA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,1:206766559
+rs9782955-<b>C</b>,"1 x 10-9",,'-,1.16,'-,[1.11–1.22],LYST,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,1:235876577
+rs2111485-<b>G</b>,"1 x 10-11",,'-,1.15,'-,[1.11–1.20],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,"Mapping not available"
+rs11889341-<b>T</b>,"6 x 10-122",,'-,1.73,'-,(1.65–1.81],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,2:191079016
+rs3768792-<b>C</b>,"1 x 10-13",,'-,1.24,'-,[1.17–1.31],IKZF2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,2:213006985
+rs9311676-<b>C</b>,"3 x 10-14",,'-,1.17,'-,[1.13–1.22],"PDHB, KCTD6","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,3:58484624
+rs564799-<b>C</b>,"2 x 10-9",,'-,1.14,'-,[1.09–1.18],IL12A-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,3:160011200
+rs10028805-<b>G</b>,"4 x 10-17",,'-,1.2,'-,[1.15–1.25],BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,4:101816093
+rs7726414-<b>T</b>,"4 x 10-16",,'-,1.45,'-,[1.32–1.58],"VDAC1, TCF7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,5:134096143
+rs10036748-<b>T</b>,"1 x 10-45",,'-,1.38,'-,[1.32–1.45],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,5:151078585
+rs2431697-<b>T</b>,"8 x 10-28",,'-,1.26,'-,[1.21–1.31],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,5:160452971
+rs1270942-<b>C</b>,"2 x 10-165",,'-,2.28,'-,[2.15–2.42],CFB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:31951083
+rs9462027-<b>A</b>,"8 x 10-9",,'-,1.14,'-,[1.09–1.19],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003155,6:34829464
+rs4917385-<b>?</b>,"1 x 10-8",,0.648,1.3888888,'-,[1.25-1.54],NT5C2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,10:103243964
+rs61732491-<b>T</b>,"2 x 10-6",,0.006,3.36,'-,[2.03-5.55],CERCAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,9:128424504
+rs181502228-<b>T</b>,"2 x 10-6",,0.012,4.35,'-,[2.35-8.07],"RNU2-19P, CDK18","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,1:205540170
+rs1059702-<b>?</b>,"8 x 10-14",,0.5,1.724138,'-,[1.47-2.04],IRAK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,X:154018741
+rs1143679-<b>A</b>,"3 x 10-21",,0.071,2.3,'-,[1.97-2.70],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,16:31265490
+rs10254284-<b>A</b>,"8 x 10-6",,0.583,1.29,'-,[1.16-1.42],JAZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,7:28127772
+rs4641121-<b>?</b>,"8 x 10-6",,0.851,1.4705882,'-,[1.25-1.72],KDM4C,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,9:7071706
+rs10032909-<b>G</b>,"1 x 10-6",,0.013,2.42,'-,[1.69-3.48],LINC01088,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,4:79049054
+rs12736195-<b>?</b>,"7 x 10-11",,0.721,1.5151515,'-,[1.35-1.69],PRDX6-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,1:173338762
+rs13306575-<b>A</b>,"3 x 10-8",,0.105,1.62,'-,[1.39-1.91],"NCF2, SMG7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,1:183563302
+rs3862260-<b>?</b>,"7 x 10-6",,0.566,1.4285715,'-,[1.23-1.67],"HSD3BP5, ZNF697","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,1:119618166
+rs2797780-<b>C</b>,"5 x 10-6",,0.167,1.37,'-,[1.21-1.55],"LINC02520, MIR4462","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,6:37538639
+rs4574684-<b>G</b>,"7 x 10-6",,0.208,1.34,'-,[1.19-1.5],MIR3144,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,6:119953631
+rs330048-<b>A</b>,"7 x 10-6",,0.766,1.41,'-,[1.22-1.64],"PPP1R3B, RNU6-1151P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,8:9229768
+rs643955-<b>T</b>,"4 x 10-7",,0.748,1.49,'-,[1.28-1.73],MSRA,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,8:10033744
+rs17807624-<b>T</b>,"7 x 10-6",,0.64,1.31,'-,[1.17-1.45],"LINC00208, GATA4","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,8:11605506
+rs7031325-<b>C</b>,"7 x 10-6",,0.512,1.45,'-,[1.24-1.70],"GLDC, RN7SL123P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,9:6655056
+rs190029011-<b>?</b>,"3 x 10-6",,0.977,2.857143,'-,[1.85-4.35],GAS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,9:86916761
+rs931127-<b>G</b>,"7 x 10-6",,0.703,1.33,'-,[1.18-1.48],"PCNX3, SIPA1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,11:65637829
+rs7892586-<b>?</b>,"3 x 10-6",,0.712,1.369863,'-,[1.14-1.67],PRPS2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,X:12814981
+rs17301013-<b>?</b>,"8 x 10-6",,0.583,1.4285715,'-,[1.23-1.64],RABGAP1L,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,1:174343675
+rs1878186-<b>C</b>,"1 x 10-7",,0.047,1.82,'-,[1.45-2.28],SLC12A1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,15:48216203
+rs11231824-<b>C</b>,"7 x 10-7",,0.111,1.51,'-,[1.3-1.76],"SLC22A12, SLC22A11","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,11:64587323
+rs11889341-<b>T</b>,"7 x 10-13",,0.407,1.5,'-,[1.36-1.66],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,2:191079016
+rs7708392-<b>C</b>,"2 x 10-11",,0.499,1.76,'-,[1.50-2.07],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,5:151077924
+rs12539741-<b>T</b>,"6 x 10-31",,0.222,2.11,'-,[1.88-2.37],TNPO3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,7:128956751
+rs2928402-<b>C</b>,"1 x 10-6",,0.182,1.39,'-,[1.23-1.57],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,10:48810120
+A*01:01-<b>?</b>,"6 x 10-6",,0.0542,1.58,'-,[1.30-1.93],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+B*08:01-<b>?</b>,"1 x 10-8",,0.0299,2.06,'-,[1.61-2.65],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+DQA1*01:02-<b>?</b>,"2 x 10-13",,0.0811,1.94,'-,[1.63-2.31],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+DQA1*05:05-<b>?</b>,"1 x 10-8",,0.8716,1.6949153,'-,[1.43-2.04],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+DQB1*02:01-<b>?</b>,"7 x 10-11",,0.0502,1.92,'-,[1.58-2.33],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+DQB1*03:01-<b>?</b>,"8 x 10-12",,0.791,1.6666665,'-,[1.45-1.92],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+DQB1*06:02-<b>?</b>,"1 x 10-12",,0.0469,2.16,'-,[1.75-2.67],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+DRB1*03:01-<b>?</b>,"4 x 10-11",,0.0496,1.94,'-,[1.59-2.35],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+DRB1*15:01-<b>?</b>,"7 x 10-12",,0.045,2.1,'-,[1.70-2.59],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+rs7098187-<b>T</b>,"3 x 10-6",,0.009,2.62,'-,[1.75-3.94],ITGA8,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,10:15496384
+DQA1*05:01-<b>?</b>,"6 x 10-11",,0.0502,1.91,'-,[1.58-2.33],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,"Mapping not available"
+rs4728142-<b>A</b>,"1 x 10-23",,0.387,1.76,'-,[1.59-1.95],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,7:128933913
+rs8105429-<b>G</b>,"5 x 10-6",,0.392,1.29,'-,[1.17-1.43],"PGPEP1, GDF15","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003252,19:18370523
+rs2855772-<b>C</b>,"1 x 10-15",,0.09772,1.4,'-,[NR],KIT,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005754,4:54682309
+rs13116227-<b>T</b>,"3 x 10-11",,0.09561,1.34,'-,[NR],"GPR78, TRMT44","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005754,4:8556539
+rs10018951-<b>T</b>,"1 x 10-14",,0.1555,1.31,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005754,"Mapping not available"
+rs2222631-<b>?</b>,"5 x 10-8",,'-,1.16,'-,[1.10-1.23],CD80,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002845,3:119553544
+rs7582694-<b>C</b>,"4 x 10-7",,0.216,1.811,'-,[NR],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003103,2:191105394
+rs1478897-<b>T</b>,"8 x 10-6",,0.337,1.56,'-,[NR],BLK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003103,8:11537723
+rs2187668-<b>?</b>,"1 x 10-9",,NR,'-,'-,'-,HLA-DQA1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003103,6:32638107
+rs3129716-<b>?</b>,"4 x 10-9",,NR,'-,'-,'-,"MTCO3P1, HLA-DQB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003103,6:32689659
+rs1150753-<b>?</b>,"6 x 10-9",,NR,'-,'-,'-,TNXB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003103,6:32092090
+rs3131379-<b>?</b>,"8 x 10-8",,NR,'-,'-,'-,"MSH5, MSH5-SAPCD1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003103,6:31753256
+rs9267531-<b>?</b>,"8 x 10-8",,NR,'-,'-,'-,CSNK2B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST003103,6:31668965
+rs607850-<b>G</b>,"2 x 10-6",,0.1,1.569,'-,[NR],"LINC01646, LINC01777","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,1:4521563
+rs1234315-<b>A</b>,"9 x 10-6",,0.53,1.2786,'-,[NR],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,1:173209324
+rs67269402-<b>A</b>,"1 x 10-6",,0.35,1.331,'-,[NR],"FAM20B, RALGPS2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,1:178943270
+rs7582694-<b>C</b>,"8 x 10-16",,0.48,1.5675,'-,[NR],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,2:191105394
+rs7668917-<b>A</b>,"6 x 10-6",,0.27,1.3285,'-,[NR],LINC02273,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,4:152099409
+rs11132627-<b>G</b>,"7 x 10-6",,0.08,0.6493,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,4:189228942
+rs11747688-<b>G</b>,"8 x 10-7",,0.09,1.6624,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,5:3000871
+rs76835745-<b>A</b>,"5 x 10-6",,0.1,1.5347,'-,[NR],FBN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,5:128282950
+rs74989671-<b>G</b>,"2 x 10-8",,0.16,1.5447,'-,[NR],FBN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,5:128398268
+rs6595836-<b>A</b>,"1 x 10-6",,0.18,1.4294,'-,[NR],FBN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,5:128525194
+rs1737002-<b>A</b>,"2 x 10-6",,0.08,1.6334,'-,[NR],HLA-V,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:29795126
+rs1116221-<b>A</b>,"3 x 10-6",,0.08,1.594,'-,[NR],TRIM31,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:30103553
+rs3095152-<b>A</b>,"6 x 10-7",,0.03,2.4584,'-,[NR],SFTA2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:30931873
+rs9263715-<b>A</b>,"2 x 10-9",,0.32,1.4329,'-,[NR],PSORS1C1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:31128024
+rs12174396-<b>G</b>,"2 x 10-7",,0.18,0.6904,'-,[NR],MICA,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:31406802
+rs2763979-<b>A</b>,"6 x 10-6",,0.36,1.2994,'-,[NR],"HSPA1B, HSPA1A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:31826815
+rs422951-<b>G</b>,"7 x 10-7",,0.36,1.3345,'-,[NR],NOTCH4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:32220606
+rs9270970-<b>G</b>,"4 x 10-26",,0.42,1.8293,'-,[NR],"HLA-DRB1, HLA-DQA1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:32605797
+rs117522574-<b>G</b>,"3 x 10-8",,0.19,1.5082,'-,[NR],"MTCO3P1, HLA-DQB3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:32722109
+rs113206908-<b>G</b>,"4 x 10-7",,0.21,1.4327,'-,[NR],"PSMB9, TAP1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:32850253
+rs422544-<b>C</b>,"5 x 10-8",,0.15,0.6232,'-,[NR],"HLA-DPA1, HLA-DOA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:33058333
+rs78598955-<b>C</b>,"2 x 10-6",,0.03,2.3272,'-,[NR],GABRR2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,6:89269986
+rs73366469-<b>G</b>,"2 x 10-11",,0.14,1.7317,'-,[NR],"GTF2I, GTF2IRD1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,7:74619286
+rs10233510-<b>G</b>,"1 x 10-6",,0.34,0.755,'-,[NR],ZNF804B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,7:89141313
+rs4731530-<b>G</b>,"2 x 10-6",,0.48,1.3014,'-,[NR],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,7:128922524
+rs57939992-<b>A</b>,"4 x 10-6",,0.15,0.6935,'-,[NR],TNPO3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,7:129024628
+rs13277113-<b>G</b>,"2 x 10-9",,0.32,0.6838,'-,[NR],BLK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,8:11491677
+rs10091786-<b>G</b>,"9 x 10-6",,0.1,1.535,'-,[NR],R3HCC1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,8:23281923
+rs6589706-<b>A</b>,"6 x 10-7",,0.38,0.7551,'-,[NR],"CXCR5, Y_RNA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,11:118877104
+rs10845606-<b>A</b>,"3 x 10-6",,0.31,0.7588,'-,[NR],GPR19,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,12:12681960
+rs7299679-<b>A</b>,"7 x 10-7",,0.11,1.5734,'-,[NR],"LINC02457, MIR4472-2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,12:116458870
+rs1385374-<b>A</b>,"8 x 10-8",,0.2,1.4605,'-,[NR],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,12:128816149
+rs3751631-<b>A</b>,"5 x 10-6",,0.1,1.5494,'-,[NR],MYO5C,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,15:52242147
+rs1143679-<b>A</b>,"6 x 10-8",,0.07,1.9136,'-,[NR],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,16:31265490
+rs11564296-<b>G</b>,"7 x 10-6",,0.03,2.0795,'-,[NR],CDH2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,18:28219995
+rs34693543-<b>A</b>,"7 x 10-6",,0.08,1.6944,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,18:73510701
+rs2837982-<b>G</b>,"9 x 10-6",,0.31,1.3029,'-,[NR],BACE2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,21:41244804
+rs1109754-<b>A</b>,"2 x 10-6",,0.13,1.5106,'-,[NR],"LINC00315, LINC00316","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011426,21:45333789
+rs7574865-<b>T</b>,"4 x 10-14",,NR,1.477,'-,[1.335-1.634],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001708,2:191099907
+rs12531711-<b>A</b>,"6 x 10-13",,NR,1.593,'-,[1.403-1.808],TNPO3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001708,7:128977412
+rs13277113-<b>A</b>,"2 x 10-10",,NR,1.391,'-,[1.256-1.540],BLK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001708,8:11491677
+rs729302-<b>A</b>,"4 x 10-8",,NR,1.29,'-,[1.41-1.18],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001708,7:128928906
+rs2051549-<b>?</b>,"3 x 10-22",,NR,'-,'-,'-,HLA-DQB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001708,6:32762309
+rs9275572-<b>A</b>,"5 x 10-16",,0.4,1.74,'-,[1.64-1.85],"HLA-DQB3, MTCO3P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,6:32711222
+rs2764208-<b>G</b>,"7 x 10-6",,0.35,1.28,'-,[1.203-1.36],"SNRPC, ILRUN-AS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,6:34746545
+rs10946940-<b>A</b>,"8 x 10-9",,0.35,1.45,'-,[1.37-1.54],"CD83P1, RNU6-471P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,6:27592808
+HLA-DQA1*05:01-<b>?</b>,"3 x 10-9",,NR,1.89,'-,[1.534-2.335],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,"Mapping not available"
+HLA-DQB1*02:01-<b>?</b>,"5 x 10-6",,NR,1.755,'-,[1.381-2.238],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,"Mapping not available"
+HLA-DRB1*03:01-<b>?</b>,"3 x 10-7",,NR,1.934,'-,[1.507-2.494],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,"Mapping not available"
+rs1801274-<b>?</b>,"9 x 10-6",,NR,'-,'-,'-,FCGR2A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,1:161509955
+rs12565776-<b>?</b>,"5 x 10-6",,NR,'-,'-,'-,"LAMC2, LAMC1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,1:183147396
+rs10911628-<b>A</b>,"2 x 10-13",,0.073,1.954,'-,[1.77-2.16],"EDEM3, C1orf21","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,1:184680369
+rs12993006-<b>T</b>,"4 x 10-6",,0.21,1.45,'-,[1.349-1.56],"RNU7-182P, TEX51","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,2:127000872
+rs4544377-<b>A</b>,"2 x 10-6",,0.88,1.832,'-,[1.623-2.07],RNU6-546P,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,2:155400189
+rs7574865-<b>T</b>,"5 x 10-9",,0.33,1.5083,'-,[1.41-1.62],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,2:191099907
+rs4684256-<b>T</b>,"1 x 10-7",,0.28,1.48,'-,[1.382-1.58],RPL23AP38,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,3:1590669
+rs558702-<b>A</b>,"8 x 10-21",,0.1,2.276,'-,[2.097-2.47],C2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,6:31902549
+rs6946131-<b>T</b>,"2 x 10-6",,0.53,1.387,'-,[1.3-1.47],"RPL31P35, SEC61G","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,7:54715680
+rs4728142-<b>A</b>,"7 x 10-10",,0.46,1.454,'-,[1.368-1.55],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,7:128933913
+rs10488631-<b>C</b>,"2 x 10-13",,0.11,1.829,'-,[1.684-1.99],"IRF5, TNPO3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,7:128954129
+rs10857712-<b>T</b>,"3 x 10-6",,0.76,1.5129,'-,[1.39-1.64],MTG1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,10:133412162
+rs10466455-<b>T</b>,"2 x 10-7",,0.58,1.3774,'-,[1.3-1.47],"EHF, APIP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,11:34759389
+rs11073328-<b>T</b>,"1 x 10-14",,0.098,1.935,'-,[1.771-2.11],FAM98B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,15:38472642
+rs8023715-<b>A</b>,"1 x 10-8",,0.075,1.812,'-,[1.638-2.00],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,15:97064451
+rs9888739-<b>T</b>,"4 x 10-11",,0.13,1.638,'-,[1.512-1.78],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,16:31301932
+rs11655550-<b>C</b>,"7 x 10-7",,0.16,1.475,'-,[1.368-1.59],"CDK12, MED1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,17:39453870
+rs6084875-<b>A</b>,"2 x 10-6",,0.34,1.356,'-,[1.273-1.44],"PRNT, RASSF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,20:4762059
+rs11697848-<b>?</b>,"1 x 10-11",,0.051,2.115,'-,[1.887-2.37],"KRT18P4, RNU6-147P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST002463,20:49958778
+rs6705628-<b>C</b>,"7 x 10-17",,0.78,1.3333,'-,'-,DGUOK-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,2:73981235
+rs4852324-<b>T</b>,"6 x 10-14",,0.76,1.2658,'-,'-,DGUOK-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,2:73975451
+rs6804441-<b>A</b>,"3 x 10-16",,0.61,1.2658,'-,'-,CD80,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,3:119542097
+rs4948496-<b>C</b>,"5 x 10-11",,0.63,1.1765,'-,'-,ARID5B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,10:62045858
+rs12822507-<b>A</b>,"2 x 10-8",,0.57,1.1628,'-,'-,CREBL2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,12:12620587
+rs10845606-<b>C</b>,"4 x 10-17",,0.71,1.2658,'-,'-,GPR19,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,12:12681960
+rs34330-<b>C</b>,"5 x 10-12",,0.52,1.1905,'-,'-,CDKN1B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,12:12717761
+rs4622329-<b>A</b>,"9 x 10-12",,0.56,1.1905,'-,'-,DRAM1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,12:101928157
+rs10911390-<b>T</b>,"6 x 10-6",,0.06,1.13,'-,'-,"RGL1, APOBEC4","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,1:183647749
+rs11717455-<b>T</b>,"7 x 10-6",,0.93,1.4085,'-,'-,SCN10A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,3:38802156
+rs12529935-<b>C</b>,"9 x 10-6",,0.91,1.3514,'-,'-,"MIR4464, BACH2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,6:90305320
+rs2252996-<b>A</b>,"3 x 10-6",,0.68,1.2195,'-,'-,SLC29A3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,10:71356185
+rs12917712-<b>T</b>,"7 x 10-6",,0.29,1.07,'-,'-,SEZ6L2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,16:29871169
+rs2303745-<b>A</b>,"1 x 10-6",,0.39,1.07,'-,'-,ABHD8,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,19:17309480
+rs4522865-<b>A</b>,"5 x 10-6",,0.54,1.3514,'-,'-,BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,4:101794731
+rs2254546-<b>G</b>,"2 x 10-13",,0.73,1.4925,'-,'-,'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,"Mapping not available"
+rs10276619-<b>G</b>,"6 x 10-6",,0.63,1.1765,'-,'-,IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,7:50273756
+rs729302-<b>A</b>,"1 x 10-9",,0.66,1.4706,'-,'-,"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,7:128928906
+rs7574865-<b>T</b>,"1 x 10-21",,0.34,1.63,'-,'-,STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,2:191099907
+rs2785197-<b>C</b>,"2 x 10-7",,0.74,1.2346,'-,'-,"CD44, PDHX","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,11:35071523
+rs9270984-<b>T</b>,"5 x 10-24",,0.18,1.73,'-,'-,"HLA-DRB1, HLA-DQA1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,6:32606214
+rs742108-<b>T</b>,"4 x 10-6",,0.34,1.24,'-,'-,ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,6:106135045
+rs2230926-<b>G</b>,"1 x 10-13",,0.02,2.71,'-,'-,TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,6:137874929
+rs2205960-<b>T</b>,"3 x 10-12",,0.25,1.36,'-,'-,TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,1:173222336
+rs877819-<b>A</b>,"8 x 10-9",,0.18,1.46,'-,'-,WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,10:48834906
+rs6590330-<b>A</b>,"3 x 10-8",,0.35,1.51,'-,'-,ETS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,11:128441164
+rs1385374-<b>A</b>,"8 x 10-8",,0.17,1.41,'-,'-,SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,12:128816149
+rs7329174-<b>G</b>,"6 x 10-6",,0.21,1.45,'-,'-,ELF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,13:40983974
+rs13385731-<b>A</b>,"4 x 10-6",,0.83,1.3889,'-,'-,RASGRP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,2:33476823
+rs10036748-<b>T</b>,"3 x 10-6",,0.74,1.25,'-,'-,TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,5:151078585
+rs5754217-<b>T</b>,"5 x 10-6",,0.56,1.1236,'-,'-,UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,22:21585386
+rs3734266-<b>G</b>,"1 x 10-12",,0.13,1.56,'-,'-,UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,6:34855410
+rs12599402-<b>A</b>,"5 x 10-7",,0.56,1.2821,'-,'-,CLEC16A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,16:11096031
+rs9937837-<b>G</b>,"7 x 10-6",,0.02,1.86,'-,'-,ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001795,16:31287618
+rs5029939-<b>?</b>,"3 x 10-12",,0.03,2.28,'-,[NR],TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,6:137874586
+rs11101442-<b>?</b>,"3 x 10-6",,0.32,'-,'-,[NR],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,10:48728291
+rs17039212-<b>?</b>,"9 x 10-6",,0.10,'-,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,2:49728359
+rs12949531-<b>?</b>,"8 x 10-6",,0.22,'-,'-,[NR],COX10-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,17:13830489
+rs11150610-<b>?</b>,"2 x 10-6",,0.42,'-,'-,[NR],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,16:31322915
+rs2618476-<b>?</b>,"2 x 10-8",,0.26,1.29,'-,[NR],BLK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,8:11495032
+rs2313132-<b>?</b>,"8 x 10-6",,0.12,'-,'-,[NR],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,4:137771096
+rs3821236-<b>?</b>,"8 x 10-11",,0.19,1.49,'-,[NR],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000216,2:191038032
+rs2205960-<b>A</b>,"3 x 10-32",,0.27,1.46,'-,[1.37-1.56],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,1:173222336
+rs10036748-<b>A</b>,"2 x 10-9",,0.76,1.23,'-,[1.15-1.33],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,5:151078585
+rs4917014-<b>A</b>,"3 x 10-23",,0.68,1.39,'-,[1.30-1.47],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,7:50266267
+rs7812879-<b>G</b>,"2 x 10-24",,0.76,1.45,'-,[1.35-1.56],"BLK, FAM167A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,8:11482672
+rs6590330-<b>A</b>,"2 x 10-25",,0.34,1.37,'-,[1.29-1.45],ETS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,11:128441164
+rs131654-<b>A</b>,"1 x 10-16",,0.48,1.28,'-,[1.20-1.35],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,22:21562901
+rs7186852-<b>A</b>,"3 x 10-7",,0.08,1.29,'-,[1.17-1.42],"PRR14, ZNF689","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,16:30624338
+rs9271100-<b>?</b>,"1 x 10-12",,NR,1.9,'-,[1.59-2.27],"HLA-DQA1, HLA-DRB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,6:32608701
+rs4728142-<b>A</b>,"8 x 10-19",,0.13,1.43,'-,[1.32-1.54],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,7:128933913
+rs13385731-<b>A</b>,"1 x 10-15",,0.85,1.43,'-,[1.32-1.56],RASGRP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,2:33476823
+rs7574865-<b>A</b>,"5 x 10-42",,0.33,1.51,'-,[1.43-1.61],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,2:191099907
+rs548234-<b>G</b>,"5 x 10-12",,0.26,1.25,'-,[1.17-1.33],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,6:106120159
+rs2230926-<b>C</b>,"1 x 10-17",,0.04,1.72,'-,[1.52-1.94],TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,6:137874929
+rs1913517-<b>A</b>,"7 x 10-12",,0.29,1.24,'-,[1.17-1.32],"WDFY4, LRRC18","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,10:48911009
+rs4639966-<b>G</b>,"1 x 10-16",,0.30,1.29,'-,[1.22-1.37],"DDX6, RNU6-376P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,11:118702810
+rs1385374-<b>A</b>,"2 x 10-11",,0.20,1.26,'-,[1.18-1.35],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,12:128816149
+rs7197475-<b>A</b>,"3 x 10-8",,0.08,1.31,'-,[1.20-1.46],"ZNF689, PRR14","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,16:30631546
+rs1167796-<b>G</b>,"2 x 10-8",,0.71,1.2,'-,[1.12-1.28],HIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000507,7:75543861
+rs340630-<b>A</b>,"8 x 10-9",,0.52,1.21,'-,[1.14-1.30],AFF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001384,4:87037243
+rs956237-<b>A</b>,"2 x 10-6",,0.33,1.18,'-,[1.10-1.26],LEF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST001384,4:108125804
+rs1150754-<b>A</b>,"6 x 10-29","(anti-dsDNA +)",0.13,2.21,'-,[1.93-2.53],TNXB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,6:32082981
+rs7574865-<b>T</b>,"2 x 10-20","(anti-dsDNA +)",0.23,1.77,'-,[1.57-1.99],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,2:191099907
+rs10488631-<b>C</b>,"7 x 10-18","(anti-dsDNA +)",0.11,1.92,'-,[1.66-2.22],"IRF5, TNPO3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,7:128954129
+rs6695567-<b>?</b>,"4 x 10-6","(anti-dsDNA +)",0.57,1.32,'-,[1.18-1.47],"CPT2, SLC1A7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,1:53163913
+rs12629106-<b>?</b>,"4 x 10-6",(case-only),0.81,1.56,'-,[1.30-1.89],"LINC00501, LINC00578","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,3:177377284
+rs7574865-<b>T</b>,"8 x 10-6",(case-only),0.28,1.41,'-,[1.21-1.63],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,2:191099907
+rs6049839-<b>T</b>,"8 x 10-6",(case-only),0.40,1.37,'-,[1.19-1.58],TMC2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,20:2537919
+rs2736340-<b>T</b>,"3 x 10-7","(anti-dsDNA +)",0.23,1.38,'-,[1.23-1.56],"BLK, FAM167A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,8:11486464
+rs525410-<b>?</b>,"6 x 10-7","(anti-dsDNA +)",0.49,1.33,'-,[1.19-1.47],LAMC2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,1:183207295
+rs5754217-<b>T</b>,"2 x 10-6","(anti-dsDNA +)",0.19,1.38,'-,[1.21-1.57],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,22:21585386
+rs10737562-<b>?</b>,"7 x 10-6","(anti-dsDNA +)",0.50,1.3,'-,[1.16-1.45],"RNA5SP73, LINC01701","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,1:189754493
+rs12531711-<b>G</b>,"6 x 10-9","(anti-dsDNA -)",0.11,1.58,'-,[1.36-1.83],TNPO3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,7:128977412
+rs918959-<b>?</b>,"2 x 10-6","(anti-dsDNA -)",0.91,1.72,'-,[1.39-2.17],SCHLAP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,2:180649002
+rs7927370-<b>?</b>,"7 x 10-6","(anti-dsDNA -)",0.94,1.92,'-,[1.45-2.56],OR4A15,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,11:55368743
+rs2187668-<b>A</b>,"6 x 10-28","(anti-dsDNA +)",0.12,2.23,'-,[1.94-2.57],HLA-DQA1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,6:32638107
+rs9888739-<b>T</b>,"1 x 10-15","(anti-dsDNA +)",0.13,1.8,'-,[1.56-2.07],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,16:31301932
+rs4956211-<b>A</b>,"1 x 10-6","(anti-dsDNA +)",0.35,1.33,'-,[1.19-1.48],"COL25A1, RCC2P8","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,4:108801970
+rs2431697-<b>?</b>,"2 x 10-6","(anti-dsDNA +)",0.56,1.32,'-,[1.18-1.47],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,5:160452971
+rs4963128-<b>?</b>,"4 x 10-6","(anti-dsDNA +)",0.66,1.33,'-,[1.18-1.49],PHRF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,11:589564
+rs2301271-<b>T</b>,"2 x 10-12","(anti-dsDNA -)",0.40,1.47,'-,[1.32-1.63],HLA-DQB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,6:32757416
+rs2669010-<b>A</b>,"5 x 10-6","(anti-dsDNA -)",0.40,1.28,'-,[1.16-1.42],"RPL7AP9, YWHAQP7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,12:76615280
+rs3130320-<b>T</b>,"3 x 10-6",(case-only),0.39,1.39,'-,[1.21-1.60],TSBP1-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,6:32255481
+rs1463525-<b>?</b>,"8 x 10-6",(case-only),0.43,1.37,'-,[1.19-1.59],"NAALADL2-AS2, NAALADL2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,3:175243598
+rs2647012-<b>A</b>,"8 x 10-6",(case-only),0.44,1.38,'-,[1.20-1.59],"MTCO3P1, HLA-DQB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000996,6:32696681
+rs1128334-<b>A</b>,"2 x 10-11",,0.35,1.29,'-,[1.20-1.39],ETS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000592,11:128459064
+rs7097397-<b>G</b>,"8 x 10-12",,0.28,1.3,'-,[1.21-1.40],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000592,10:48817351
+rs7329174-<b>G</b>,"1 x 10-8",,0.22,1.26,'-,[1.16-1.36],ELF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000858,13:40983974
+rs6445975-<b>C</b>,"7 x 10-9",,0.28,1.25,'-,[1.16-1.35],PXK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000142,3:58384450
+rs10798269-<b>?</b>,"1 x 10-7",,0.64,1.22,'-,[1.14-1.32],PRDX6-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000142,1:173340574
+rs4963128-<b>?</b>,"3 x 10-10",,0.34,1.28,'-,[1.18-1.37],PHRF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000142,11:589564
+rs9888739-<b>T</b>,"2 x 10-23",,0.13,1.62,'-,[1.47-1.78],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000142,16:31301932
+rs3131379-<b>A</b>,"2 x 10-52",,0.1,2.36,'-,[2.11-2.64],"MSH5, MSH5-SAPCD1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000142,6:31753256
+rs12537284-<b>A</b>,"4 x 10-19",,0.13,1.54,'-,[1.40-1.70],"CYCSP20, TPI1P2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000142,7:129077852
+rs13277113-<b>A</b>,"1 x 10-10",,0.23,1.39,'-,[1.28-1.51],BLK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,8:11491677
+rs979233-<b>T</b>,"4 x 10-6",,0.46,'-,'-,'-,GHR,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,5:42375141
+rs12141391-<b>A</b>,"7 x 10-6",,0.02,'-,'-,'-,"NEGR1-IT1, NEGR1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,1:71808790
+rs10488631-<b>C</b>,"2 x 10-11",,0.12,'-,'-,'-,"IRF5, TNPO3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,7:128954129
+rs7574865-<b>T</b>,"9 x 10-14",,0.23,'-,'-,'-,STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,2:191099907
+rs11574637-<b>C</b>,"3 x 10-11",,0.19,1.33,'-,[1.22-1.46],ITGAX,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,16:31357553
+rs2187668-<b>A</b>,"3 x 10-21",,0.11,'-,'-,'-,HLA-DQA1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,6:32638107
+rs17083844-<b>A</b>,"6 x 10-6",,0.03,'-,'-,'-,'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,18:71175007
+rs11243676-<b>A</b>,"3 x 10-6",,0.07,'-,'-,'-,NTNG2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000144,9:132221380
+rs10516487-<b>G</b>,"4 x 10-10",,0.77,1.38,'-,[1.25-1.53],BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST000143,4:101829919
+rs2299864-<b>?</b>,"6 x 10-15",,NR,1.24,'-,[1.17-1.30],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:106220119
+rs115268109-<b>?</b>,"2 x 10-7",,NR,1.31,'-,[1.18-1.45],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,"Mapping not available"
+rs7582694-<b>?</b>,"4 x 10-69",,NR,1.56,'-,[1.48-1.64],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,2:191105394
+rs10819689-<b>?</b>,"9 x 10-7",,NR,1.1494253,'-,[1.09-1.20],STX17-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,9:99637981
+rs3122605-<b>?</b>,"1 x 10-11",,NR,1.23,'-,[1.16-1.30],IL19,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:206781696
+rs11578098-<b>?</b>,"5 x 10-7",,NR,1.13,'-,[1.08-1.19],EVI5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:92653853
+rs11059927-<b>?</b>,"2 x 10-8",,NR,1.21,'-,[1.13-1.30],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,12:128809788
+rs11681718-<b>?</b>,"1 x 10-7",,NR,1.1363636,'-,[1.09-1.20],IL18RAP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,2:102434684
+rs2453042-<b>?</b>,"7 x 10-6",,NR,1.16,'-,[1.09-1.24],NOTCH2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:119986309
+rs4859711-<b>?</b>,"3 x 10-6",,NR,1.16,'-,[1.09-1.24],"SHROOM3-AS1, SHROOM3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,4:76744126
+rs11227302-<b>?</b>,"3 x 10-6",,NR,1.15,'-,[1.08-1.21],"AP5B1, OVOL1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,11:65787031
+rs10889681-<b>?</b>,"1 x 10-6",,NR,1.15,'-,[1.09-1.21],IL12RB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:67333487
+rs7819602-<b>?</b>,"1 x 10-9",,NR,1.15,'-,[1.10-1.20],"PINX1, XKR6","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,8:10869332
+rs223883-<b>?</b>,"2 x 10-7",,NR,1.15,'-,[1.09-1.21],"RPL23AP91, CCL22","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,16:57354818
+rs2327832-<b>?</b>,"2 x 10-13",,NR,1.22,'-,[1.15-1.28],LINC02539,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:137651931
+rs2980512-<b>?</b>,"4 x 10-10",,NR,1.15,'-,[1.10-1.20],"PRAG1, FAM86B3P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,8:8283379
+rs35789010-<b>?</b>,"5 x 10-19",,NR,1.46,'-,[1.35-1.59],CARMIL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:25513951
+rs36014129-<b>?</b>,"1 x 10-24",,NR,1.5,'-,[1.39-1.62],"H2AC3P, H2BP5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:25884291
+rs41264285-<b>?</b>,"8 x 10-7",,NR,1.14,'-,[1.08-1.20],ADAM15,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:155061442
+rs4690229-<b>?</b>,"2 x 10-8",,NR,1.13,'-,[1.09-1.19],DGKQ,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,4:976936
+rs62149377-<b>?</b>,"9 x 10-8",,NR,1.14,'-,[1.09-1.19],PAPOLG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,2:60759441
+rs71567468-<b>?</b>,"9 x 10-7",,NR,1.29,'-,[1.17-1.43],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:34848293
+rs77000060-<b>?</b>,"2 x 10-29",,NR,1.89,'-,[1.69-2.11],"LINC02528, TNFAIP3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:137916852
+rs7720046-<b>?</b>,"3 x 10-7",,NR,1.1235955,'-,[1.08-1.18],LINC01845,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,5:159457527
+rs930297-<b>?</b>,"1 x 10-7",,NR,1.2048193,'-,[1.12-1.30],"RNU6-938P, MIR3678","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,17:75408456
+rs12971295-<b>?</b>,"7 x 10-7",,NR,1.1363636,'-,[1.08-1.19],"LRRC25, SSBP4","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,19:18406521
+rs1131265-<b>?</b>,"1 x 10-9",,NR,1.2345679,'-,[1.15-1.32],TIMMDC1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,3:119503609
+rs12706861-<b>?</b>,"4 x 10-71",,NR,1.76,'-,[1.65-1.87],TNPO3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,7:128976528
+rs1170436-<b>?</b>,"9 x 10-7",,NR,1.17,'-,[1.10-1.25],ZFP90,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,16:68573583
+rs131658-<b>?</b>,"1 x 10-16",,NR,1.25,'-,[1.19-1.32],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,22:21563337
+rs10905718-<b>?</b>,"4 x 10-6",,NR,1.12,'-,[1.07-1.17],"RBM17, RPL32P23","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,10:6072893
+rs12129787-<b>?</b>,"1 x 10-9",,NR,1.22,'-,[1.14-1.29],FCGR2A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:161522797
+rs11590283-<b>?</b>,"1 x 10-7",,NR,1.1627907,'-,[1.10-1.22],PUSL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:1309988
+rs4610334-<b>?</b>,"4 x 10-6",,NR,1.19,'-,[1.10-1.28],SORCS2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,4:7256775
+rs11887156-<b>?</b>,"5 x 10-7",,NR,1.1904762,'-,[1.11-1.28],MGAT5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,2:134308905
+rs12156002-<b>?</b>,"3 x 10-7",,NR,1.1494253,'-,[1.09-1.22],PVT1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,8:128178298
+rs1966115-<b>?</b>,"1 x 10-7",,NR,1.14,'-,[1.09-1.20],"ZC2HC1A, PKIA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,8:78644656
+rs2196171-<b>?</b>,"5 x 10-7",,NR,1.1235955,'-,[1.08-1.18],PLCL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,2:198025083
+rs9462027-<b>?</b>,"2 x 10-8",,NR,1.15,'-,[1.09-1.20],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:34829464
+rs10245867-<b>?</b>,"4 x 10-8",,NR,1.14,'-,[1.09-1.19],JAZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,7:28102567
+rs2548279-<b>?</b>,"2 x 10-6",,NR,1.12,'-,[1.07-1.17],ST8SIA4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,5:100841815
+rs1378942-<b>?</b>,"5 x 10-6",,NR,1.11,'-,[1.06-1.16],CSK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,15:74785026
+rs351758-<b>?</b>,"4 x 10-6",,NR,1.11,'-,[1.06-1.16],ELP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,8:28171501
+rs2015407-<b>?</b>,"6 x 10-6",,NR,1.11,'-,[1.06-1.16],TRAF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,14:102808210
+rs4930194-<b>?</b>,"4 x 10-6",,NR,1.1111112,'-,[1.06-1.16],"LINC02724, SLC22A11","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,11:64542619
+rs2732549-<b>?</b>,"1 x 10-6",,NR,1.1111112,'-,[1.06-1.16],"CD44, PDHX","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,11:35066852
+rs6131014-<b>?</b>,"1 x 10-7",,NR,1.1363636,'-,[1.09-1.19],"CD40, RPL13P2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,20:46108744
+rs10798176-<b>?</b>,"2 x 10-6",,NR,1.1494253,'-,[1.09-1.22],"FASLG, SLC25A38P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:172706385
+rs916287-<b>?</b>,"6 x 10-6",,NR,1.1627907,'-,[1.09-1.25],ETV7,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,6:36383081
+rs7486855-<b>?</b>,"3 x 10-6",,NR,1.1627907,'-,[1.09-1.23],IFNG-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,12:68044153
+rs7325747-<b>?</b>,"4 x 10-6",,NR,1.5384616,'-,[1.27-1.89],UBAC2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,13:99377678
+rs73366469-<b>?</b>,"3 x 10-14",,NR,1.22,'-,[1.15-1.30],"GTF2I, GTF2IRD1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:74619286
+rs7444-<b>?</b>,"1 x 10-20",,NR,1.2,'-,[1.15-1.24],UBE2L3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,22:21622645
+rs74936631-<b>?</b>,"1 x 10-6",,NR,1.32,'-,[1.09-1.60],"RPS29P10, RNU6-1145P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:61594642
+rs7568275-<b>?</b>,"1 x 10-77",,NR,1.42,'-,[1.36-1.48],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:191101726
+rs7579944-<b>?</b>,"5 x 10-8",,NR,1.1111112,'-,[1.08-1.16],"H3P5, LBH","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:30222160
+rs7597017-<b>?</b>,"4 x 10-6",,NR,1.0752687,'-,[1.03-1.12],IL18RAP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:102445656
+rs7726414-<b>?</b>,"7 x 10-7",,NR,1.19,'-,[1.11-1.27],"VDAC1, TCF7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:134096143
+rs7795074-<b>?</b>,"2 x 10-7",,NR,1.1235955,'-,[1.08-1.16],SKAP2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:26702535
+rs8058578-<b>?</b>,"2 x 10-6",,NR,1.11,'-,[1.06-1.16],SRCAP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:30714927
+rs8072449-<b>?</b>,"1 x 10-11",,NR,1.1904762,'-,[1.12-1.25],"GRB2, SLC25A19","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,17:75316103
+rs8192282-<b>?</b>,"4 x 10-6",,NR,1.1494253,'-,[1.09-1.23],IL6R,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:154429203
+rs835573-<b>?</b>,"2 x 10-7",,NR,1.13,'-,[1.08-1.18],NOTCH2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:119921542
+rs909788-<b>?</b>,"1 x 10-7",,NR,1.1,'-,[1.06-1.15],ATXN1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:16636230
+rs911263-<b>?</b>,"3 x 10-8",,NR,1.1235955,'-,[1.08-1.18],RAD51B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,14:68286876
+rs9373839-<b>?</b>,"4 x 10-15",,NR,1.19,'-,[1.12-1.26],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:106207742
+rs9852465-<b>?</b>,"2 x 10-8",,NR,1.1,'-,[1.06-1.15],"PDHB, KCTD6","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:58479456
+rs17849502-<b>?</b>,"6 x 10-11",(Hispanic),NR,1.95,'-,[1.59-2.38],"NCF2, SMG7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:183563445
+rs1804182-<b>?</b>,"3 x 10-8",(AA),NR,1.94,'-,[1.53-2.45],PLAT,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:42176001
+rs12928725-<b>?</b>,"7 x 10-22",(Hispanic),NR,1.94,'-,[1.70-2.23],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:31272675
+rs3757387-<b>?</b>,"8 x 10-33",(Hispanic),NR,1.71,'-,[1.56-1.87],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:128936032
+rs61839660-<b>?</b>,"9 x 10-6",(Hispanic),NR,1.64,'-,[1.32-2.04],IL2RA,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,10:6052734
+rs73846279-<b>?</b>,"5 x 10-7",(Hispanic),NR,1.57,'-,[1.32-1.88],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:89842195
+rs1143679-<b>?</b>,"2 x 10-13",(AA),NR,1.54,'-,[1.37-1.73],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:31265490
+rs11889341-<b>?</b>,"6 x 10-16",(Hispanic),NR,1.48,'-,[1.34-1.63],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:191079016
+rs3757387-<b>?</b>,"1 x 10-17",(AA),NR,1.44,'-,[1.33-1.57],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:128936032
+rs332398-<b>?</b>,"1 x 10-6",(Hispanic),NR,1.44,'-,[1.24-1.67],"FCGR3A, FCGR2C","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:161566341
+rs2205960-<b>?</b>,"2 x 10-7",(Hispanic),NR,1.42,'-,[1.24-1.62],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:173222336
+rs9402715-<b>?</b>,"5 x 10-6",(Hispanic),NR,1.38,'-,[1.20-1.58],LINC00271,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:135538559
+rs2618444-<b>?</b>,"7 x 10-9",(AA),NR,1.36,'-,[1.22-1.51],"BLK, FAM167A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:11480861
+rs9394274-<b>?</b>,"7 x 10-8",(Hispanic),NR,1.34,'-,[1.20-1.49],TCP11,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:35147134
+rs1194-<b>?</b>,"5 x 10-7",(AA),NR,1.32,'-,[1.19-1.48],ZNF76,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:35295778
+rs1170436-<b>?</b>,"8 x 10-7",(AA),NR,1.31,'-,[1.18-1.46],ZFP90,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:68573583
+rs2731763-<b>?</b>,"1 x 10-7",(Hispanic),NR,1.31,'-,[1.19-1.45],CCDC113,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:58246174
+rs7708392-<b>?</b>,"5 x 10-9",(Hispanic),NR,1.31,'-,[1.20-1.44],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:151077924
+rs1127745-<b>?</b>,"6 x 10-6",(AA),NR,1.29,'-,[1.16-1.44],ACOX2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:58526510
+rs3750310-<b>?</b>,"8 x 10-6",(Hispanic),NR,1.28,'-,[1.15-1.42],MSRA,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:10425916
+rs229541-<b>?</b>,"2 x 10-7",(Hispanic),NR,1.27,'-,[1.16-1.39],C1QTNF6,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,22:37195278
+rs116356980-<b>?</b>,"4 x 10-6",(AA),NR,1.24,'-,[1.13-1.37],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+rs10762171-<b>?</b>,"4 x 10-6",(AA),NR,1.22,'-,[1.12-1.33],CTNNA3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,10:67531962
+rs56886418-<b>?</b>,"2 x 10-6",(AA),NR,1.21,'-,[1.12-1.31],"PRDM1, ATG5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:106090852
+rs1590381-<b>?</b>,"2 x 10-6",(AA),NR,1.21,'-,[1.12-1.30],"SCUBE3, TCP11","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:35187010
+rs10057690-<b>?</b>,"3 x 10-6",(AA),NR,1.2,'-,[1.11-1.30],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:151065654
+rs9894206-<b>?</b>,"2 x 10-6",(AA),NR,1.25,'-,[1.15-1.39],GRB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,17:75364073
+rs17266594-<b>?</b>,"5 x 10-7",(AA),NR,1.2658228,'-,[1.15-1.39],BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,4:101829765
+rs1946007-<b>?</b>,"7 x 10-6",(AA),NR,1.2820514,'-,[1.15-1.43],ETS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,11:128413550
+rs9889107-<b>?</b>,"1 x 10-6",(Hispanic),NR,1.2820514,'-,[1.16-1.41],SBK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:28295666
+rs2431697-<b>?</b>,"1 x 10-12",(AA),NR,1.3157895,'-,[1.22-1.43],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:160452971
+rs12548184-<b>?</b>,"1 x 10-7",(Hispanic),NR,1.3333333,'-,[1.2-1.47],XKR6,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:10928562
+rs4795774-<b>?</b>,"5 x 10-6",(Hispanic),NR,1.3513513,'-,[1.19-1.54],KSR1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,17:27595519
+rs3828069-<b>?</b>,"2 x 10-9",,NR,1.1764705,'-,[1.11-1.27],IL12RB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:67373890
+rs4252665-<b>?</b>,"2 x 10-12",,NR,1.46,'-,[1.26-1.70],"MIEN1, ERBB2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,17:39729130
+rs4355385-<b>?</b>,"3 x 10-6",,NR,1.33,'-,[1.19-1.50],CLNK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,4:10565335
+rs4382707-<b>?</b>,"5 x 10-7",,NR,1.31,'-,[1.15-1.48],RSL24D1P4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:242802070
+rs461193-<b>?</b>,"1 x 10-7",,NR,1.13,'-,[1.08-1.18],LINC01511,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:1368882
+rs4637409-<b>?</b>,"1 x 10-17",,NR,1.1904762,'-,[1.15-1.25],BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,4:101832251
+rs4675354-<b>?</b>,"4 x 10-6",,NR,1.21,'-,[1.11-1.31],"CD28, RAPH1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:203606750
+rs4739134-<b>?</b>,"3 x 10-8",,NR,1.12,'-,[1.07-1.17],"ZC2HC1A, PKIA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:78643913
+rs4810485-<b>?</b>,"1 x 10-8",,NR,1.43,'-,[1.17-1.76],CD40,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,20:46119308
+rs489574-<b>?</b>,"7 x 10-6",,NR,1.1111112,'-,[1.06-1.15],AP5B1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,11:65775268
+rs4917014-<b>?</b>,"3 x 10-14",,NR,1.2048193,'-,[1.14-1.27],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:50266267
+rs5029939-<b>?</b>,"5 x 10-29",,NR,1.48,'-,[1.38-1.60],TNFAIP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:137874586
+rs56154925-<b>?</b>,"2 x 10-8",,NR,1.1363636,'-,[1.09-1.19],"PTPRH, TMEM86B","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,19:55226430
+rs564976-<b>?</b>,"1 x 10-10",,NR,1.1235955,'-,[1.08-1.16],IL12A-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:160011272
+rs586995-<b>?</b>,"8 x 10-7",,NR,1.41,'-,[1.23-1.63],CEPT1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:111149818
+rs653178-<b>?</b>,"7 x 10-9",,NR,1.14,'-,[1.08-1.20],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+rs6601327-<b>?</b>,"1 x 10-7",,NR,1.1,'-,[1.06-1.14],TNKS,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:9538022
+rs6603785-<b>?</b>,"9 x 10-6",,NR,1.1111112,'-,[1.05-1.16],"UBE2J2, C1QTNF12","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:1251122
+rs6677604-<b>?</b>,"6 x 10-6",,NR,1.12,'-,[1.07-1.17],CFH,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:196717788
+rs6688100-<b>?</b>,"4 x 10-6",,NR,1.098901,'-,[1.05-1.15],"SLAMF6, VANGL2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:160429796
+rs6738825-<b>?</b>,"2 x 10-7",,NR,1.098901,'-,[1.05-1.14],PLCL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:198032171
+rs6869688-<b>?</b>,"4 x 10-7",,NR,1.1494253,'-,[1.08-1.22],LINC01845,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:159456019
+rs6886392-<b>?</b>,"4 x 10-9",,NR,1.13,'-,[1.08-1.18],"RN7SKP62, ST8SIA4","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:100800161
+rs6945305-<b>?</b>,"1 x 10-6",,NR,1.2,'-,[1.10-1.30],ICA1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:8136157
+rs702814-<b>?</b>,"2 x 10-11",,NR,1.15,'-,[1.10-1.20],JAZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:28133113
+rs1780813-<b>?</b>,"4 x 10-8",,NR,1.8181818,'-,[1.27-3.23],SMYD3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005831,1:246280780
+rs55849330-<b>A</b>,"5 x 10-8",,NR,1.16,'-,[1.11-1.21],ST8SIA4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005831,5:100848943
+rs150518861-<b>A</b>,"4 x 10-8",,NR,1.66,'-,[1.49-1.84],"LIMK1, EIF4H","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005831,7:74152347
+rs114038709-<b>T</b>,"4 x 10-8",,NR,1.16,'-,[1.11-1.22],"RNA5SP443, ARHGAP27","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005831,17:45379362
+rs36023980-<b>C</b>,"5 x 10-9",,NR,1.18,'-,[1.13-1.24],GRB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005831,17:75345203
+rs13344313-<b>?</b>,"1 x 10-8",,NR,1.1111112,'-,[1.08-1.16],"SSBP4, LRRC25","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,19:18406957
+rs13385731-<b>?</b>,"1 x 10-6",,NR,1.2048193,'-,[1.11-1.3],RASGRP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:33476823
+rs137956-<b>?</b>,"5 x 10-8",,NR,1.1363636,'-,[1.09-1.19],"GRAP2, ENTHD1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,22:39897459
+rs1432296-<b>?</b>,"1 x 10-8",,NR,1.18,'-,[1.10-1.26],LINC01185,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:60841032
+rs1437466-<b>?</b>,"5 x 10-6",,NR,1.1,'-,[1.06-1.14],"DNAJB12P1, SPRED2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:65437216
+rs169080-<b>?</b>,"1 x 10-6",,NR,1.0869565,'-,[1.05-1.14],KDM4B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,19:4980853
+rs17484292-<b>?</b>,"1 x 10-37",,NR,1.59,'-,[1.40-1.79],NMNAT2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:183330915
+rs1749792-<b>?</b>,"4 x 10-11",,NR,1.14,'-,[1.10-1.19],"ZFP90, RNU4-36P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:68535537
+rs17630235-<b>?</b>,"3 x 10-7",,NR,1.12,'-,[1.06-1.18],"TRAFD1, HECTD4","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,12:112153882
+rs1800797-<b>?</b>,"8 x 10-6",,NR,1.1235955,'-,[1.06-1.19],"IL6-AS1, IL6, STEAP1B","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:22726602
+rs1801274-<b>?</b>,"2 x 10-14",,NR,1.16,'-,[1.11-1.20],FCGR2A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:161509955
+rs2041670-<b>?</b>,"2 x 10-16",,NR,1.1764705,'-,[1.12-1.22],CLEC16A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:11080795
+rs2061831-<b>?</b>,"1 x 10-40",,NR,1.31,'-,[1.25-1.37],"BLK, FAM167A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:11482373
+rs2111485-<b>?</b>,"5 x 10-12",,NR,1.1363636,'-,[1.09-1.18],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+rs2953898-<b>?</b>,"4 x 10-8",,NR,1.1904762,'-,[1.11-1.27],RPS20,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:56068244
+rs2955587-<b>?</b>,"6 x 10-10",,NR,1.11,'-,[1.06-1.17],"ALG1L13P, FAM86B3P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:8240557
+rs2984920-<b>?</b>,"2 x 10-6",,NR,1.1627907,'-,[1.09-1.23],RGS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:192575665
+rs3024493-<b>?</b>,"2 x 10-13",,NR,1.25,'-,[1.16-1.35],IL10,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:206770623
+rs34536443-<b>?</b>,"2 x 10-25",,NR,2.1276596,'-,[1.75-2.63],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+rs34572943-<b>?</b>,"9 x 10-85",,NR,1.68,'-,[1.59-1.78],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:31261032
+rs34840245-<b>?</b>,"2 x 10-11",,NR,1.2,'-,[1.14-1.27],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:34844924
+rs35000415-<b>?</b>,"1 x 10-99",,NR,1.82,'-,[1.69-1.96],IRF5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:128945562
+rs353592-<b>?</b>,"1 x 10-8",,NR,1.1235955,'-,[1.08-1.18],"PDHX, CD44","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,11:35097935
+rs3733345-<b>?</b>,"2 x 10-11",,NR,1.1235955,'-,[1.09-1.18],DGKQ,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,4:960459
+rs376072-<b>?</b>,"5 x 10-6",,NR,1.1235955,'-,[1.06-1.18],LINC01967,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:28034792
+rs1059312-<b>?</b>,"7 x 10-10",,NR,1.12,'-,[1.07-1.16],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,12:128794319
+rs10795763-<b>?</b>,"2 x 10-6",,NR,1.098901,'-,[1.06-1.15],IL2RA,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,10:6054236
+rs10857635-<b>?</b>,"7 x 10-10",,NR,1.1627907,'-,[1.1-1.22],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,10:48766611
+rs10892286-<b>?</b>,"2 x 10-6",,NR,1.1363636,'-,[1.08-1.2],DDX6,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,11:118771376
+rs11117433-<b>?</b>,"2 x 10-11",,NR,1.1764705,'-,[1.11-1.25],"LINC02132, LINC01081","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:85985910
+rs11154801-<b>?</b>,"4 x 10-7",,NR,1.11,'-,[1.06-1.16],AHI1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:135418217
+rs1131665-<b>?</b>,"9 x 10-21",,NR,1.1904762,'-,[1.15-1.23],IRF7,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,11:613208
+rs1150755-<b>?</b>,"6 x 10-117",,NR,1.3,'-,[1.19-1.41],TNXB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:32070773
+rs1151988-<b>?</b>,"9 x 10-6",,NR,1.1111112,'-,[1.05-1.16],"PPARG, TSEN2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:12470013
+rs11629434-<b>?</b>,"2 x 10-6",,NR,1.4285715,'-,[1.19-1.69],DPF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,14:72783972
+rs11724582-<b>?</b>,"2 x 10-8",,NR,1.1363636,'-,[1.08-1.19],IL2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,4:122470309
+rs117846724-<b>?</b>,"7 x 10-6",,NR,1.24,'-,[1.11-1.39],"ALDH7A1P4, ADO","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,10:62745326
+rs212407-<b>?</b>,"2 x 10-6",,NR,1.098901,'-,[1.05-1.14],TAGAP-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:159049385
+rs2205960-<b>?</b>,"1 x 10-30",,NR,1.3,'-,[1.23-1.38],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:173222336
+rs2238573-<b>?</b>,"6 x 10-6",,NR,1.1494253,'-,[1.08-1.22],ARID3A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,19:945013
+rs2431098-<b>?</b>,"3 x 10-21",,NR,1.19,'-,[1.14-1.23],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:160460329
+rs2476601-<b>?</b>,"1 x 10-24",,NR,1.42,'-,[1.28-1.57],PTPN22,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:113834946
+rs2550333-<b>?</b>,"3 x 10-6",,NR,1.13,'-,[1.07-1.18],CCDC113,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:58233568
+rs11788118-<b>?</b>,"2 x 10-8",,NR,1.1363636,'-,[1.09-1.19],STX17-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,9:99575049
+rs12068671-<b>?</b>,"7 x 10-8",,NR,1.1363636,'-,[1.09-1.19],"FASLG, SLC25A38P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:172711891
+rs12574073-<b>?</b>,"3 x 10-14",,NR,1.24,'-,[1.17-1.32],"ETS1, UBASH3B","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,11:128449583
+rs12615624-<b>?</b>,"4 x 10-7",,NR,1.1111112,'-,[1.08-1.16],DARS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:135964033
+rs12636784-<b>?</b>,"1 x 10-11",,NR,1.25,'-,[1.16-1.35],TMEM39A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:119455536
+rs12664535-<b>?</b>,"6 x 10-7",,NR,1.09,'-,[1.05-1.13],"RAB23, PRIM2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:57312868
+rs13280095-<b>?</b>,"2 x 10-7",,NR,1.098901,'-,[1.05-1.14],PVT1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:128166844
+rs2688608-<b>?</b>,"7 x 10-6",,NR,1.1904762,'-,[1.11-1.3],"CAMK2G, PLAU","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,10:73898591
+rs9652601-<b>?</b>,"6 x 10-13",,NR,1.1904762,'-,[1.14-1.25],CLEC16A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,16:11080508
+rs2431697-<b>?</b>,"4 x 10-14",,NR,1.1904762,'-,[1.14-1.23],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,5:160452971
+rs2663054-<b>?</b>,"1 x 10-8",,NR,1.2048193,'-,[1.14-1.28],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,10:48893932
+rs11117431-<b>?</b>,"6 x 10-11",,NR,1.2195122,'-,[1.15-1.28],LINC02132,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,16:85981710
+rs112006329-<b>?</b>,"1 x 10-16",,NR,1.2345679,'-,[1.18-1.3],CDHR5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,11:617228
+rs4426778-<b>?</b>,"1 x 10-12",,NR,1.2658228,'-,[1.19-1.35],BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,4:101859567
+rs34725611-<b>?</b>,"5 x 10-23",,NR,1.2820514,'-,[1.22-1.35],TYK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,19:10366391
+rs147622113-<b>?</b>,"7 x 10-6",,NR,1.369863,'-,[1.19-1.56],ILF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,19:10661265
+B*57:01-<b>?</b>,"4 x 10-6",,NR,1.369863,'-,[1.19-1.56],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,"Mapping not available"
+C*08:02-<b>?</b>,"6 x 10-6",,NR,1.3513513,'-,[1.19-1.56],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,"Mapping not available"
+DQB1*02:02-<b>?</b>,"4 x 10-7",,NR,1.2345679,'-,[1.14-1.33],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,"Mapping not available"
+DQB1*06:03-<b>?</b>,"5 x 10-6",,NR,1.2820514,'-,[1.15-1.43],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,"Mapping not available"
+B*27:05-<b>?</b>,"3 x 10-6",,NR,1.3513513,'-,[1.19-1.54],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,"Mapping not available"
+rs1143679-<b>?</b>,"3 x 10-62",,NR,1.72,'-,[1.61-1.83],ITGAM,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,16:31265490
+rs6679677-<b>?</b>,"2 x 10-23",,NR,1.41,'-,[1.32-1.51],"RSBN1, PHTF1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,1:113761186
+rs2736336-<b>?</b>,"6 x 10-32",,NR,1.34,'-,[1.28-1.41],"FAM167A, BLK","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,8:11484361
+rs7249065-<b>?</b>,"9 x 10-6",,NR,1.3,'-,[1.16-1.45],SBNO2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,19:1112944
+rs180977001-<b>?</b>,"2 x 10-8",,NR,1.27,'-,[1.17-1.39],"PXK, RPP14","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,3:58332737
+rs12575600-<b>?</b>,"6 x 10-10",,NR,1.24,'-,[1.16-1.33],ETS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,11:128454974
+C*05:01-<b>?</b>,"9 x 10-9",,NR,1.2658228,'-,[1.16-1.37],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST007400,"Mapping not available"
+rs223889-<b>?</b>,"1 x 10-8",,NR,1.21,'-,[1.13-1.29],"RPL23AP91, CCL22","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:57358329
+rs6662618-<b>?</b>,"1 x 10-7",,NR,1.14,'-,[1.08-1.21],"RN7SL824P, GFI1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:92469854
+rs10036748-<b>?</b>,"2 x 10-34",,NR,1.27,'-,[1.22-1.33],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:151078585
+rs1039917-<b>?</b>,"3 x 10-7",,NR,1.09,'-,[1.05-1.15],MFHAS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,8:8861340
+rs4921230-<b>?</b>,"7 x 10-6",(Hispanic),NR,1.3513513,'-,[1.19-1.54],LINC01845,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,5:159453388
+rs6681482-<b>?</b>,"8 x 10-7",(AA),NR,1.369863,'-,[1.2-1.56],PRDX6-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,1:173337507
+rs1874252-<b>?</b>,"9 x 10-6",(Hispanic),NR,1.369863,'-,[1.19-1.56],LINC02694,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,15:38670555
+rs2092540-<b>?</b>,"9 x 10-6",(Hispanic),NR,1.369863,'-,[1.19-1.59],"RSPH3, TAGAP-AS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,6:158995412
+rs12107036-<b>?</b>,"2 x 10-6",(Hispanic),NR,1.3888888,'-,[1.2-1.59],TP63,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:189882371
+rs17552904-<b>?</b>,"1 x 10-6",(AA),NR,1.4492754,'-,[1.25-1.69],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,7:50278712
+rs2041862-<b>?</b>,"2 x 10-7",(Hispanic),NR,1.5151515,'-,[1.3-1.75],IFNG-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,12:68067917
+rs116165318-<b>?</b>,"2 x 10-6",(Hispanic),NR,1.5625,'-,[1.3-1.89],PXK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,3:58380290
+rs112047269-<b>?</b>,"1 x 10-6",(Hispanic),NR,1.5873016,'-,[1.32-1.92],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,2:185151747
+rs17881940-<b>?</b>,"3 x 10-6",(Hispanic),NR,1.6393442,'-,[1.33-2.04],STAT3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,17:42324649
+rs17005500-<b>?</b>,"2 x 10-7",(Hispanic),NR,1.724138,'-,[1.41-2.13],SYT1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,12:79345104
+rs8054198-<b>?</b>,"2 x 10-8",(Hispanic),NR,2.7777777,'-,[1.96-4],"CLEC16A, CIITA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,16:10944503
+rs11845506-<b>?</b>,"5 x 10-10",(Hispanic),NR,5,'-,[3.03-8.33],GALC,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,14:87916691
+DQA1*01:05-<b>?</b>,"1 x 10-11",(AA),NR,5.263158,'-,[3.23-8.33],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+A*31:01-<b>?</b>,"6 x 10-9",(HA),NR,1.724138,'-,[1.45-2.08],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+A*01:01-<b>?</b>,"2 x 10-39",,NR,1.4,'-,[1.29-1.52],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+B*08:01-<b>?</b>,"9 x 10-105",,NR,1.94,'-,[1.73-2.18],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+B*18:01-<b>?</b>,"7 x 10-7",,NR,1.25,'-,[1.09-1.43],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+B*44:02-<b>?</b>,"1 x 10-12",,NR,1.2658228,'-,[1.12-1.41],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+C*06:02-<b>?</b>,"1 x 10-6",,NR,1.1627907,'-,[1.08-1.27],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+C*07:01-<b>?</b>,"6 x 10-74",,NR,1.47,'-,[1.39-1.57],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+C*16:01-<b>?</b>,"5 x 10-6",,NR,1.2195122,'-,[1.1-1.33],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DPB1*01:01-<b>?</b>,"2 x 10-12",,NR,1.25,'-,[1.16-1.35],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*01:01-<b>?</b>,"3 x 10-25",,NR,1.4705882,'-,[1.33-1.61],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*01:02-<b>?</b>,"7 x 10-41",,NR,1.41,'-,[1.34-1.49],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*01:03-<b>?</b>,"6 x 10-6",,NR,1.1363636,'-,[1.01-1.3],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*01:04-<b>?</b>,"2 x 10-13",,NR,1.9607843,'-,[1.59-2.44],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*02:01-<b>?</b>,"3 x 10-14",,NR,1.2195122,'-,[1.14-1.3],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*03:01-<b>?</b>,"2 x 10-14",,NR,1.4492754,'-,[1.28-1.61],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*03:03-<b>?</b>,"2 x 10-12",,NR,1.369863,'-,[1.18-1.59],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*05:01-<b>?</b>,"9 x 10-112",,NR,1.74,'-,[1.63-1.86],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQA1*05:05-<b>?</b>,"4 x 10-18",,NR,1.2820514,'-,[1.16-1.43],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQB1*02:01-<b>?</b>,"1 x 10-110",,NR,1.75,'-,[1.63-1.89],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQB1*03:01-<b>?</b>,"2 x 10-25",,NR,1.25,'-,[1.18-1.35],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQB1*03:02-<b>?</b>,"5 x 10-15",,NR,1.4084507,'-,[1.28-1.54],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQB1*03:03-<b>?</b>,"2 x 10-12",,NR,1.4492754,'-,[1.28-1.64],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQB1*05:01-<b>?</b>,"4 x 10-25",,NR,1.3333333,'-,[1.25-1.41],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQB1*05:03-<b>?</b>,"1 x 10-11",,NR,1.6129031,'-,[1.22-2.13],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DQB1*06:02-<b>?</b>,"6 x 10-45",,NR,1.56,'-,[1.46-1.66],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*01:01-<b>?</b>,"4 x 10-17",,NR,1.6666665,'-,[1.41-1.96],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*01:02-<b>?</b>,"5 x 10-10",,NR,1.6666665,'-,[1.41-1.96],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*03:01-<b>?</b>,"2 x 10-109",,NR,1.73,'-,[1.60-1.87],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*04:01-<b>?</b>,"2 x 10-15",,NR,2.0408163,'-,[1.56-2.63],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*04:03-<b>?</b>,"6 x 10-6",,NR,3.030303,'-,[1.89-4.76],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*04:04-<b>?</b>,"7 x 10-7",,NR,1.5625,'-,[1.32-1.85],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*04:07-<b>?</b>,"8 x 10-7",,NR,1.923077,'-,[1.47-2.5],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*07:01-<b>?</b>,"8 x 10-14",,NR,1.2048193,'-,[1.12-1.3],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*11:01-<b>?</b>,"5 x 10-13",,NR,1.6949153,'-,[1.45-2],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*11:04-<b>?</b>,"7 x 10-7",,NR,2,'-,[1.39-2.86],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*12:01-<b>?</b>,"3 x 10-17",,NR,2.3255813,'-,[1.85-2.94],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*13:01-<b>?</b>,"2 x 10-7",,NR,1.25,'-,[1.11-1.41],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*14:01-<b>?</b>,"1 x 10-11",,NR,1.6949153,'-,[1.22-2.38],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*15:01-<b>?</b>,"3 x 10-39",,NR,1.71,'-,[1.53-1.92],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+DRB1*15:03-<b>?</b>,"5 x 10-15",,NR,2.87,'-,[1.66-4.96],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST005752,"Mapping not available"
+rs11288784-<b>G</b>,"2 x 10-10",,0.365,0.902,'-,[0.87-0.93],"Metazoa_SRP, ACTG1P16","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:50055297
+rs669763-<b>C</b>,"3 x 10-15",,0.521,1.123,'-,[1.09-1.15],"CCL22, RPL23AP91","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:57356566
+rs28410471-<b>A</b>,"3 x 10-8",,0.181,1.128,'-,[1.08-1.17],"RPL35AP33, ZFP90","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:68520852
+rs11376510-<b>G</b>,"2 x 10-10",,0.737,0.898,'-,[0.86-0.93],LINC01229,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:79711776
+rs11117432-<b>A</b>,"1 x 10-32",,0.088,0.728,'-,[0.68-0.78],LINC02132,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:85985665
+rs61759532-<b>T</b>,"3 x 10-11",,0.076,1.235,'-,[1.17-1.3],ACAP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,17:7337072
+rs35966917-<b>A</b>,"5 x 10-9",,0.423,0.914,'-,[0.88-0.94],TNFRSF13B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,17:16936587
+rs2671655-<b>T</b>,"5 x 10-8",,0.651,1.087,'-,[1.06-1.12],"PHB, ZNF652","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,17:49390658
+rs113417153-<b>T</b>,"2 x 10-8",,0.193,0.893,'-,[0.85-0.93],"PGS1, SOCS3-DT","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,17:78377098
+rs1788097-<b>T</b>,"6 x 10-10",,0.392,1.096,'-,[1.07-1.13],CD226,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,18:69876452
+rs118075465-<b>A</b>,"1 x 10-10",,0.147,1.14,'-,[1.1-1.18],"CTDP1, NFATC1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,18:79626912
+rs10414086-<b>T</b>,"3 x 10-14",,0.374,0.885,'-,[0.85-0.92],ARID3A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:937136
+rs11085192-<b>T</b>,"1 x 10-10",,0.927,0.84,'-,[0.79-0.89],C3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:6689054
+rs55882956-<b>A</b>,"1 x 10-16",,0.029,0.674,'-,[0.58-0.77],TYK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:10359243
+rs11673604-<b>T</b>,"4 x 10-12",,0.759,1.144,'-,[1.11-1.18],SSBP4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:18430178
+rs12461589-<b>T</b>,"5 x 10-10",,0.248,0.898,'-,[0.86-0.93],PDCD5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:32581862
+rs8108669-<b>T</b>,"5 x 10-12",,0.299,0.893,'-,[0.86-0.92],"TEAD2, CD37","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:49342638
+rs4801882-<b>A</b>,"2 x 10-18",,0.532,0.882,'-,[0.85-0.91],SIGLEC5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:51623800
+rs4819670-<b>T</b>,"6 x 10-11",,0.21,1.151,'-,[1.11-1.19],USP18,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,22:18166589
+rs5754344-<b>A</b>,"2 x 10-45",,0.622,0.805,'-,[0.78-0.83],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,"Mapping not available"
+rs9611155-<b>T</b>,"8 x 10-9",,0.761,1.137,'-,[1.09-1.18],"RPL3, SYNGR1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,22:39343182
+rs6641111-<b>C</b>,"3 x 10-25",,0.694,1.191,'-,[1.16-1.22],PRPS2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,X:12821671
+rs5914012-<b>T</b>,"7 x 10-9",,0.353,1.104,'-,[1.07-1.14],SPIN3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,X:56882269
+rs1059702-<b>A</b>,"6 x 10-54",,0.783,1.356,'-,[1.32-1.4],IRAK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,X:154018741
+rs5945199-<b>A</b>,"3 x 10-12",,0.104,0.778,'-,[0.71-0.85],"G6PD, FAM3A","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,X:154521643
+rs4930642-<b>A</b>,"6 x 10-13",,0.252,1.145,'-,[1.11-1.18],"TPCN2, MRGPRF-AS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:69048902
+rs77971648-<b>T</b>,"3 x 10-23",,0.909,1.291,'-,[1.24-1.34],FCHSD2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:72929435
+rs480958-<b>A</b>,"3 x 10-19",,0.624,0.871,'-,[0.84-0.9],"RNU6-376P, DDX6","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:118707281
+rs4936441-<b>C</b>,"6 x 10-16",,0.137,0.823,'-,[0.78-0.87],"Y_RNA, CXCR5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:118854951
+rs11501246-<b>A</b>,"2 x 10-58",,0.623,0.791,'-,[0.76-0.82],ETS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:128444529
+rs684150-<b>T</b>,"4 x 10-10",,0.381,0.914,'-,[0.89-0.94],FLI1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:128724266
+rs2540119-<b>T</b>,"4 x 10-8",,0.544,1.086,'-,[1.06-1.12],HSPA8P5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:4031710
+rs4251697-<b>A</b>,"1 x 10-43",,0.097,0.637,'-,[0.57-0.7],CDKN1B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:12721528
+rs4622329-<b>A</b>,"4 x 10-15",,0.561,1.119,'-,[1.09-1.15],DRAM1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:101928157
+rs6539078-<b>T</b>,"9 x 10-14",,0.591,0.894,'-,[0.86-0.92],"LINC02401, C12orf42","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:103522302
+rs77465633-<b>A</b>,"7 x 10-18",,0.068,1.34,'-,[1.27-1.41],ATXN2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:111495741
+rs1131476-<b>A</b>,"1 x 10-9",,0.756,1.11,'-,[1.08-1.14],OAS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:112919404
+rs7139263-<b>A</b>,"1 x 10-7",,0.51,1.083,'-,[1.05-1.11],"KSR2, RFC5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:117991171
+rs35743748-<b>CT</b>,"2 x 10-9",,0.444,1.101,'-,[1.07-1.13],SPPL3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:120790827
+rs11059928-<b>A</b>,"2 x 10-30",,0.786,0.823,'-,[0.79-0.86],SLC15A4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:128811558
+rs200521476-<b>G</b>,"6 x 10-9",,0.812,0.875,'-,[0.83-0.92],FBRSL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:132463597
+rs57141708-<b>A</b>,"7 x 10-22",,0.224,1.183,'-,[1.15-1.22],ELF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,13:41001255
+rs2819426-<b>C</b>,"3 x 10-30",,0.331,0.824,'-,[0.79-0.86],AHNAK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,14:104945922
+rs7170151-<b>T</b>,"3 x 10-12",,0.563,1.107,'-,[1.08-1.14],RASGRP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,15:38554477
+rs12900640-<b>A</b>,"2 x 10-11",,0.464,1.101,'-,[1.07-1.13],LINC02694,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,15:38682347
+rs11553760-<b>T</b>,"7 x 10-10",,0.235,1.111,'-,[1.08-1.14],CSK,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,15:74798906
+rs35985016-<b>A</b>,"2 x 10-8",,0.93,0.843,'-,[0.78-0.9],LRRK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,15:100988807
+rs34361002-<b>T</b>,"1 x 10-17",,0.624,1.14,'-,[1.11-1.17],CLEC16A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:11096178
+rs79401250-<b>T</b>,"1 x 10-12",,0.819,1.172,'-,[1.13-1.22],PRKCB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:23860136
+rs534645300-<b>A</b>,"3 x 10-9",,0.93,0.814,'-,[0.75-0.88],"Metazoa_SRP, ZNF629","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:30802134
+rs117026326-<b>T</b>,"2 x 10-298",,0.175,2.137,'-,[2.1-2.18],GTF2I,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74711703
+rs566731348-<b>A</b>,"4 x 10-12",,0.951,1.889,'-,[1.71-2.07],MUC22,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31027112
+rs2263318-<b>A</b>,"1 x 10-19",,0.059,0.597,'-,[0.49-0.71],HCP5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31464229
+rs3757387-<b>T</b>,"9 x 10-79",,0.863,0.693,'-,[0.65-0.73],"IRF5, KCP","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:128936032
+rs28364822-<b>A</b>,"1 x 10-17",,0.028,1.672,'-,[1.55-1.79],TPI1P2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:129055928
+rs2736332-<b>C</b>,"2 x 10-70",,0.734,1.36,'-,[1.33-1.39],"FAM167A, BLK","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,8:11482456
+rs200283861-<b>A</b>,"3 x 10-23",,0.277,1.203,'-,[1.17-1.24],C4B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32026946
+rs565981183-<b>CA</b>,"1 x 10-11",,0.876,1.192,'-,[1.14-1.24],"PRRT1, FKBPL","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32143247
+rs16902895-<b>A</b>,"1 x 10-13",,0.678,1.122,'-,[1.09-1.15],LINC00824,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,8:128413347
+rs1887428-<b>C</b>,"3 x 10-8",,0.664,0.915,'-,[0.88-0.95],JAK2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,9:4984530
+rs7858766-<b>T</b>,"2 x 10-15",,0.538,1.139,'-,[1.11-1.17],"IFNA14, IFNA22P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,9:21267088
+rs7753017-<b>A</b>,"5 x 10-43",,0.237,0.745,'-,[0.7-0.79],HLA-DQB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32759548
+rs1431403-<b>T</b>,"1 x 10-22",,0.39,0.848,'-,[0.81-0.88],"HLA-DPB1, HLA-DPA1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:33079254
+rs3846852-<b>A</b>,"4 x 10-6",,0.016,1.364,'-,[1.23-1.5],"SYNGAP1-AS1, SYNGAP1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:33445230
+rs554962164-<b>A</b>,"5 x 10-7",,0.982,1.964,'-,[1.7-2.23],"MIR1275, MIR7159","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:33987724
+rs11599734-<b>C</b>,"6 x 10-8",,0.479,0.918,'-,[0.89-0.95],"NOLC1, ELOVL3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:102203640
+rs6457796-<b>T</b>,"3 x 10-22",,0.864,0.808,'-,[0.76-0.85],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:34860776
+rs10484578-<b>A</b>,"4 x 10-14",,0.628,1.131,'-,[1.1-1.16],ZNF76,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:35278542
+rs34868004-<b>CA</b>,"4 x 10-9",,0.225,1.104,'-,[1.07-1.14],CPNE5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:36747255
+rs3857496-<b>T</b>,"8 x 10-9",,0.814,1.116,'-,[1.08-1.15],BACH2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:90009445
+rs597325-<b>A</b>,"5 x 10-11",,0.548,0.906,'-,[0.88-0.94],BACH2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:90292775
+rs548234-<b>T</b>,"6 x 10-39",,0.705,0.819,'-,[0.79-0.85],ATG5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:106120159
+rs9488914-<b>T</b>,"1 x 10-8",,0.92,0.862,'-,[0.81-0.91],DSE,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:116369686
+rs9494894-<b>T</b>,"3 x 10-84",,0.941,0.586,'-,[0.53-0.64],"TNFAIP3, LINC02528","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:137907383
+rs9322454-<b>A</b>,"2 x 10-8",,0.659,1.09,'-,[1.06-1.12],IPCEF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:154249517
+rs62447171-<b>A</b>,"9 x 10-60",,0.292,0.767,'-,[0.74-0.8],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:50270294
+rs10716716-<b>G</b>,"8 x 10-10",,0.159,1.151,'-,[1.11-1.2],EIF4H,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74193613
+rs111508444-<b>A</b>,"2 x 10-19",,0.945,1.522,'-,[1.43-1.61],"GABBR1, SUMO2P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:29635735
+rs587621258-<b>A</b>,"2 x 10-7",,0.008,1.854,'-,[1.62-2.09],POM121C,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:75449782
+rs77009341-<b>C</b>,"6 x 10-62",,0.037,2.089,'-,[2-2.18],HIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:75559377
+rs146063533-<b>T</b>,"9 x 10-16",,0.028,1.612,'-,[1.5-1.73],HIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:75692143
+rs2256974-<b>A</b>,"2 x 10-25",,0.375,0.842,'-,[0.81-0.88],LST1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31587615
+rs117217736-<b>T</b>,"1 x 10-12",,0.991,0.479,'-,[0.28-0.68],"NEU1, SNHG32","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31840951
+rs117627999-<b>T</b>,"2 x 10-8",,0.083,0.827,'-,[0.76-0.89],IKBKB-DT,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,8:42246722
+rs11347613-<b>G</b>,"2 x 10-12",,0.368,0.888,'-,[0.85-0.92],NCOA2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,8:70397462
+rs10111413-<b>A</b>,"3 x 10-9",,0.415,0.918,'-,[0.89-0.95],MSC-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,8:71979513
+rs368529276-<b>A</b>,"4 x 10-19",,0.961,2.522,'-,[2.32-2.72],"TSBP1, TSBP1-AS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32353696
+rs9268807-<b>C</b>,"5 x 10-117",,0.208,1.604,'-,[1.56-1.65],"HLA-DRB9, HLA-DRA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32456138
+rs77448389-<b>A</b>,"7 x 10-10",,0.913,0.855,'-,[0.81-0.9],ANKRD16,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:5868783
+rs7097397-<b>A</b>,"2 x 10-40",,0.651,0.81,'-,[0.78-0.84],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:48817351
+rs7902146-<b>T</b>,"3 x 10-12",,0.691,0.9,'-,[0.87-0.93],ARID5B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:62041271
+rs10995254-<b>T</b>,"4 x 10-8",,0.707,1.092,'-,[1.06-1.12],ALDH7A1P4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:62642076
+rs10823829-<b>T</b>,"1 x 10-9",,0.718,0.91,'-,[0.88-0.94],CDH23,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:71706952
+rs111658701-<b>T</b>,"6 x 10-6",,0.949,1.356,'-,[1.22-1.49],"SMIM29, RPL35P2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:34260788
+rs111447985-<b>A</b>,"2 x 10-8",,0.073,1.172,'-,[1.12-1.23],STN1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:103918153
+rs58164562-<b>T</b>,"3 x 10-12",,0.748,0.892,'-,[0.86-0.92],BBIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:110904356
+rs3750996-<b>A</b>,"2 x 10-12",,0.834,1.167,'-,[1.12-1.21],STIM1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:4091970
+rs77885959-<b>T</b>,"3 x 10-17",,0.978,1.694,'-,[1.57-1.82],GTF2H1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:18340835
+rs2732540-<b>A</b>,"1 x 10-20",,0.224,0.847,'-,[0.81-0.88],"PDHX, CD44","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:35073939
+rs10896045-<b>A</b>,"7 x 10-26",,0.551,1.168,'-,[1.14-1.2],OVOL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:65788053
+rs2317230-<b>T</b>,"5 x 10-10",(conditional),0.392,1.102,'-,[1.07-1.13],"VDAC1P9, FCRL3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:157705207
+rs844646-<b>A</b>,"8 x 10-14",(conditional),0.824,0.864,'-,[0.82-0.9],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:173247234
+rs57634688-<b>T</b>,"2 x 10-9",(conditional),0.366,1.109,'-,[1.08-1.14],LEF1-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:108190649
+rs75460055-<b>T</b>,"5 x 10-18",(conditional),0.039,0.47,'-,[0.3-0.64],"HCG4B, MCCD1P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:29921473
+rs534723171-<b>T</b>,"2 x 10-30",(conditional),0.061,2.735,'-,[2.56-2.91],HLA-A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:29942046
+rs2523968-<b>A</b>,"4 x 10-12",(conditional),0.429,1.132,'-,[1.1-1.17],MICD,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:29971371
+rs1264585-<b>A</b>,"1 x 10-13",(conditional),0.233,1.206,'-,[1.16-1.25],"HCG17, HCG18","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:30317873
+rs3131933-<b>T</b>,"7 x 10-9",(conditional),0.808,0.891,'-,[0.85-0.93],"NAPGP2, MUC21","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:30966087
+rs75881311-<b>A</b>,"3 x 10-13",(conditional),0.082,1.279,'-,[1.21-1.35],PSORS1C1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31134496
+rs112262437-<b>C</b>,"2 x 10-27",(conditional),0.994,6.006,'-,[5.68-6.33],"RPL3P2, USP8P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31279629
+rs111743557-<b>T</b>,"2 x 10-18",(conditional),0.888,0.729,'-,[0.66-0.8],"LINC02571, HLA-B","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31331721
+rs2523483-<b>T</b>,"3 x 10-11",(conditional),0.939,4.665,'-,[4.53-4.8],"HLA-S, MICA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31386015
+rs28359827-<b>A</b>,"2 x 10-71",(conditional),0.077,2.916,'-,[2.8-3.03],"MICA, HLA-S","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31392867
+rs2516465-<b>T</b>,"6 x 10-48",(conditional),0.095,2.113,'-,[2.01-2.21],"LINC01149, HCP5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31447129
+rs542914466-<b>A</b>,"2 x 10-37",(conditional),0.009,18.321,'-,[17.88-18.77],"AIF1, UQCRHP1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31613260
+rs113720465-<b>A</b>,"6 x 10-30",(conditional),0.052,0.447,'-,[0.31-0.59],"CYP21A2, C4B-AS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32037578
+rs7774739-<b>A</b>,"1 x 10-10",(conditional),0.993,0.483,'-,[0.26-0.7],"CYP21A2, TNXB","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32041524
+rs146280229-<b>C</b>,"1 x 10-11",(conditional),0.007,1.815,'-,[1.64-1.99],TNXB,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32049830
+rs145396511-<b>T</b>,"5 x 10-9",(conditional),0.989,1.574,'-,[1.42-1.72],"TSBP1, TSBP1-AS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32331681
+rs146003878-<b>A</b>,"5 x 10-11",(conditional),0.016,1.678,'-,[1.52-1.83],TSBP1-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32389462
+rs9268486-<b>T</b>,"8 x 10-27",(conditional),0.248,1.384,'-,[1.33-1.44],"TSBP1-AS1, BTNL2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32400783
+rs574027387-<b>A</b>,"3 x 10-23",(conditional),0.673,1.376,'-,[1.31-1.44],"TSBP1-AS1, HLA-DRA","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32411537
+rs116352702-<b>A</b>,"8 x 10-18",(conditional),0.954,0.543,'-,[0.4-0.68],"HLA-DQA1, HLA-DRB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32626884
+rs9273190-<b>A</b>,"1 x 10-54",(conditional),0.364,1.79,'-,[1.72-1.86],HLA-DQA1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32645641
+rs140780894-<b>T</b>,"4 x 10-19",(conditional),0.224,1.41,'-,[1.34-1.48],"HLA-DQB1, HLA-DQA1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32657607
+rs9274384-<b>A</b>,"5 x 10-31",(conditional),0.727,1.415,'-,[1.36-1.47],HLA-DQB1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32664858
+rs34723256-<b>A</b>,"4 x 10-68",(conditional),0.059,2.282,'-,[2.19-2.37],"MTCO3P1, HLA-DQB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32690917
+rs113523948-<b>C</b>,"3 x 10-21",(conditional),0.063,0.578,'-,[0.46-0.69],"MTCO3P1, HLA-DQB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32695381
+rs36030018-<b>C</b>,"3 x 10-36",(conditional),0.109,1.586,'-,[1.51-1.66],"HLA-DQB1, MTCO3P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32700187
+rs9275599-<b>T</b>,"2 x 10-16",(conditional),0.032,1.585,'-,[1.48-1.69],"HLA-DQB3, MTCO3P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32714652
+rs11426605-<b>T</b>,"3 x 10-15",(conditional),0.966,0.648,'-,[0.54-0.76],"HLA-DQB3, HLA-DQA2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32740588
+rs144227975-<b>CTTT</b>,"4 x 10-15",(conditional),0.665,0.864,'-,[0.83-0.9],"HLA-DQB2, HLA-DOB","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32810139
+rs118048475-<b>T</b>,"4 x 10-15",(conditional),0.975,2.302,'-,[2.09-2.51],HIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:75628053
+rs144104218-<b>A</b>,"2 x 10-30",,0.31,0.833,'-,[0.8-0.86],TIMMDC1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,3:119518880
+rs116785379-<b>C</b>,"7 x 10-16",,0.107,1.211,'-,[1.16-1.26],ETV3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:157138367
+rs13101828-<b>A</b>,"8 x 10-10",,0.61,0.91,'-,[0.88-0.94],DGKQ,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:971932
+rs231694-<b>T</b>,"1 x 10-8",,0.38,1.111,'-,[1.08-1.15],FAM193A,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:2699117
+rs113284964-<b>G</b>,"1 x 10-16",,0.371,1.134,'-,[1.1-1.16],"RHOH, LINC02265","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:40305571
+rs6533951-<b>A</b>,"1 x 10-10",,0.35,1.111,'-,[1.08-1.14],"LINC01094, BMP2K","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:78723125
+rs2867700-<b>A</b>,"6 x 10-8",,0.833,1.113,'-,[1.07-1.15],"PRDM8, RPSAP39","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:80163195
+rs11099582-<b>A</b>,"1 x 10-9",,0.266,1.103,'-,[1.07-1.13],"PLAC8, COQ2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:83221591
+rs144261754-<b>T</b>,"3 x 10-10",,0.29,0.899,'-,[0.87-0.93],AFF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:86983537
+rs4643809-<b>T</b>,"4 x 10-24",,0.305,0.846,'-,[0.81-0.88],BANK1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:101834942
+rs956237-<b>A</b>,"4 x 10-11",,0.32,1.107,'-,[1.08-1.14],LEF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,4:108125804
+rs7725218-<b>A</b>,"2 x 10-17",,0.391,1.132,'-,[1.1-1.16],TERT,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:1282299
+rs2544920-<b>A</b>,"9 x 10-10",,0.226,1.122,'-,[1.08-1.16],"ST8SIA4, RN7SKP62","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:100805670
+rs370449198-<b>A</b>,"4 x 10-8",,0.922,0.721,'-,[0.6-0.84],FNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:131784646
+rs2549002-<b>A</b>,"2 x 10-10",,0.682,0.905,'-,[0.87-0.94],IRF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:132493886
+rs6874758-<b>C</b>,"4 x 10-14",,0.073,1.238,'-,[1.18-1.29],"TCF7, VDAC1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:134093501
+rs10207954-<b>A</b>,"2 x 10-12",,0.823,1.145,'-,[1.11-1.18],TET3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:73989388
+rs10036748-<b>T</b>,"6 x 10-26",,0.76,1.194,'-,[1.16-1.23],TNIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:151078585
+rs218174-<b>A</b>,"2 x 10-13",,0.379,1.121,'-,[1.09-1.15],"MANEALP1, DARS1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:135900775
+rs11679244-<b>A</b>,"3 x 10-8",,0.153,1.119,'-,[1.08-1.16],FAP,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:162225885
+rs11889341-<b>T</b>,"5 x 10-123",,0.348,1.407,'-,[1.38-1.43],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:191079016
+rs11684176-<b>T</b>,"2 x 10-14",,0.25,1.146,'-,[1.11-1.18],PLCL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:198090050
+rs7565158-<b>T</b>,"3 x 10-10",,0.45,1.096,'-,[1.07-1.13],LINC01878,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:212729246
+rs2371790-<b>A</b>,"6 x 10-9",,0.224,1.107,'-,[1.07-1.14],IKZF2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:213019942
+rs438613-<b>T</b>,"8 x 10-9",,0.588,0.92,'-,[0.89-0.95],LINC01967,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,3:28030595
+rs7637844-<b>A</b>,"1 x 10-8",,0.871,0.877,'-,[0.83-0.92],"LINC00877, LINC00870","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,3:72176765
+rs9651076-<b>A</b>,"3 x 10-13",,0.431,1.117,'-,[1.09-1.15],"LINC01762, CD58","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:116500680
+rs1317082-<b>A</b>,"2 x 10-11",,0.43,1.102,'-,[1.07-1.13],MYNN,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,3:169779797
+rs112806509-<b>A</b>,"2 x 10-15",,0.097,0.812,'-,[0.76-0.86],FCRL5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:157532226
+rs12120358-<b>A</b>,"3 x 10-11",,0.893,0.842,'-,[0.79-0.89],"FCGR2A, RNU6-481P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:161474579
+rs76107698-<b>C</b>,"2 x 10-30",,0.254,0.788,'-,[0.75-0.83],FCGR2C,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:161600039
+rs2205960-<b>T</b>,"3 x 10-90",,0.265,1.368,'-,[1.34-1.4],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:173222336
+rs2039982-<b>T</b>,"2 x 10-37",,0.656,1.242,'-,[1.21-1.28],PRDX6-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:173390048
+rs13306575-<b>A</b>,"2 x 10-14",,0.047,1.311,'-,[1.24-1.38],"NCF2, SMG7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:183563302
+rs4143303-<b>A</b>,"4 x 10-9",,0.14,0.88,'-,[0.84-0.92],PTPRC,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:198701340
+rs3806357-<b>A</b>,"4 x 10-9",,0.251,1.106,'-,[1.07-1.14],"ELF3-AS1, ELF3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:202010327
+rs4844538-<b>A</b>,"2 x 10-10",,0.713,1.109,'-,[1.08-1.14],"IKBKE, SRGAP2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:206469377
+rs75362385-<b>T</b>,"8 x 10-13",,0.321,0.887,'-,[0.85-0.92],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:7432948
+rs7579944-<b>T</b>,"1 x 10-20",,0.62,0.876,'-,[0.85-0.9],"H3P5, LBH","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:30222160
+rs13385731-<b>T</b>,"1 x 10-33",,0.86,1.287,'-,[1.25-1.33],RASGRP3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:33476823
+rs11684155-<b>T</b>,"3 x 10-10",,0.775,0.892,'-,[0.86-0.93],SPRED2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:65354166
+rs138305363-<b>A</b>,"4 x 10-8",,0.98,0.622,'-,[0.45-0.79],UBE2B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:134379182
+rs73954925-<b>C</b>,"5 x 10-11",,0.878,1.169,'-,[1.12-1.22],"BCL2L11, ACOXL, MIR4435-2HG","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:111119597
+rs2421184-<b>A</b>,"6 x 10-12",,0.497,1.106,'-,[1.08-1.14],LINC01845,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:159459931
+rs2431697-<b>T</b>,"1 x 10-28",,0.833,1.241,'-,[1.2-1.28],MIR3142HG,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:160452971
+rs9503037-<b>A</b>,"1 x 10-15",,0.693,0.881,'-,[0.85-0.91],"DUSP22, CICP18","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:243302
+rs79774308-<b>A</b>,"6 x 10-10",,0.96,1.452,'-,[1.33-1.57],"CMAHP, CARMIL1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:25410794
+rs9295676-<b>T</b>,"8 x 10-11",,0.598,1.105,'-,[1.08-1.13],SLC17A2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:25928148
+rs77285596-<b>T</b>,"2 x 10-19",,0.917,1.362,'-,[1.3-1.43],ZSCAN23,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:28442366
+rs1033568-<b>A</b>,"1 x 10-6",,0.429,1.081,'-,[1.05-1.11],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,"Mapping not available"
+rs111994823-<b>T</b>,"3 x 10-11",,0.964,1.409,'-,[1.31-1.51],"FCGR2A, RNU6-481P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:161500484
+rs75773410-<b>A</b>,"4 x 10-15",,0.923,0.774,'-,[0.71-0.84],"FCGR2B, FCGR3B","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:161656008
+rs117278480-<b>A</b>,"2 x 10-52",,0.913,0.649,'-,[0.59-0.7],TNFSF4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:173241650
+rs66977652-<b>T</b>,"8 x 10-11",,0.623,0.907,'-,[0.88-0.94],"SMG7, NCF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,1:183571081
+rs71403211-<b>T</b>,"3 x 10-49",,0.884,1.462,'-,[1.41-1.51],STAT4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,2:191084261
+rs115267018-<b>C</b>,"9 x 10-11",,0.134,0.85,'-,[0.8-0.9],"VDAC1, TCF7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,5:134085418
+rs4458721-<b>T</b>,"3 x 10-10",,0.249,1.181,'-,[1.13-1.23],"HCP5, LINC01149","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31448075
+rs3115674-<b>T</b>,"1 x 10-8",,0.983,0.652,'-,[0.51-0.8],"SNHG32, HSPA1B","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:31831299
+rs554383943-<b>C</b>,"2 x 10-13",,0.986,3.634,'-,[3.29-3.98],CYP21A1P,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32007481
+rs9281714-<b>T</b>,"2 x 10-6",,0.974,1.419,'-,[1.28-1.56],TSBP1-AS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32286483
+rs9268989-<b>A</b>,"6 x 10-14",,0.378,0.856,'-,[0.81-0.9],HLA-DRB9,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32467772
+rs9269029-<b>A</b>,"2 x 10-8",,0.176,0.866,'-,[0.82-0.92],HLA-DRB9,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32469767
+rs34452045-<b>G</b>,"3 x 10-31",,0.145,0.694,'-,[0.63-0.75],"HLA-DRB5, HLA-DRB9","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32474342
+chr6:32449301-<b>?</b>,"8 x 10-37",,0.128,0.616,'-,[0.54-0.69],'-,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,"Mapping not available"
+rs9269207-<b>T</b>,"6 x 10-48",,0.622,0.754,'-,[0.72-0.79],"HLA-DRB5, HLA-DRB9","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32482119
+rs9269233-<b>A</b>,"3 x 10-11",,0.23,1.17,'-,[1.12-1.22],"HLA-DRB5, HLA-DRB9","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32483985
+rs9270371-<b>T</b>,"4 x 10-6",,0.306,0.886,'-,[0.84-0.94],"HLA-DRB1, HLA-DQA1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32590413
+rs2647078-<b>C</b>,"9 x 10-21",,0.806,0.803,'-,[0.76-0.85],"HLA-DQA1, HLA-DRB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32598319
+rs1966002-<b>T</b>,"8 x 10-31",,0.454,1.337,'-,[1.29-1.39],"HLA-DQA1, HLA-DRB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32613907
+rs189311301-<b>C</b>,"3 x 10-10",,0.991,2.233,'-,[1.98-2.48],"MTCO3P1, HLA-DQB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32688139
+rs17206287-<b>A</b>,"2 x 10-12",,0.858,1.2,'-,[1.15-1.25],MTCO3P1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32706948
+rs3135461-<b>A</b>,"2 x 10-39",,0.841,0.726,'-,[0.68-0.77],"HLA-DQB3, MTCO3P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32712345
+rs574879686-<b>A</b>,"1 x 10-6",,0.018,0.701,'-,[0.56-0.84],"HLA-DQB2, HLA-DOB","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:32781712
+rs115910061-<b>T</b>,"5 x 10-12",,0.059,0.721,'-,[0.63-0.81],"HLA-DPA1, HLA-DPB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:33076238
+rs56285849-<b>T</b>,"9 x 10-8",,0.956,1.35,'-,[1.24-1.46],"RAB44, CPNE5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:36736516
+rs75163761-<b>T</b>,"5 x 10-24",,0.042,1.631,'-,[1.54-1.73],WAKMAR2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,6:137836352
+rs10239000-<b>A</b>,"2 x 10-25",,0.242,1.189,'-,[1.16-1.22],IKZF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:50292600
+rs372942110-<b>T</b>,"6 x 10-9",,0.008,2.294,'-,[2.02-2.57],LAT2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74214690
+rs78290495-<b>T</b>,"2 x 10-6",,0.965,0.799,'-,[0.71-0.89],"CLIP2, RFC2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74283211
+rs530634980-<b>T</b>,"5 x 10-18",,0.016,2.016,'-,[1.86-2.17],GTF2IRD1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74495911
+rs13244581-<b>C</b>,"2 x 10-20",,0.092,0.667,'-,[0.58-0.75],GTF2IRD1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74580705
+rs116991837-<b>A</b>,"4 x 10-15",,0.016,2.654,'-,[2.41-2.9],GTF2IRD1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74589381
+rs150724213-<b>A</b>,"3 x 10-15",,0.01,3.882,'-,[3.55-4.22],"GTF2IRD1, GTF2I","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74606017
+rs7800325-<b>T</b>,"1 x 10-280",,0.826,0.449,'-,[0.41-0.49],"GTF2IRD1, GTF2I","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74618332
+rs67955681-<b>T</b>,"4 x 10-10",,0.157,0.849,'-,[0.8-0.9],"GTF2IRD1, GTF2I","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74625354
+rs68008267-<b>T</b>,"3 x 10-12",,0.025,1.406,'-,[1.31-1.5],GTF2I,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74673141
+rs79171842-<b>A</b>,"3 x 10-23",,0.99,0.405,'-,[0.23-0.58],GTF2I,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74684288
+rs143176121-<b>T</b>,"2 x 10-66",,0.98,0.292,'-,[0.15-0.43],GTF2I,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74694107
+rs587680541-<b>T</b>,"4 x 10-62",,0.014,4.14,'-,[3.97-4.31],NCF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74781289
+rs199789198-<b>A</b>,"3 x 10-194",,0.073,3.098,'-,[3.02-3.17],NCF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:74781840
+rs794368-<b>A</b>,"2 x 10-26",,0.567,1.185,'-,[1.15-1.22],HIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:75556681
+rs4573208-<b>A</b>,"2 x 10-15",,0.149,1.173,'-,[1.13-1.21],HIP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:75649229
+rs41298401-<b>C</b>,"5 x 10-45",,0.785,1.294,'-,[1.26-1.33],IRF5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:128938253
+rs78724056-<b>T</b>,"2 x 10-32",,0.039,1.596,'-,[1.52-1.67],TNPO3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,7:129013997
+rs7072606-<b>T</b>,"2 x 10-12",,0.809,0.884,'-,[0.85-0.92],WDFY4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,10:48725929
+rs11032994-<b>A</b>,"1 x 10-17",,0.256,1.147,'-,[1.12-1.18],"PDHX, CD44","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,11:35089610
+rs10845602-<b>A</b>,"6 x 10-31",,0.71,1.21,'-,[1.18-1.24],GPR19,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,12:12672303
+rs447632-<b>A</b>,"7 x 10-28",,0.495,0.851,'-,[0.82-0.88],"LINC02132, IRF8","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,16:85934034
+rs3794986-<b>T</b>,"1 x 10-14",,0.428,0.89,'-,[0.86-0.92],"SIGLEC6, SIGLEC29P","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,19:51544061
+rs4830478-<b>A</b>,"2 x 10-9",,0.797,1.136,'-,[1.09-1.18],"TLR8-AS1, TLR7","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011956,X:12900169
+rs73366469-<b>C</b>,"2 x 10-26",,0.18,2.62,'-,[2.44-2.80],"GTF2I, GTF2IRD1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90014238,7:74619286
+rs2362475-<b>A</b>,"7 x 10-7",,NR,0.9,'-,[0.86-0.94],"KLF2, EPS15L1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011493,19:16329024
+rs10082873-<b>G</b>,"4 x 10-8",,NR,0.89,'-,[0.85-0.93],"C12orf42, LINC02401","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011493,12:103511597
+rs4807205-<b>G</b>,"8 x 10-9",,NR,1.12,'-,[1.08-1.16],DOT1L,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011493,19:2167879
+rs11755393-<b>A</b>,"2 x 10-12",,NR,0.87,'-,[0.83-0.91],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011493,6:34856859
+rs4713853-<b>A</b>,"3 x 10-12",,NR,1.18,'-,[1.13-1.23],PPARD,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011493,6:35359578
+rs12153670-<b>G</b>,"8 x 10-10",,NR,1.15,'-,[1.11-1.19],ST8SIA4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011493,5:100836660
+rs4807205-<b>G</b>,"3 x 10-6",,0.467,1.14,'-,[1.09-1.19],DOT1L,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011492,19:2167879
+rs11755393-<b>A</b>,"2 x 10-6",,0.65,0.87,'-,[0.81-0.93],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011492,6:34856859
+rs12153670-<b>G</b>,"2 x 10-6",,0.314,1.15,'-,[1.09-1.21],ST8SIA4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011492,5:100836660
+rs2362475-<b>A</b>,"2 x 10-9",,0.467,0.85,'-,[0.8-0.9],"KLF2, EPS15L1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011491,19:16329024
+rs73366469-<b>C</b>,"3 x 10-81",,0.18,2.52,'-,[2.43-2.61],"GTF2I, GTF2IRD1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011491,7:74619286
+rs11755393-<b>A</b>,"1 x 10-7",,0.523,0.87,'-,[0.82-0.92],UHRF1BP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011491,6:34856859
+rs4713853-<b>A</b>,"2 x 10-8",,0.33,1.17,'-,[1.12-1.22],PPARD,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011491,6:35359578
+rs9630991-<b>A</b>,"7 x 10-9",,NR,0.851,'-,[0.8-0.91],"RN7SKP179, NAB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,2:190567413
+rs12148050-<b>G</b>,"1 x 10-6",,NR,0.869,'-,[0.81-0.93],TRAF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,14:102797451
+rs9899849-<b>A</b>,"1 x 10-8",,NR,1.209,'-,[1.14-1.27],"ACAP1, NEURL4","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,17:7331664
+rs13344313-<b>A</b>,"2 x 10-6",,NR,0.862,'-,[0.8-0.92],"SSBP4, LRRC25","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,19:18406957
+rs10419308-<b>A</b>,"2 x 10-7",,NR,0.827,'-,[0.75-0.9],TMEM86B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,19:55228445
+rs1016140-<b>T</b>,"1 x 10-8",,NR,0.89,'-,[0.85-0.93],"CD58, NAP1L4P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:116533925
+rs10419308-<b>A</b>,"4 x 10-8",,NR,0.84,'-,[0.78-0.9],TMEM86B,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,19:55228445
+rs10999979-<b>A</b>,"5 x 10-8",,NR,1.17,'-,[1.12-1.22],CDH23,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,10:71741309
+rs11264750-<b>G</b>,"9 x 10-13",,NR,0.75,'-,[0.67-0.83],FCRL5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:157527370
+rs11679484-<b>A</b>,"6 x 10-8",,NR,1.12,'-,[1.08-1.16],PLCL1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,2:198056880
+rs12093154-<b>A</b>,"3 x 10-9",,NR,0.84,'-,[0.78-0.9],C1QTNF12,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:1243545
+rs12148050-<b>G</b>,"3 x 10-8",,NR,0.91,'-,[0.87-0.95],TRAF3,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,14:102797451
+rs13260060-<b>A</b>,"8 x 10-8",,NR,0.9,'-,[0.86-0.94],NCOA2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,8:70306125
+rs13344313-<b>A</b>,"1 x 10-10",,NR,0.86,'-,[0.81-0.91],"SSBP4, LRRC25","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,19:18406957
+rs1405209-<b>C</b>,"2 x 10-8",,NR,1.11,'-,[1.07-1.15],"STX17-AS1, NR4A3","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,9:99823263
+rs1547624-<b>T</b>,"2 x 10-7",,NR,1.13,'-,[1.08-1.18],RGS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:192574707
+rs1885889-<b>G</b>,"2 x 10-13",,NR,0.87,'-,[0.83-0.91],"CCR12P, TM9SF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,13:99439046
+rs2381401-<b>T</b>,"2 x 10-9",,NR,1.15,'-,[1.1-1.2],ARHGAP15,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,2:143263405
+rs2384991-<b>C</b>,"5 x 10-8",,NR,1.11,'-,[1.07-1.15],"IQCN, JUND","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,19:18275824
+rs2445610-<b>G</b>,"3 x 10-7",,NR,0.91,'-,[0.87-0.95],"CASC19, PCAT1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,8:127184843
+rs28411034-<b>A</b>,"2 x 10-10",,NR,0.86,'-,[0.81-0.91],MTF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:37811325
+rs3087243-<b>A</b>,"2 x 10-8",,NR,0.89,'-,[0.85-0.93],"CTLA4, ICOS","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,2:203874196
+rs3760667-<b>T</b>,"2 x 10-9",,NR,0.87,'-,[0.82-0.92],SLC6A16,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,19:49311575
+rs3795310-<b>T</b>,"3 x 10-8",,NR,0.88,'-,[0.83-0.93],RERE,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:8371547
+rs405858-<b>T</b>,"2 x 10-9",,NR,0.89,'-,[0.85-0.93],ANKRD27,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,19:32615715
+rs12093154-<b>A</b>,"4 x 10-6",,NR,0.844,'-,[0.77-0.92],C1QTNF12,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,1:1243545
+rs28411034-<b>A</b>,"6 x 10-6",,NR,0.859,'-,[0.79-0.92],MTF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,1:37811325
+rs1016140-<b>T</b>,"3 x 10-10",,NR,0.87,'-,[0.83-0.91],"CD58, NAP1L4P1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,1:116533925
+rs11264750-<b>G</b>,"2 x 10-12",,NR,0.751,'-,[0.67-0.83],FCRL5,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,1:157527370
+rs12132445-<b>A</b>,"7 x 10-8",,NR,1.171,'-,[1.11-1.23],MROH9,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,1:170842658
+rs1547624-<b>T</b>,"5 x 10-8",,NR,1.172,'-,[1.12-1.23],RGS1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,1:192574707
+rs2381401-<b>T</b>,"1 x 10-7",,NR,1.179,'-,[1.12-1.24],ARHGAP15,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,2:143263405
+rs9630991-<b>A</b>,"3 x 10-6",,NR,0.85,'-,[0.78-0.92],"RN7SKP179, NAB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,2:190567413
+rs3087243-<b>A</b>,"6 x 10-6",,NR,0.879,'-,[0.82-0.94],"CTLA4, ICOS","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,2:203874196
+rs438613-<b>C</b>,"6 x 10-8",,NR,1.125,'-,[1.08-1.17],LINC01967,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,3:28030595
+rs6927090-<b>T</b>,"3 x 10-10",,NR,1.233,'-,[1.17-1.3],DUSP22,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,6:252145
+rs9387400-<b>A</b>,"3 x 10-8",,NR,0.743,'-,[0.64-0.85],DSE,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,6:116372957
+rs13260060-<b>A</b>,"2 x 10-8",,NR,0.889,'-,[0.85-0.93],NCOA2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,8:70306125
+rs2445610-<b>G</b>,"5 x 10-8",,NR,0.886,'-,[0.84-0.93],"CASC19, PCAT1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,8:127184843
+rs7815944-<b>G</b>,"2 x 10-9",,NR,0.862,'-,[0.81-0.91],LINC00824,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,8:128415272
+rs4745876-<b>A</b>,"1 x 10-6",,NR,0.876,'-,[0.82-0.93],ALDH7A1P4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,10:62665366
+rs10999979-<b>A</b>,"1 x 10-7",,NR,1.163,'-,[1.11-1.22],CDH23,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,10:71741309
+rs7975703-<b>T</b>,"1 x 10-6",,NR,0.869,'-,[0.81-0.93],CABP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,12:120661499
+rs76725306-<b>A</b>,"1 x 10-6",,NR,1.15,'-,[1.09-1.21],"RCBTB1, ARL11","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,13:49603317
+rs1885889-<b>G</b>,"8 x 10-10",,NR,0.87,'-,[0.82-0.92],"CCR12P, TM9SF2","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,13:99439046
+rs405858-<b>T</b>,"2 x 10-8",,NR,0.872,'-,[0.82-0.92],ANKRD27,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,19:32615715
+rs3760667-<b>T</b>,"1 x 10-6",,NR,0.863,'-,[0.8-0.92],SLC6A16,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST90011866,19:49311575
+rs3795310-<b>T</b>,"8 x 10-6",,NR,0.882,'-,[0.83-0.94],RERE,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,1:8371547
+rs28411034-<b>A</b>,"6 x 10-6",,NR,0.866,'-,[0.8-0.93],MTF1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,1:37811325
+rs6702599-<b>C</b>,"2 x 10-8",,NR,0.821,'-,[0.75-0.89],IL12RB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011097,1:67359716
+rs438613-<b>C</b>,"1 x 10-8",,NR,1.1,'-,[1.07-1.13],LINC01967,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,3:28030595
+rs4690055-<b>A</b>,"5 x 10-8",,NR,0.91,'-,[0.87-0.95],TNIP2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,4:2746936
+rs4697651-<b>T</b>,"6 x 10-8",,NR,0.88,'-,[0.83-0.93],"LINC02498, CLNK","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,4:10719809
+rs4745876-<b>A</b>,"4 x 10-8",,NR,0.88,'-,[0.83-0.93],ALDH7A1P4,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,10:62665366
+rs4978037-<b>C</b>,"6 x 10-8",,NR,1.12,'-,[1.08-1.16],"IFNA17, IFNWP5","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,9:21228424
+rs549669428-<b>G</b>,"5 x 10-8",,NR,0.84,'-,[0.78-0.9],RABGAP1L,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:174925885
+rs6074813-<b>T</b>,"3 x 10-8",,NR,1.12,'-,[1.08-1.16],"SIRPB1, SIRPD","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,20:1561106
+rs6702599-<b>C</b>,"3 x 10-9",,NR,0.84,'-,[0.78-0.9],IL12RB2,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,1:67359716
+rs6871748-<b>C</b>,"4 x 10-8",,NR,0.89,'-,[0.85-0.93],"IL7R, CAPSL","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,5:35885880
+rs76725306-<b>A</b>,"4 x 10-8",,NR,1.16,'-,[1.11-1.21],"RCBTB1, ARL11","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,13:49603317
+rs7815944-<b>G</b>,"2 x 10-9",,NR,0.87,'-,[0.82-0.92],LINC00824,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,8:128415272
+rs7975703-<b>T</b>,"3 x 10-8",,NR,0.88,'-,[0.84-0.92],CABP1,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,12:120661499
+rs869310-<b>G</b>,"2 x 10-8",,NR,0.88,'-,[0.83-0.93],"HMG20A, LINGO1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,15:77537964
+rs9387400-<b>A</b>,"6 x 10-6",,NR,0.89,'-,[0.84-0.94],DSE,"Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,6:116372957
+rs9630991-<b>A</b>,"1 x 10-13",,NR,0.85,'-,[0.81-0.89],"RN7SKP179, NAB1","Systemic lupus erythematosus","systemic lupus erythematosus",'-,GCST011096,2:190567413
+rs1439112-<b>?</b>,"7 x 10-9",,NR,1.1409012,'-,'-,MGAT5,"Chronic lymphocytic leukemia or systemic lupus erythematosus","systemic lupus erythematosus, chronic lymphocytic leukemia",'-,GCST008727,2:134305027
+rs13069553-<b>?</b>,"2 x 10-9",,NR,1.1627907,'-,'-,"MYNN, LRRC34","Chronic lymphocytic leukemia or systemic lupus erythematosus","systemic lupus erythematosus, chronic lymphocytic leukemia",'-,GCST008727,3:169790484
+rs10069690-<b>T</b>,"5 x 10-9",,NR,1.1573,'-,'-,TERT,"Chronic lymphocytic leukemia or systemic lupus erythematosus","systemic lupus erythematosus, chronic lymphocytic leukemia",'-,GCST008727,5:1279675
+rs7941765-<b>?</b>,"1 x 10-8",,NR,1.1280316,'-,'-,"FLI1, ETS1","Chronic lymphocytic leukemia or systemic lupus erythematosus","systemic lupus erythematosus, chronic lymphocytic leukemia",'-,GCST008727,11:128629105
+rs1444766-<b>G</b>,"1 x 10-8",,NR,1.1384,'-,'-,KALRN,"Diffuse large B-cell lymphoma or systemic lupus erythematosus","diffuse large B-cell lymphoma, systemic lupus erythematosus",'-,GCST008728,3:124206424
+rs1439112-<b>?</b>,"3 x 10-8",,NR,1.1698643,'-,'-,MGAT5,"Marginal zone lymphoma or systemic lupus erythematosus","marginal zone B-cell lymphoma, systemic lupus erythematosus",'-,GCST008729,2:134305027
+rs1444766-<b>G</b>,"2 x 10-8",,NR,1.1692,'-,'-,KALRN,"Marginal zone lymphoma or systemic lupus erythematosus","marginal zone B-cell lymphoma, systemic lupus erythematosus",'-,GCST008729,3:124206424
+rs7382170-<b>?</b>,"6 x 10-8",,NR,1.1456066,'-,'-,'-,"Marginal zone lymphoma or systemic lupus erythematosus","marginal zone B-cell lymphoma, systemic lupus erythematosus",'-,GCST008729,6:16970739
+rs2941509-<b>T</b>,"2 x 10-8",,NR,1.4118,'-,'-,IKZF3,"Marginal zone lymphoma or systemic lupus erythematosus","marginal zone B-cell lymphoma, systemic lupus erythematosus",'-,GCST008729,17:39764941
+rs9603612-<b>?</b>,"3 x 10-13","(same effect)",'-,1.098901,'-,[NR],COG6,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,13:39760715
+rs4921283-<b>?</b>,"1 x 10-7","(same effect)",'-,1.0752687,'-,[NR],MIR3142HG,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,5:160443604
+rs2476601-<b>?</b>,"2 x 10-35","(same effect)",'-,1.61,'-,[NR],PTPN22,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,1:113834946
+rs6568431-<b>?</b>,"1 x 10-7","(same effect)",'-,1.14,'-,[NR],ATG5,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,6:106140931
+rs5029924-<b>?</b>,"2 x 10-19","(same effect)",'-,1.74,'-,[NR],WAKMAR2,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,6:137866361
+rs12531711-<b>?</b>,"1 x 10-23","(same effect)",'-,1.45,'-,[NR],TNPO3,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,7:128977412
+rs2736340-<b>?</b>,"9 x 10-12","(same effect)",'-,1.21,'-,[NR],"BLK, FAM167A","Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,8:11486464
+rs7258015-<b>?</b>,"3 x 10-8","(same effect)",'-,1.18,'-,[NR],ICAM3,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,19:10338682
+rs2283790-<b>?</b>,"2 x 10-11","(same effect)",'-,1.22,'-,[NR],UBE2L3,"Systemic lupus erythematosus or rheumatoid arthritis","rheumatoid arthritis, systemic lupus erythematosus",'-,GCST003620,22:21602364
+rs7460469-<b>A</b>,"1 x 10-8",,0.03,5.58,'-,[3.09-10.10],XKR6,"Childhood onset systemic lupus erythematosus","age at onset, systemic lupus erythematosus",'-,GCST006260,8:11169932
+rs7300146-<b>C</b>,"1 x 10-8",,0.17,2.85,'-,[1.98-4.10],GLT1D1,"Childhood onset systemic lupus erythematosus","age at onset, systemic lupus erythematosus",'-,GCST006260,12:128888528
+rs2275247-<b>?</b>,"1 x 10-10",(lcSSc),'-,1.51,'-,[NR],KIAA0319L,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,1:35442850
+rs10498070-<b>?</b>,"2 x 10-7",(lcSSc),'-,1.16,'-,[NR],"LINC01803, LINC02832","Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,2:219833404
+rs2176082-<b>?</b>,"5 x 10-11",(ACA),'-,1.21,'-,[NR],PXK,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,3:58345459
+rs3827644-<b>?</b>,"5 x 10-7",,'-,1.15,'-,[NR],ATG5,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,6:106237320
+rs1635852-<b>?</b>,"2 x 10-8",,'-,1.14,'-,[NR],JAZF1,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,7:28149792
+rs1133906-<b>?</b>,"2 x 10-7",(lcSSc),'-,1.21,'-,[NR],SAMD9L,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,7:93135669
+rs1355223-<b>?</b>,"4 x 10-6",(lcSSc),'-,1.12,'-,[NR],EHF,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,11:34742932
+rs704840-<b>?</b>,"4 x 10-7",,NR,1.182,'-,[NR],TNFSF4,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,1:173257056
+rs16860537-<b>?</b>,"5 x 10-6",(ACA),NR,1.496,'-,[NR],LAMC2,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,1:183211125
+rs7601754-<b>?</b>,"3 x 10-11",,NR,1.32,'-,[NR],STAT4,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,2:191075725
+rs960709-<b>?</b>,"2 x 10-8",,NR,1.212,'-,[NR],TNIP1,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,5:151081488
+rs1535001-<b>?</b>,"3 x 10-7",,NR,1.184,'-,[NR],ANKS1A,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,6:34959503
+rs10499197-<b>?</b>,"2 x 10-9",,NR,1.638,'-,[NR],"WAKMAR2, LINC02539","Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,6:137811379
+rs13239597-<b>?</b>,"1 x 10-29",,NR,1.664,'-,[NR],TPI1P2,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,7:129055929
+rs2736340-<b>?</b>,"1 x 10-8",,NR,1.217,'-,[NR],"BLK, FAM167A","Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,8:11486464
+rs2396545-<b>?</b>,"8 x 10-6",(ACA),NR,1.19,'-,[NR],PHRF1,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,11:601785
+rs7172677-<b>?</b>,"3 x 10-8",,NR,1.207,'-,[NR],"Metazoa_SRP, RPL36AP45","Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,15:75132252
+rs11860650-<b>?</b>,"1 x 10-10",,NR,1.319,'-,[NR],ITGAM,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,16:31315385
+rs12711490-<b>?</b>,"3 x 10-10",,NR,1.28,'-,[NR],LINC02132,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,16:85939422
+rs9303277-<b>?</b>,"7 x 10-6",(ACA),NR,1.191,'-,[NR],IKZF3,"Systemic lupus erythematosus and Systemic sclerosis","systemic scleroderma, systemic lupus erythematosus",'-,GCST002069,17:39820216
+rs6659932-<b>?</b>,"6 x 10-11",,NR,1.1764705,'-,[1.1-0.01],IL12RB2,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,1:67336688
+rs6679677-<b>A</b>,"2 x 10-28",,NR,1.34,'-,[1.21-1.49],"RSBN1, PHTF1","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,1:113761186
+rs2476601-<b>?</b>,"2 x 10-28",,NR,1.3333333,'-,[1.2-1.49],PTPN22,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,1:113834946
+rs1217393-<b>?</b>,"5 x 10-9",,NR,1.1235955,'-,[1.09-1.18],AP4B1-AS1,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,1:113891324
+rs2422345-<b>A</b>,"3 x 10-8",,NR,1.11,'-,[1.05-1.18],PRDX6-AS1,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,1:173368608
+rs17849502-<b>T</b>,"4 x 10-15",,NR,1.36,'-,[1.16-1.59],"NCF2, SMG7","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,1:183563445
+rs744600-<b>?</b>,"7 x 10-11",,NR,1.1363636,'-,[1.09-1.18],NAB1,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,2:190700031
+rs13389408-<b>C</b>,"3 x 10-17",,NR,1.27,'-,[1.20-1.34],STAT4,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,2:191068557
+rs10174238-<b>?</b>,"3 x 10-42",,NR,1.369863,'-,[1.25-1.49],STAT4,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,2:191108308
+rs35677470-<b>A</b>,"5 x 10-9",,NR,1.22,'-,[1.14-1.30],DNASE1L3,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,3:58197909
+rs112846137-<b>T</b>,"1 x 10-8",,NR,1.27,'-,[1.17-1.37],"ARL14, RPL6P8","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,3:160595133
+rs13101828-<b>G</b>,"1 x 10-8",,NR,1.11,'-,[1.07-1.16],DGKQ,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,4:971932
+rs4958880-<b>A</b>,"1 x 10-11",,NR,1.16,'-,[1.10-1.22],TNIP1,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,5:151058916
+rs2431098-<b>G</b>,"5 x 10-12",,NR,1.12,'-,[1.05-1.20],MIR3142HG,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,5:160460329
+rs802791-<b>?</b>,"4 x 10-12",,NR,1.1494253,'-,[1.09-1.2],ATG5,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,6:106121395
+rs58721818-<b>T</b>,"5 x 10-23",,NR,1.64,'-,[1.46-1.84],"TNFAIP3, LINC02528","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,6:137922602
+rs193107685-<b>C</b>,"3 x 10-9",,NR,1.52,'-,[1.27-1.83],"EIF4H, LIMK1","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,7:74123572
+rs10954214-<b>T</b>,"7 x 10-17",,NR,1.18,'-,[1.13-1.23],IRF5,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,7:128949579
+rs13238352-<b>T</b>,"1 x 10-38",,NR,1.44,'-,[1.30-1.60],TNPO3,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,7:129007888
+rs2736337-<b>C</b>,"5 x 10-22",,NR,1.23,'-,[1.17-1.30],"BLK, FAM167A","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,8:11484371
+rs7929541-<b>?</b>,"2 x 10-10",,NR,1.1235955,'-,[1.05-1.2],"DRD4, SCT","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,11:633689
+rs11066301-<b>T</b>,"4 x 10-8",,NR,1.11,'-,[1.07-1.15],PTPN11,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,12:112433568
+rs35929052-<b>?</b>,"2 x 10-9",,NR,1.2048193,'-,[1.14-1.28],LINC02132,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,16:85960878
+rs11085725-<b>?</b>,"3 x 10-10",,NR,1.1363636,'-,[1.09-1.2],TYK2,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,19:10351837
+rs76246107-<b>G</b>,"3 x 10-8",,NR,1.28,'-,[1.14-1.43],PRR12,"Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,19:49618017
+rs5754467-<b>G</b>,"1 x 10-13",,NR,1.2,'-,[1.13-1.27],"YDJC, CCDC116","Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies)","systemic scleroderma, rheumatoid arthritis, myositis, systemic lupus erythematosus",'-,GCST007278,22:21630805
+rs11580078-<b>G</b>,"8 x 10-11",,0.43,'-,'-,'-,"IL23R, C1orf141","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,1:67203951
+rs6679677-<b>A</b>,"8 x 10-11",,0.09,'-,'-,'-,"RSBN1, PHTF1","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,1:113761186
+rs34884278-<b>C</b>,"4 x 10-7",,0.3,'-,'-,'-,AIMP1P2,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,1:172869708
+rs6689858-<b>C</b>,"2 x 10-7",,0.29,'-,'-,'-,CRB1,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,1:197406337
+rs55705316-<b>G</b>,"1 x 10-6",,0.14,'-,'-,'-,"Y_RNA, IL10","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,1:206760172
+rs2075184-<b>T</b>,"9 x 10-8",,0.23,'-,'-,'-,"IL18RAP, SLC9A4","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,2:102464132
+rs36001488-<b>C</b>,"8 x 10-11",,0.48,'-,'-,'-,ATG16L1,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,2:233276621
+rs4676410-<b>A</b>,"2 x 10-7",,0.19,'-,'-,'-,GPR35,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,2:240624322
+rs4625-<b>G</b>,"8 x 10-11",,0.31,'-,'-,'-,DAG1,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,3:49534707
+rs62324212-<b>A</b>,"3 x 10-8",,0.42,'-,'-,'-,IL21-AS1,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,4:122639784
+rs7725052-<b>C</b>,"8 x 10-11",,0.43,'-,'-,'-,TTC33,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,5:40487168
+rs7731626-<b>A</b>,"1 x 10-10",,0.39,'-,'-,'-,ANKRD55,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,5:56148856
+rs4869313-<b>T</b>,"9 x 10-8",,0.42,'-,'-,'-,ERAP2,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,5:96888176
+rs11741255-<b>A</b>,"2 x 10-9",,0.42,'-,'-,'-,"IRF1-AS1, IRF1","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,5:132475490
+rs755374-<b>T</b>,"2 x 10-10",,0.32,'-,'-,'-,"LINC01845, IL12B","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,5:159402286
+rs36051895-<b>T</b>,"9 x 10-8",,0.29,'-,'-,'-,"JAK2, HNRNPA1P41","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,9:4981866
+rs4246905-<b>T</b>,"1 x 10-8",,0.28,'-,'-,'-,TNFSF15,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,9:114790969
+rs11145763-<b>C</b>,"3 x 10-8",,0.4,'-,'-,'-,CARD9,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,9:136369144
+rs706778-<b>T</b>,"6 x 10-9",,0.41,'-,'-,'-,IL2RA,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,10:6056986
+rs10822050-<b>C</b>,"8 x 10-11",,0.39,'-,'-,'-,ALDH7A1P4,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,10:62679011
+rs1250563-<b>C</b>,"1 x 10-8",,0.29,'-,'-,'-,ZMIZ1,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,10:79287626
+rs1332099-<b>T</b>,"9 x 10-11",,0.46,'-,'-,'-,"NKX2-3, SLC25A28","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,10:99538694
+rs17885785-<b>T</b>,"8 x 10-11",,0.2,'-,'-,'-,"IGF2-AS, INS-IGF2","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,11:2146620
+rs17466626-<b>G</b>,"3 x 10-10",,0.02,'-,'-,'-,LRRK2,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,12:40366829
+rs1689510-<b>C</b>,"4 x 10-9",,0.31,'-,'-,'-,SUOX,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,12:56002984
+rs72743477-<b>G</b>,"8 x 10-11",,0.21,'-,'-,'-,SMAD3,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,15:67171953
+rs12598357-<b>G</b>,"4 x 10-9",,0.39,'-,'-,'-,"NPIPB6, SBK1","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,16:28329624
+rs12928404-<b>C</b>,"6 x 10-7",,0.38,'-,'-,'-,ATXN2L,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,16:28835925
+rs117372389-<b>T</b>,"8 x 10-11",,0.02,'-,'-,'-,NKD1,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,16:50634166
+rs12232497-<b>C</b>,"3 x 10-7",,0.45,'-,'-,'-,"ZPBP2, GSDMB","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,17:39883866
+rs62131887-<b>T</b>,"4 x 10-7",,0.28,'-,'-,'-,"KEAP1, PDE4A","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,19:10476920
+rs602662-<b>G</b>,"5 x 10-8",,0.49,'-,'-,'-,FUT2,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,19:48703728
+rs2738774-<b>A</b>,"9 x 10-7",,0.32,'-,'-,'-,"STMN3, MHENCR","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,20:63637985
+rs2836882-<b>A</b>,"5 x 10-8",,0.27,'-,'-,'-,RPL23AP12,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,21:39094644
+rs2066363-<b>C</b>,"8 x 10-11",,0.34,'-,'-,'-,ADGRL2,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,1:81771892
+rs114846446-<b>A</b>,"2 x 10-7",,0.01,'-,'-,'-,LINC01250,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, psoriasis, ankylosing spondylitis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,2:2944140
+rs7672495-<b>C</b>,"1 x 10-7",,0.18,'-,'-,'-,"RN7SKP113, CYTL1","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,4:4990640
+rs7660520-<b>A</b>,"8 x 10-11",,0.26,'-,'-,'-,"TENM3, DCTD","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,4:182824168
+rs7831697-<b>G</b>,"5 x 10-7",,0.25,'-,'-,'-,RNU6-144P,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,8:137124061
+rs7042370-<b>T</b>,"1 x 10-7",,0.43,'-,'-,'-,"LURAP1L-AS1, LURAP1L","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,9:12785074
+rs10988542-<b>C</b>,"7 x 10-7",,0.08,'-,'-,'-,FNBP1,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,9:129894985
+rs7100025-<b>G</b>,"8 x 10-11",,0.34,'-,'-,'-,LINC00993,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,10:37303610
+rs11839053-<b>C</b>,"1 x 10-6",,0.02,'-,'-,'-,"LINC00460, RPL35P9","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,13:106410694
+rs77150043-<b>T</b>,"6 x 10-9",,0.23,'-,'-,'-,ADCY7,"Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,16:50270338
+rs2807264-<b>C</b>,"1 x 10-8",,0.21,'-,'-,'-,"RNU6-320P, LINC00892","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,X:136583619
+rs12863738-<b>T</b>,"6 x 10-8",,0.17,'-,'-,'-,"RPL22P23, SRRM1P3","Pediatric autoimmune diseases","autoimmune thyroid disease, type I diabetes mellitus, Common variable immunodeficiency, ankylosing spondylitis, psoriasis, celiac disease, ulcerative colitis, Crohn's disease, autoimmune disease, juvenile idiopathic arthritis, systemic lupus erythematosus",'-,GCST003097,X:136949968
