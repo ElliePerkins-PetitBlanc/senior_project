@@ -9,6 +9,4 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Me"
-      href: me.html
 output: distill::distill_article
