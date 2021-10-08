@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2021-09-24-initial-post/",
+    "title": "Initial Post",
+    "description": "Propsal for senior project for fall 2021",
+    "author": [],
+    "date": "2021-09-24",
+    "categories": [],
+    "contents": "\r\nPersonal Background\r\nI took MATH 425 in Fall 2020 and MATH 450 in Winter 2021, but I am registered for MATH 488 this semester. I’m a biostatistics major, but I am more interested in the bioinformatics portion of it. By that I mean I want to help people by finding medicines that works for their biological conditions using the data in their DNA, but I have no concrete plans after graduation yet. My BYUI email is per16018@byui.edu.\r\nProject Background\r\nMany diseases have genetic markers that make people predisposed to them like asthma, diabetes, thyroid problems, and even skin things like eczema. These are actually all autoimmune diseases that I mentioned, which I spent a semester learning about a couple semesters ago in my bioinformatics class. I know there are some that have similar markers and if you have one illness, you can be more likely to have others. I have a lot of diseases that run in my family including asthma, arthritis, and Hashimoto’s thyroiditis. When there are more than one autoimmune diseases found in the same patient, it is called co-occurence and if there are at least 3 autoimmune diseases, it is called multiple autoimmune syndrome (MAS). I wanted to look at which ones were connected.\r\nDomain to Investigate\r\nI will need to look at the research that has already been done about related diseases and also research diseases known to have genetic links in the first place. To find data for it, I would need to look at the NCBI database. Reading articles on the subject could also be beneficial.\r\nProposed Deliverables\r\nFind and clean datasets to use for comparisons\r\nLearn how to show the graphics for comparing genes and diseases in r\r\nUse statistical analysis to figure out if the differences are significant\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-07T20:41:10-06:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome",
     "description": "Welcome to my blog for my Senior Project. I am very excited to be working with genetic data to find diseases that are related to one another. Please feel free to browse around and see what I'm up to!",

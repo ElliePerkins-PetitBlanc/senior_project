@@ -2,12 +2,11 @@
 title: "Initial Post"
 description: |
   Propsal for senior project for fall 2021
-author: []
+author: 
 date: 09-24-2021
 output:
   distill::distill_article:
     self_contained: false
-draft: FALSE
 ---
 
 ```{r setup, include=FALSE}

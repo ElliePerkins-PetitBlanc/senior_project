@@ -1,0 +1,81 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Background trait(s)","Study accession",Location
+rs6110809-<b>A</b>,"7 x 10-6",,0.160,1.81,'-,[1.40-2.34],MACROD2,"Thyroid-associated orbitopathy in graves' disease","Graves ophthalmopathy","Graves disease",GCST003640,20:15870432
+rs2843403-<b>C</b>,"8 x 10-7",,0.638,1.1904762,'-,[1.11-1.27],MMEL1,"Graves' disease","Graves disease",'-,GCST005526,1:2597658
+rs1534422-<b>G</b>,"5 x 10-6",,0.455,1.16,'-,[1.09–1.24],MIR3681HG,"Graves' disease","Graves disease",'-,GCST005526,2:12500615
+rs13093110-<b>T</b>,"8 x 10-7",,0.452,1.18,'-,[1.10–1.26],LPP,"Graves' disease","Graves disease",'-,GCST005526,3:188407332
+rs72928038-<b>A</b>,"4 x 10-6",,0.177,1.21,'-,[1.12–1.32],BACH2,"Graves' disease","Graves disease",'-,GCST005526,6:90267049
+imm_6_167338101-<b>A</b>,"3 x 10-7",,0.592,1.1904762,'-,[1.11-1.27],'-,"Graves' disease","Graves disease",'-,GCST005526,"Mapping not available"
+rs4409785-<b>C</b>,"5 x 10-6",,0.173,1.21,'-,[1.11–1.31],"FAM76B, SESN3","Graves' disease","Graves disease",'-,GCST005526,11:95578258
+rs4768412-<b>T</b>,"3 x 10-7",,0.363,1.19,'-,[1.11–1.27],PRICKLE1,"Graves' disease","Graves disease",'-,GCST005526,12:42475338
+rs57348955-<b>G</b>,"4 x 10-8",,0.604,1.2048193,'-,[1.12-1.30],"PRSS36, NDUFA3P6","Graves' disease","Graves disease",'-,GCST005526,16:31174561
+rs2476601-<b>A</b>,"4 x 10-16",,0.0962,1.55,'-,[1.41-1.71],PTPN22,"Graves' disease","Graves disease",'-,GCST005526,1:113834946
+rs11571297-<b>G</b>,"3 x 10-23",,0.507,1.4,'-,[1.3-1.49],"ICOS, CTLA4","Graves' disease","Graves disease",'-,GCST005526,2:203880280
+rs706779-<b>A</b>,"2 x 10-6",,0.533,1.1764705,'-,[1.1-1.25],IL2RA,"Graves' disease","Graves disease",'-,GCST005526,10:6056861
+rs2300519-<b>A</b>,"1 x 10-38",,0.38,1.54,'-,[1.44-1.64],TSHR,"Graves' disease","Graves disease",'-,GCST005526,14:80992418
+rs1569723-<b>A</b>,"4 x 10-9",,0.614705531,1.2041003,'-,[1.131835944-1.280978518],"CD40, RPL13P2","Graves' disease","Graves disease",'-,GCST90013683,20:46113425
+rs2049218-<b>T</b>,"5 x 10-8",,0.388945975,0.84102017,'-,[0.790299076-0.894996529],LPP,"Graves' disease","Graves disease",'-,GCST90013683,3:188405190
+rs113284964-<b>GCTTC</b>,"8 x 10-9",,0.720185463,0.81656873,'-,[0.762321679-0.874676061],"RHOH, LINC02265","Graves' disease","Graves disease",'-,GCST90013683,4:40305571
+rs10673095-<b>TTC</b>,"2 x 10-9",,0.347099987,0.81347036,'-,[0.760330701-0.870324013],"CASC19, PCAT1","Graves' disease","Graves disease",'-,GCST90013683,8:127190780
+rs4134408-<b>C</b>,"4 x 10-17",,NR,0.7945902,'-,[0.753083063596273-0.838385048555476],"KIF4CP, CTHRC1P1","Graves' disease","Graves disease",'-,GCST90013683,X:79238163
+rs11571292-<b>A</b>,"1 x 10-14",,0.612933989,1.277188,'-,[1.200332662-1.35896404],"CTLA4, RNU6-474P","Graves' disease","Graves disease",'-,GCST90013683,2:203855416
+rs2317230-<b>T</b>,"2 x 10-9",,0.400867799,1.2149632,'-,[1.140628053-1.294142861],"VDAC1P9, FCRL3","Graves' disease","Graves disease",'-,GCST90013683,1:157705207
+rs117201373-<b>G</b>,"3 x 10-13",,0.06503645,1.600151,'-,[1.409976234-1.815975894],"SLAMF6, VANGL2","Graves' disease","Graves disease",'-,GCST90013683,1:160450150
+rs11065783-<b>G</b>,"7 x 10-14",,0.269047383,1.3369094,'-,[1.239013287-1.442540335],LINC01405,"Graves' disease","Graves disease",'-,GCST90013683,12:110958445
+rs4903961-<b>G</b>,"2 x 10-13",,0.612869767,1.26409,'-,[1.187528644-1.345587164],TSHR,"Graves' disease","Graves disease",'-,GCST90013683,14:80996305
+rs9319588-<b>T</b>,"1 x 10-8",,0.905764992,0.7373254,'-,[0.664427677-0.818221096],FBXL19-AS1,"Graves' disease","Graves disease",'-,GCST90013683,16:30919662
+rs2273017-<b>A</b>,"2 x 10-22",,0.51,1.53,'-,[1.40-1.66],"TSBP1-AS1, TSBP1","Graves' disease","Graves disease",'-,GCST001219,6:32369853
+rs3893464-<b>G</b>,"2 x 10-20",,0.36,1.53,'-,[1.39-1.67],"MICD, HLA-W","Graves' disease","Graves disease",'-,GCST001219,6:29967473
+rs4313034-<b>T</b>,"2 x 10-15",,0.83,1.67,'-,[1.47-1.90],"HLA-J, ZNRD1ASP","Graves' disease","Graves disease",'-,GCST001219,6:30006148
+rs3132613-<b>C</b>,"1 x 10-13",,0.25,1.43,'-,[1.30-1.57],"PRR3, ABCF1","Graves' disease","Graves disease",'-,GCST001219,6:30569829
+rs4248154-<b>C</b>,"1 x 10-13",,0.54,1.38,'-,[1.27-1.50],MUC22,"Graves' disease","Graves disease",'-,GCST001219,6:31034839
+rs9394159-<b>T</b>,"4 x 10-12",,0.53,1.36,'-,[1.24-1.48],ITPR3,"Graves' disease","Graves disease",'-,GCST001219,6:33650385
+rs4713693-<b>T</b>,"7 x 10-13",,0.65,1.4,'-,[1.28-1.53],"MLN, LINC01016","Graves' disease","Graves disease",'-,GCST001219,6:33850152
+rs3761959-<b>A</b>,"2 x 10-13",,0.40,1.23,'-,[1.17-1.30],FCRL3,"Graves' disease","Graves disease",'-,GCST001200,1:157699488
+rs1024161-<b>T</b>,"2 x 10-17",,0.69,1.3,'-,[1.23-1.38],"RNU6-474P, CTLA4","Graves' disease","Graves disease",'-,GCST001200,2:203857029
+rs1521-<b>T</b>,"2 x 10-65",,0.79,1.92,'-,[1.78-2.08],"MICA, HLA-S","Graves' disease","Graves disease",'-,GCST001200,6:31382927
+rs6832151-<b>G</b>,"1 x 10-13",,0.35,1.24,'-,[1.17-1.31],"RHOH, LINC02265","Graves' disease","Graves disease",'-,GCST001200,4:40301616
+rs4947296-<b>C</b>,"4 x 10-51",,0.14,1.77,'-,[1.65-1.91],"C6orf15, RNU6-1133P","Graves' disease","Graves disease",'-,GCST001200,6:31090401
+rs6457617-<b>T</b>,"7 x 10-33",,0.45,1.4,'-,[1.32-1.48],"HLA-DQB1, MTCO3P1","Graves' disease","Graves disease",'-,GCST001200,6:32696074
+rs2281388-<b>T</b>,"2 x 10-65",,0.32,1.64,'-,[1.55-1.74],HLA-DPA2,"Graves' disease","Graves disease",'-,GCST001200,6:33092341
+rs370409-<b>T</b>,"2 x 10-6",,0.67,1.15,'-,[1.09-1.22],BACH2,"Graves' disease","Graves disease",'-,GCST001200,6:90212021
+rs9355610-<b>G</b>,"7 x 10-10",,0.47,1.19,'-,[1.13-1.26],"MIR3939, RNASET2","Graves' disease","Graves disease",'-,GCST001200,6:166969587
+rs505922-<b>T</b>,"8 x 10-6",,0.53,1.13,'-,[1.07-1.20],ABO,"Graves' disease","Graves disease",'-,GCST001200,9:133273813
+rs12101261-<b>T</b>,"7 x 10-24",,0.64,1.35,'-,[1.28-1.43],TSHR,"Graves' disease","Graves disease",'-,GCST001200,14:80984885
+rs2294025-<b>T</b>,"8 x 10-9",,0.19,1.16,'-,[1.10-1.22],TG,"Graves' disease","Graves disease",'-,GCST001984,8:133133268
+rs1456988-<b>?</b>,"5 x 10-9",,0.53,1.12,'-,[1.09-1.18],LINC01550,"Graves' disease","Graves disease",'-,GCST001984,14:98021670
+rs229527-<b>?</b>,"5 x 10-20",,0.71,1.23,'-,[1.19-1.3],C1QTNF6,"Graves' disease","Graves disease",'-,GCST001984,22:37185445
+rs5912838-<b>?</b>,"2 x 10-33",,0.58,1.32,'-,[1.25-1.37],"KIF4CP, CTHRC1P1","Graves' disease","Graves disease",'-,GCST001984,X:79241621
+rs1265883-<b>C</b>,"2 x 10-18",,0.1,1.34,'-,[1.25-1.43],SLAMF6,"Graves' disease","Graves disease",'-,GCST001984,1:160495121
+rs505922-<b>?</b>,"2 x 10-10",,0.53,1.14,'-,[1.1-1.19],ABO,"Graves' disease","Graves disease",'-,GCST001982,9:133273813
+rs12451295-<b>C</b>,"2 x 10-13",,0.49,1.61,'-,[1.41-1.84],RAP1GAP2,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70380682
+rs1352714-<b>T</b>,"1 x 10-8",,0.14,1.58,'-,[1.35-1.85],DCHS2,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,4:154322452
+rs312691-<b>C</b>,"6 x 10-24",,0.46,2.02,'-,[1.77-2.31],CALM2P1,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70330197
+rs16975694-<b>?</b>,"1 x 10-6",,0.69,1.45,'-,[1.25-1.69],ACLY,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70384516
+rs62069783-<b>?</b>,"6 x 10-6",,0.6,1.37,'-,[1.19-1.57],'-,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70496115
+rs7222503-<b>?</b>,"6 x 10-8",,0.82,1.79,'-,[1.45-2.20],CALM2P1,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70303644
+rs1881145-<b>?</b>,"3 x 10-6",,0.6,1.39,'-,[1.21-1.60],MIR3681HG,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,2:12494152
+rs411079-<b>?</b>,"1 x 10-10",,0.67,1.64,'-,[1.40-1.91],CALM2P1,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70295230
+rs16975792-<b>?</b>,"4 x 10-8",,0.57,1.46,'-,[1.27-1.67],'-,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70437584
+rs5912838-<b>?</b>,"6 x 10-8",,0.58,1.62,'-,[1.36-1.93],"KIF4CP, CTHRC1P1","Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,X:79241621
+rs17714860-<b>?</b>,"2 x 10-8",,0.79,1.74,'-,[1.44-2.10],CALM2P1,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70276213
+rs2186564-<b>?</b>,"3 x 10-7",,0.17,1.5,'-,[1.29-1.74],AAMDC,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,11:77872220
+rs312729-<b>?</b>,"8 x 10-29",,0.47,2.08,'-,[1.83-2.38],CALM2P1,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70310696
+rs4947296-<b>?</b>,"3 x 10-22",,0.14,2.06,'-,[1.77-2.39],"C6orf15, RNU6-1133P","Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,6:31090401
+rs1521-<b>?</b>,"4 x 10-18",,0.81,2.51,'-,[2.02-3.13],"MICA, HLA-S","Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,6:31382927
+rs2281388-<b>?</b>,"2 x 10-18",,0.33,1.74,'-,[1.54-1.98],HLA-DPA2,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,6:33092341
+rs6457617-<b>?</b>,"2 x 10-17",,0.47,1.74,'-,[1.53-1.97],"HLA-DQB1, MTCO3P1","Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,6:32696074
+rs623011-<b>?</b>,"1 x 10-22",,0.46,1.96,'-,[1.72-2.24],CALM2P1,"Thyrotoxic hypokalemic periodic paralysis and Graves disease","Graves disease, Thyrotoxic periodic paralysis",'-,GCST008365,17:70263305
+rs2843403-<b>C</b>,"6 x 10-6",,0.638,1.1627907,'-,[1.09-1.23],MMEL1,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,1:2597658
+rs1534422-<b>G</b>,"2 x 10-7",,0.455,1.17,'-,[1.11–1.25],MIR3681HG,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,2:12500615
+rs13093110-<b>T</b>,"4 x 10-8",,0.452,1.19,'-,[1.12–1.26],LPP,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,3:188407332
+rs72928038-<b>A</b>,"1 x 10-7",,0.177,1.23,'-,[1.14–1.32],BACH2,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,6:90267049
+imm_6_167338101-<b>A</b>,"2 x 10-7",,0.592,1.1764705,'-,'-,'-,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,"Mapping not available"
+rs4409785-<b>C</b>,"8 x 10-8",,0.173,1.23,'-,[1.14–1.33],"FAM76B, SESN3","Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,11:95578258
+rs4768412-<b>T</b>,"4 x 10-6",,0.363,1.16,'-,[1.09–1.23],PRICKLE1,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,12:42475338
+rs57348955-<b>G</b>,"5 x 10-8",,0.604,1.1904762,'-,[1.12-1.27],"PRSS36, NDUFA3P6","Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,16:31174561
+rs2476601-<b>A</b>,"1 x 10-22",,0.0962,1.63,'-,[1.49-1.78],PTPN22,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,1:113834946
+rs11571297-<b>G</b>,"2 x 10-23",,0.507,1.369863,'-,[1.28-1.45],"ICOS, CTLA4","Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,2:203880280
+rs706779-<b>A</b>,"3 x 10-7",,0.533,1.1764705,'-,[1.1-1.25],IL2RA,"Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST005524,10:6056861
+rs7537605-<b>?</b>,"4 x 10-8",,0.277,1.77,'-,[1.44-2.17],VAV3,"Hashimoto thyroiditis versus Graves' disease","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST002705,1:107800465
+rs2904297-<b>?</b>,"7 x 10-6",,0.763,1.72,'-,[1.37-2.22],BMPR1B,"Hashimoto thyroiditis versus Graves' disease","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST002705,4:11038666
+rs2270450-<b>T</b>,"1 x 10-6",,0.178,1.75,'-,[1.40-2.19],SLC25A27,"Hashimoto thyroiditis versus Graves' disease","autoimmune thyroid disease, Hashimoto's thyroiditis, Graves disease",'-,GCST002705,6:46677138

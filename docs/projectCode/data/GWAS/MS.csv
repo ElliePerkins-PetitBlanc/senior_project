@@ -1,0 +1,786 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Background trait(s)","Study accession",Location
+rs28383224-<b>A</b>,"8 x 10-11",,0.42,2.66,'-,[1.98-3.56],"HLA-DQA1, HLA-DRB1","Neuromyelitis optica (AQP4-IgG-positive)","AQP4-IgG-positive neuromyelitis optica",'-,GCST006937,6:32615876
+rs1150757-<b>A</b>,"3 x 10-16",,0.1,4.66,'-,[3.22-6.74],TNXB,"Neuromyelitis optica (AQP4-IgG-positive)","AQP4-IgG-positive neuromyelitis optica",'-,GCST006937,6:32061428
+HLA-DRB1*03:01-<b>?</b>,"4 x 10-16",,0.12,4.09,'-,[2.91-5.74],'-,"Neuromyelitis optica (AQP4-IgG-positive)","AQP4-IgG-positive neuromyelitis optica",'-,GCST006937,"Mapping not available"
+HLA-B*08:01-<b>?</b>,"6 x 10-16",,0.11,4.23,'-,[2.98-5.99],'-,"Neuromyelitis optica (AQP4-IgG-positive)","AQP4-IgG-positive neuromyelitis optica",'-,GCST006937,"Mapping not available"
+HLA-DQB1*02:01-<b>?</b>,"4 x 10-15",,0.13,3.79,'-,[2.72-5.28],'-,"Neuromyelitis optica (AQP4-IgG-positive)","AQP4-IgG-positive neuromyelitis optica",'-,GCST006937,"Mapping not available"
+HLA-C*07:01-<b>?</b>,"5 x 10-13",,0.15,3.26,'-,[2.36-4.49],'-,"Neuromyelitis optica (AQP4-IgG-positive)","AQP4-IgG-positive neuromyelitis optica",'-,GCST006937,"Mapping not available"
+HLA-DQA1*05:01-<b>?</b>,"1 x 10-11",,0.23,2.9,'-,[2.13-3.95],'-,"Neuromyelitis optica (AQP4-IgG-positive)","AQP4-IgG-positive neuromyelitis optica",'-,GCST006937,"Mapping not available"
+rs28383224-<b>A</b>,"6 x 10-12",,0.42,2.24,'-,[1.78-2.82],"HLA-DQA1, HLA-DRB1","Neuromyelitis optica","neuromyelitis optica",'-,GCST005964,6:32615876
+rs1150757-<b>A</b>,"7 x 10-12",,0.10,2.86,'-,[1.98-4.14],TNXB,"Neuromyelitis optica","neuromyelitis optica",'-,GCST005964,6:32061428
+HLA-DRB1*03:01-<b>?</b>,"2 x 10-12",,0.12,2.71,'-,[2.05-3.57],'-,"Neuromyelitis optica","neuromyelitis optica",'-,GCST005964,"Mapping not available"
+HLA-B*08:01-<b>?</b>,"6 x 10-12",,0.11,2.72,'-,[2.05-3.63],'-,"Neuromyelitis optica","neuromyelitis optica",'-,GCST005964,"Mapping not available"
+HLA-DQB1*02:01-<b>?</b>,"1 x 10-11",,0.13,2.58,'-,[1.96-3.40],'-,"Neuromyelitis optica","neuromyelitis optica",'-,GCST005964,"Mapping not available"
+HLA-C*07:01-<b>?</b>,"1 x 10-10",,0.15,2.38,'-,[1.83-3.10],'-,"Neuromyelitis optica","neuromyelitis optica",'-,GCST005964,"Mapping not available"
+HLA-DQA1*05:01-<b>?</b>,"5 x 10-10",,0.23,2.2,'-,[1.72-2.82],'-,"Neuromyelitis optica","neuromyelitis optica",'-,GCST005964,"Mapping not available"
+rs9272219-<b>A</b>,"8 x 10-10",,0.42,2.48,'-,[1.86-3.32],HLA-DQA1,"Neuromyelitis optica","neuromyelitis optica",'-,GCST011432,6:32634492
+rs2688608-<b>A</b>,"4 x 10-8",,0.56,1.07,'-,'-,"CAMK2G, PLAU","Multiple sclerosis","multiple sclerosis",'-,GCST005531,10:73898591
+rs7120737-<b>G</b>,"1 x 10-9",,0.15,1.1,'-,'-,AGBL2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:47680843
+rs694739-<b>A</b>,"2 x 10-9",,0.62,1.07,'-,'-,"CCDC88B, PRDX5","Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:64329761
+rs9736016-<b>T</b>,"3 x 10-15",,0.63,1.1,'-,'-,"Y_RNA, CXCR5","Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:118854185
+rs12296430-<b>C</b>,"7 x 10-14",,0.21,1.12,'-,'-,"LTBR, SRP14P1","Multiple sclerosis","multiple sclerosis",'-,GCST005531,12:6394334
+rs4772201-<b>A</b>,"1 x 10-10",,0.83,1.1,'-,'-,"TM9SF2, CCR12P","Multiple sclerosis","multiple sclerosis",'-,GCST005531,13:99434005
+rs12148050-<b>A</b>,"5 x 10-13",,0.36,1.09,'-,'-,TRAF3,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,14:102797451
+rs59772922-<b>A</b>,"1 x 10-8",,0.83,1.09,'-,'-,"CTSH, RNU6-415P","Multiple sclerosis","multiple sclerosis",'-,GCST005531,15:78915124
+rs8042861-<b>A</b>,"2 x 10-9",,0.45,1.07,'-,'-,IQGAP1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,15:90434101
+rs6498184-<b>G</b>,"7 x 10-18",,0.82,1.15,'-,'-,RMI2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:11342133
+rs7204270-<b>G</b>,"2 x 10-11",,0.49,1.09,'-,'-,"CORO1A, MAPK3","Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:30145642
+rs1886700-<b>A</b>,"1 x 10-8",,0.14,1.1,'-,'-,CDH3,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:68652002
+rs12149527-<b>A</b>,"3 x 10-11",,0.47,1.08,'-,'-,WWOX,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:79076699
+rs7196953-<b>A</b>,"1 x 10-10",,0.3,1.09,'-,'-,"LINC01229, MAF","Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:79615497
+rs12946510-<b>A</b>,"3 x 10-9",,0.48,1.07,'-,'-,"IKZF3, GRB7","Multiple sclerosis","multiple sclerosis",'-,GCST005531,17:39756124
+rs4794058-<b>A</b>,"1 x 10-13",,0.52,1.09,'-,'-,"NPEPPS, MRPL45P2","Multiple sclerosis","multiple sclerosis",'-,GCST005531,17:47519732
+rs2288904-<b>G</b>,"2 x 10-11",,0.78,1.1,'-,'-,SLC44A2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,19:10631494
+rs1870071-<b>G</b>,"2 x 10-15",,0.3,1.1,'-,'-,EPS15L1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,19:16394295
+rs17785991-<b>A</b>,"4 x 10-8",,0.34,1.07,'-,'-,SLC9A8,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,20:49822224
+rs2256814-<b>A</b>,"4 x 10-9",,0.21,1.09,'-,'-,SLC2A4RG,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,20:63742630
+rs7769192-<b>G</b>,"3 x 10-9","(conditioned on rs67297943)",0.54,1.08,'-,'-,"LINC02539, BTF3L4P3","Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:137641518
+rs533646-<b>G</b>,"8 x 10-11","(conditioned on rs9736016)",0.68,1.09,'-,'-,"TREHP1, RNU6-376P","Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:118696037
+rs4780346-<b>A</b>,"4 x 10-10","(conditioned on rs12927355)",0.25,1.09,'-,'-,"CLEC16A, HNRNPCP4","Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:11194949
+rs3748817-<b>A</b>,"1 x 10-26",,0.65,1.14,'-,'-,MMEL1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:2594226
+rs41286801-<b>A</b>,"1 x 10-26",,0.16,1.19,'-,'-,EVI5,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:92509907
+rs3007421-<b>A</b>,"5 x 10-10",,0.13,1.11,'-,'-,PLEKHG5,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:6470129
+rs12087340-<b>A</b>,"1 x 10-20",,0.09,1.21,'-,'-,"BCL10, DDAH1","Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:85281310
+rs11587876-<b>A</b>,"4 x 10-9",,0.81,1.09,'-,'-,DDAH1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:85449500
+rs666930-<b>G</b>,"6 x 10-12",,0.53,1.08,'-,'-,PHGDH,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:119716347
+rs2050568-<b>G</b>,"2 x 10-10",,0.54,1.08,'-,'-,FCRL1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:157800451
+rs35967351-<b>A</b>,"4 x 10-11",,0.68,1.09,'-,'-,SLAMF7,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:160742014
+rs4665719-<b>G</b>,"3 x 10-9",,0.25,1.08,'-,'-,CENPO,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:24794991
+rs842639-<b>A</b>,"2 x 10-14",,0.67,1.1,'-,'-,LINC01185,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:60868110
+rs9967792-<b>G</b>,"4 x 10-12",,0.64,1.09,'-,'-,STAT4,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:191109709
+rs11719975-<b>C</b>,"1 x 10-8",,0.28,1.08,'-,'-,SATB1-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:18744093
+rs4679081-<b>G</b>,"2 x 10-9",,0.55,1.07,'-,'-,"CCR4, GLB1","Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:32971991
+rs9828629-<b>G</b>,"2 x 10-10",,0.64,1.08,'-,'-,FOXP1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:71481195
+rs2726518-<b>C</b>,"4 x 10-8",,0.58,1.07,'-,'-,TET2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,4:105252042
+rs756699-<b>A</b>,"9 x 10-11",,0.88,1.12,'-,'-,TCF7,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,5:134110884
+rs1036207-<b>C</b>,"4 x 10-9",,0.62,1.07,'-,'-,NDFIP1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,5:142119476
+rs4976646-<b>G</b>,"4 x 10-18",,0.36,1.12,'-,'-,RGS14,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,5:177361569
+rs17119-<b>A</b>,"1 x 10-10",,0.8,1.1,'-,'-,"PPIAP9, RNU6-793P","Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:14719265
+rs941816-<b>G</b>,"4 x 10-10",,0.2,1.11,'-,'-,PXT1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:36407527
+rs1843938-<b>A</b>,"1 x 10-10",,0.44,1.08,'-,'-,CARD11,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,7:3073400
+rs706015-<b>C</b>,"1 x 10-10",,0.18,1.1,'-,'-,SKAP2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,7:26975369
+rs917116-<b>C</b>,"3 x 10-10",,0.21,1.09,'-,'-,JAZF1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,7:28133120
+rs60600003-<b>C</b>,"6 x 10-14",,0.1,1.15,'-,'-,ELMO1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,7:37342861
+rs201847125-<b>G</b>,"1 x 10-11",,0.7,1.1,'-,'-,IKZF1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,7:50285971
+rs2456449-<b>G</b>,"2 x 10-9",,0.37,1.08,'-,'-,"PCAT1, CASC19","Multiple sclerosis","multiple sclerosis",'-,GCST005531,8:127180736
+rs793108-<b>A</b>,"6 x 10-12",,0.51,1.08,'-,'-,"LINC02664, ZNF438","Multiple sclerosis","multiple sclerosis",'-,GCST005531,10:31126177
+rs6677309-<b>A</b>,"5 x 10-42",,0.88,1.29,'-,'-,CD58,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:116537544
+rs55838263-<b>A</b>,"4 x 10-19",,0.71,1.13,'-,'-,INAVA,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:200905600
+rs7595717-<b>A</b>,"1 x 10-13",,0.27,1.1,'-,'-,"CNRIP1, PLEK","Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:68360345
+rs9989735-<b>C</b>,"4 x 10-23",,0.19,1.16,'-,'-,SP140,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:230250739
+rs2104286-<b>A</b>,"2 x 10-47",,0.73,1.22,'-,'-,IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,10:6057082
+rs1782645-<b>A</b>,"3 x 10-15",,0.41,1.1,'-,'-,ZMIZ1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,10:79288854
+rs7923837-<b>G</b>,"4 x 10-17",,0.62,1.11,'-,'-,Y_RNA,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,10:92722160
+rs34383631-<b>A</b>,"4 x 10-23",,0.39,1.13,'-,'-,"CD6, CD5","Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:61025858
+rs1800693-<b>G</b>,"7 x 10-28",,0.41,1.14,'-,'-,TNFRSF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,12:6330843
+rs11052877-<b>G</b>,"6 x 10-13",,0.38,1.09,'-,'-,CD69,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,12:9753094
+rs201202118-<b>A</b>,"9 x 10-22",,0.67,1.13,'-,'-,TSFM,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,12:57788279
+rs7132277-<b>A</b>,"2 x 10-13",,0.19,1.12,'-,'-,PITPNM2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,12:123108835
+rs2236262-<b>A</b>,"3 x 10-12",,0.5,1.08,'-,'-,ZFP36L1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,14:68794755
+rs74796499-<b>C</b>,"2 x 10-20",,0.95,1.32,'-,'-,GALC,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,14:87965984
+rs12927355-<b>G</b>,"6 x 10-46",,0.69,1.2,'-,'-,CLEC16A,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:11100914
+rs35929052-<b>G</b>,"6 x 10-12",,0.88,1.15,'-,'-,LINC02132,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:85960878
+rs4796791-<b>A</b>,"4 x 10-20",,0.36,1.12,'-,'-,STAT3,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,17:42378745
+rs8070345-<b>A</b>,"2 x 10-23",,0.46,1.12,'-,'-,VMP1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,17:59739396
+rs1077667-<b>G</b>,"2 x 10-24",,0.79,1.16,'-,'-,TNFSF14,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,19:6668961
+rs34536443-<b>C</b>,"2 x 10-14",,0.96,1.29,'-,'-,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,"Mapping not available"
+rs11554159-<b>G</b>,"2 x 10-24",,0.74,1.15,'-,'-,IFI30,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,19:18175134
+rs8107548-<b>G</b>,"6 x 10-15",,0.26,1.11,'-,'-,DKKL1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,19:49367386
+rs4810485-<b>A</b>,"8 x 10-16",,0.25,1.11,'-,'-,CD40,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,20:46119308
+rs2248359-<b>G</b>,"2 x 10-13",,0.62,1.09,'-,'-,"PFDN4, CYP24A1","Multiple sclerosis","multiple sclerosis",'-,GCST005531,20:54174979
+rs2283792-<b>C</b>,"6 x 10-16",,0.53,1.1,'-,'-,MAPK1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,22:21776836
+rs523604-<b>A</b>,"6 x 10-15","(conditioned on rs9736016 and rs533646)",0.54,1.1,'-,'-,CXCR5,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:118885029
+rs5756391-<b>A</b>,"1 x 10-6",,0.39,1.06,'-,[1.03-1.08],"NCF4, CSF2RB","Multiple sclerosis","multiple sclerosis",'-,GCST005531,22:36902302
+rs2073167-<b>A</b>,"1 x 10-6",,0.52,1.06,'-,[1.03-1.08],TEF,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,22:41395532
+rs4755450-<b>G</b>,"7 x 10-6",,0.66,1.06,'-,[1.03-1.08],PRR5L,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:36342025
+rs7552544-<b>A</b>,"2 x 10-16",,0.43,1.1,'-,'-,"VCAM1, EXTL2","Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:100775337
+rs1359062-<b>C</b>,"5 x 10-20",,0.83,1.15,'-,'-,RGS1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:192572342
+rs2163226-<b>A</b>,"2 x 10-16",,0.73,1.12,'-,'-,"LINC02580, ZFP36L2","Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:43134117
+rs2371108-<b>A</b>,"2 x 10-15",,0.39,1.1,'-,'-,"EOMES, LINC02084","Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:27715527
+rs1813375-<b>A</b>,"2 x 10-32",,0.49,1.15,'-,'-,LINC01967,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:28037080
+rs1131265-<b>C</b>,"1 x 10-23",,0.81,1.17,'-,'-,TIMMDC1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:119503609
+rs1920296-<b>C</b>,"7 x 10-22",,0.64,1.12,'-,'-,IQCB1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:121824730
+rs2255214-<b>C</b>,"1 x 10-24",,0.52,1.13,'-,'-,"Y_RNA, CD86","Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:122051692
+rs1014486-<b>G</b>,"1 x 10-18",,0.44,1.11,'-,'-,IL12A-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:159973324
+rs7665090-<b>G</b>,"1 x 10-8",,0.53,1.09,'-,'-,"NFKB1, MANBA","Multiple sclerosis","multiple sclerosis",'-,GCST005531,4:102630446
+rs6881706-<b>C</b>,"4 x 10-17",,0.73,1.12,'-,'-,IL7R,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,5:35879054
+rs6880778-<b>G</b>,"8 x 10-20",,0.61,1.12,'-,'-,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,5:40398994
+rs71624119-<b>G</b>,"3 x 10-13",,0.76,1.11,'-,'-,ANKRD55,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,5:56144903
+rs72928038-<b>A</b>,"2 x 10-15",,0.19,1.14,'-,'-,BACH2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:90267049
+rs11154801-<b>A</b>,"2 x 10-20",,0.37,1.12,'-,'-,AHI1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:135418217
+rs17066096-<b>G</b>,"2 x 10-23",,0.25,1.14,'-,'-,"IL22RA2, IL20RA","Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:137131771
+rs67297943-<b>A</b>,"6 x 10-13",,0.8,1.11,'-,'-,"TNFAIP3, LINC02528","Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:137923679
+rs212405-<b>T</b>,"8 x 10-21",,0.64,1.12,'-,'-,TAGAP-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:159049527
+rs1021156-<b>A</b>,"9 x 10-17",,0.26,1.11,'-,'-,"PKIA, ZC2HC1A","Multiple sclerosis","multiple sclerosis",'-,GCST005531,8:78663569
+rs4410871-<b>G</b>,"4 x 10-16",,0.72,1.11,'-,'-,PVT1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,8:127802783
+rs759648-<b>C</b>,"5 x 10-10",,0.31,1.08,'-,'-,PVT1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,8:128146699
+rs175126-<b>G</b>,"2 x 10-7",,0.46,1.06,'-,[1.04-1.09],"CD5, CD6","Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:61066152
+rs3809006-<b>G</b>,"4 x 10-7",,0.49,1.06,'-,[1.04-1.09],ETS1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,11:128540941
+rs731089-<b>A</b>,"1 x 10-6",,0.69,1.06,'-,[1.04-1.09],"TOMM22P3, LINC00423","Multiple sclerosis","multiple sclerosis",'-,GCST005531,13:32923897
+rs7993214-<b>G</b>,"2 x 10-6",,0.65,1.06,'-,[1.03-1.09],COG6,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,13:39776775
+rs806349-<b>A</b>,"8 x 10-7",,0.48,1.06,'-,[1.04-1.08],DLEU1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,13:50285854
+rs4903324-<b>A</b>,"2 x 10-7",,0.2,1.08,'-,[1.05-1.11],"JDP2, BATF","Multiple sclerosis","multiple sclerosis",'-,GCST005531,14:75495168
+rs4924273-<b>G</b>,"1 x 10-6",,0.26,1.07,'-,[1.04-1.09],RASGRP1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,15:38554537
+rs223889-<b>A</b>,"2 x 10-6",,0.29,1.06,'-,[1.04-1.09],"RPL23AP91, CCL22","Multiple sclerosis","multiple sclerosis",'-,GCST005531,16:57358329
+rs7260516-<b>A</b>,"3 x 10-6",,0.36,1.06,'-,[1.03-1.08],FPR1,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,19:51784199
+rs17371986-<b>A</b>,"5 x 10-6",,0.79,1.07,'-,[1.04-1.10],"VANGL2, SLAMF6","Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:160432469
+rs113116201-<b>G</b>,"1 x 10-6",,0.02,1.29,'-,[1.16-1.43],MIR181A1HG,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,1:198861813
+rs1534422-<b>G</b>,"3 x 10-7",,0.46,1.06,'-,[1.04-1.09],MIR3681HG,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:12500615
+rs6716355-<b>C</b>,"2 x 10-6",,0.31,1.06,'-,[1.04-1.09],LINC01934,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:181370365
+rs6435203-<b>A</b>,"1 x 10-7",,0.73,1.07,'-,[1.04-1.10],"KRT18P39, CD28","Multiple sclerosis","multiple sclerosis",'-,GCST005531,2:203746472
+rs9846396-<b>G</b>,"8 x 10-8",,0.57,1.07,'-,[1.04-1.09],ZBTB38,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:141422126
+rs522127-<b>C</b>,"5 x 10-7",,0.43,1.07,'-,[1.04-1.09],"IL12A-AS1, LINC01100","Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:160016881
+rs66756607-<b>G</b>,"2 x 10-7",,0.44,1.06,'-,[1.04-1.09],LPP,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,3:188365131
+rs189139-<b>A</b>,"1 x 10-6",,0.33,1.07,'-,[1.04-1.10],SH3BP2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,4:2831000
+rs727098-<b>G</b>,"7 x 10-7",,0.25,1.07,'-,[1.04-1.10],ATP5PBP6,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:139590185
+rs9355260-<b>A</b>,"6 x 10-7",,0.18,1.08,'-,[1.05-1.11],"FNDC1, TAGAP-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST005531,6:159103590
+rs75637965-<b>C</b>,"9 x 10-6",,0.13,1.08,'-,[1.04-1.11],FAM167A,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,8:11458083
+rs13260060-<b>A</b>,"7 x 10-7",,0.1,1.1,'-,[1.06-1.14],NCOA2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,8:70306125
+rs6072343-<b>A</b>,"7 x 10-8",,0.15,1.09,'-,[1.06-1.13],"ADI1P1, LPIN3","Multiple sclerosis","multiple sclerosis",'-,GCST005531,20:41339548
+rs9808753-<b>G</b>,"1 x 10-7",,0.14,1.09,'-,[1.06-1.13],IFNGR2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,21:33415005
+rs62626325-<b>G</b>,"9 x 10-6",,0.83,1.1,'-,[1.05-1.15],"RBM17, RPL32P23","Multiple sclerosis","multiple sclerosis",'-,GCST005531,10:6079322
+rs3004212-<b>G</b>,"3 x 10-7",,0.73,1.07,'-,[1.04-1.10],CSGALNACT2,"Multiple sclerosis","multiple sclerosis",'-,GCST005531,10:43147362
+rs4364506-<b>?</b>,"2 x 10-6",,NR,1.1235955,'-,[1.08-1.18],L3MBTL3,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,6:130068795
+rs2812197-<b>?</b>,"3 x 10-10",,NR,1.1494253,'-,[1.1-1.2],DLEU1,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,13:50243690
+rs34286592-<b>T</b>,"5 x 10-7",,NR,1.16,'-,[1.09-1.23],MAZ,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,16:29809159
+rs4925166-<b>?</b>,"7 x 10-12",,NR,1.1627907,'-,[1.11-1.22],TOP3A,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,17:18307496
+rs2836425-<b>T</b>,"2 x 10-7",,NR,1.18,'-,[1.11-1.25],ERG,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,21:38466902
+rs10797431-<b>?</b>,"2 x 10-10",,'-,1.1904762,'-,'-,"PRXL2B, TNFRSF14","Multiple sclerosis","multiple sclerosis",'-,GCST003566,1:2569783
+rs6689470-<b>A</b>,"4 x 10-10",,'-,1.24,'-,[1.16–1.33],GFI1,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,1:92485653
+rs2300747-<b>?</b>,"2 x 10-12",,'-,1.3333333,'-,'-,CD58,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,1:116561593
+rs7535818-<b>?</b>,"2 x 10-15",,'-,1.3157895,'-,'-,RGS1,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,1:192575969
+rs2681424-<b>?</b>,"1 x 10-9",,'-,1.1627907,'-,'-,"Y_RNA, CD86","Multiple sclerosis","multiple sclerosis",'-,GCST003566,3:122050675
+rs6859219-<b>?</b>,"8 x 10-9",,'-,1.1904762,'-,'-,ANKRD55,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,5:56142753
+rs3104373-<b>T</b>,"1 x 10-234",,'-,2.9,'-,[2.72–3.09],HLA-DQA1,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,6:32632598
+rs2182410-<b>?</b>,"4 x 10-9",,'-,1.1904762,'-,'-,"RPL32P23, RBM17","Multiple sclerosis","multiple sclerosis",'-,GCST003566,10:6080706
+rs1891621-<b>?</b>,"1 x 10-11",,'-,1.1494253,'-,'-,"LINC02664, ZNF438","Multiple sclerosis","multiple sclerosis",'-,GCST003566,10:31101198
+rs1800693-<b>C</b>,"3 x 10-8",,'-,1.17,'-,[1.11–1.23],TNFRSF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,12:6330843
+rs6498168-<b>T</b>,"1 x 10-9",,'-,1.23,'-,[1.17–1.29],CLEC16A,"Multiple sclerosis","multiple sclerosis",'-,GCST003566,16:11141273
+rs6498160-<b>T</b>,"7 x 10-8",,0.36,1.27,'-,'-,CLEC16A,"Multiple sclerosis","multiple sclerosis",'-,GCST004290,16:11105590
+rs60733400-<b>G</b>,"1 x 10-6",,0.702,1.27,'-,'-,"PRXL2B, TNFRSF14","Multiple sclerosis","multiple sclerosis",'-,GCST004290,1:2585342
+rs9657904-<b>T</b>,"2 x 10-7",,0.832,1.37,'-,'-,CBLB,"Multiple sclerosis","multiple sclerosis",'-,GCST004290,3:105867870
+rs78077440-<b>G</b>,"2 x 10-6",,0.716,1.26,'-,'-,RNU1-150P,"Multiple sclerosis","multiple sclerosis",'-,GCST004290,5:40323665
+rs12253981-<b>G</b>,"1 x 10-9",,0.519,1.31,'-,'-,IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST004290,10:6050383
+rs4939490-<b>G</b>,"2 x 10-29",,NR,1.1237,'-,NR,"CD6, CD5","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:61026179
+rs701006-<b>G</b>,"1 x 10-30",,NR,1.124,'-,NR,OS9,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:57713053
+rs73414214-<b>C</b>,"6 x 10-10",,NR,1.1282,'-,NR,"SYPL1, CDHR3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:106066016
+rs12133753-<b>C</b>,"2 x 10-16",,NR,1.131,'-,NR,TGFBR3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:91756532
+rs35703946-<b>G</b>,"3 x 10-17",,NR,1.1315,'-,NR,LINC02132,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:85987899
+chr3:100656795-<b>T</b>,"2 x 10-6",,NR,1.1368,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs12722559-<b>C</b>,"2 x 10-15",,NR,1.1372,'-,NR,IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:6028310
+chr3:121765368-<b>C</b>,"7 x 10-43",,NR,1.1384,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs35540610-<b>C</b>,"3 x 10-33",,NR,1.1423,'-,NR,SP140,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:230257114
+rs17724508-<b>T</b>,"6 x 10-14",,NR,1.1431,'-,NR,RNA5SP431,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:79316307
+rs62420820-<b>A</b>,"9 x 10-36",,NR,1.1444,'-,NR,"IL20RA, IL22RA2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:137116920
+rs34947566-<b>C</b>,"1 x 10-23",,NR,1.1463,'-,NR,RMI2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:11319069
+rs6742-<b>C</b>,"4 x 10-14",,NR,1.1492,'-,NR,SLC2A4RG,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:63743088
+rs72855540-<b>G</b>,"2 x 10-7",,NR,1.1495,'-,NR,GTDC1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:144232981
+rs438613-<b>C</b>,"2 x 10-49",,NR,1.1504,'-,NR,LINC01967,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:28030595
+rs9843355-<b>G</b>,"4 x 10-30",,NR,1.1525,'-,NR,TIMMDC1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:119509661
+rs1077667-<b>C</b>,"8 x 10-33",,NR,1.1546,'-,NR,TNFSF14,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:6668961
+chr3:100848597-<b>C</b>,"6 x 10-11",,NR,1.1557,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs1323292-<b>A</b>,"4 x 10-33",,NR,1.1625,'-,NR,RGS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:192571891
+rs72922276-<b>G</b>,"1 x 10-15",,NR,1.1642,'-,NR,JAK1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:64963636
+rs12832171-<b>C</b>,"4 x 10-10",,NR,1.166,'-,NR,TNFRSF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:6332456
+rs34536443-<b>G</b>,"3 x 10-11",,NR,1.204,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs11256593-<b>T</b>,"3 x 10-65",,NR,1.2062,'-,NR,"RBM17, RPL32P23","Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:6075359
+chr1:198573373-<b>C</b>,"2 x 10-7",,NR,1.2197,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs9591325-<b>T</b>,"1 x 10-19",,NR,1.2276,'-,NR,DLEU1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,13:50237084
+chr11:118783424-<b>G</b>,"9 x 10-11",,NR,1.2659,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs10801908-<b>C</b>,"5 x 10-70",,NR,1.2987,'-,NR,CD58,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:116547871
+chr14:88523488-<b>C</b>,"2 x 10-30",,NR,1.3316,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr3:112693983-<b>T</b>,"3 x 10-9",,NR,1.3609,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr1:150593391-<b>T</b>,"1 x 10-6",,NR,1.0961307,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr1:154983036-<b>G</b>,"2 x 10-8",,NR,1.1837121,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr1:1682374-<b>A</b>,"3 x 10-6",,NR,1.0458064,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr1:32715071-<b>T</b>,"7 x 10-7",,NR,1.1682242,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr1:32738415-<b>A</b>,"1 x 10-15",,NR,1.1318619,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr11:14868316-<b>G</b>,"9 x 10-12",,NR,1.2866701,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr16:11213951-<b>C</b>,"4 x 10-71",,NR,1.1951715,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr16:11353879-<b>T</b>,"5 x 10-16",,NR,1.0906315,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr16:68335911-<b>C</b>,"4 x 10-6",,NR,1.111976,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr16:68694818-<b>C</b>,"8 x 10-7",,NR,1.0730765,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr18:60902282-<b>G</b>,"9 x 10-7",,NR,1.1528707,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr2:112492986-<b>C</b>,"2 x 10-12",,NR,1.0699764,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr20:52783991-<b>G</b>,"2 x 10-6",,NR,1.0778185,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr5:40429250-<b>T</b>,"1 x 10-11",,NR,1.0716965,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr8:129177769-<b>C</b>,"3 x 10-25",,NR,1.1247329,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr8:95851818-<b>G</b>,"3 x 10-10",,NR,1.1528707,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr9:86543849-<b>G</b>,"1 x 10-6",,NR,1.0528532,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs10063294-<b>G</b>,"2 x 10-28",,NR,1.1268876,'-,NR,IL7R,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:35877403
+rs10066308-<b>A</b>,"3 x 10-7",,NR,1.0621349,'-,NR,"IRF1-AS1, IRF1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:132454924
+rs10102600-<b>C</b>,"1 x 10-6",,NR,1.0690614,'-,NR,"FAM167A, FAM167A-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:11427875
+rs10245867-<b>T</b>,"1 x 10-11",,NR,1.0696331,'-,NR,JAZF1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:28102567
+rs9399125-<b>C</b>,"7 x 10-7",,NR,1.066098,'-,NR,MEMO1P2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:134876770
+rs9568402-<b>T</b>,"5 x 10-9",,NR,1.0899183,'-,NR,DLEU1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,13:50387821
+rs9844930-<b>A</b>,"8 x 10-7",,NR,1.0587612,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs9863496-<b>C</b>,"3 x 10-14",,NR,1.0755001,'-,NR,SATB1-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:18757356
+rs9909593-<b>G</b>,"9 x 10-17",,NR,1.081198,'-,NR,IKZF3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:39813896
+rs9955954-<b>A</b>,"5 x 10-11",,NR,1.0893246,'-,NR,MALT1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,18:58680812
+rs9992763-<b>G</b>,"2 x 10-11",,NR,1.0656437,'-,NR,LEF1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:108137562
+rs6072343-<b>A</b>,"3 x 10-9",,NR,1.0815488,'-,NR,"ADI1P1, LPIN3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:41339548
+rs962052-<b>C</b>,"8 x 10-9",,NR,1.0628,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:150787689
+chr8:129011095-<b>C</b>,"7 x 10-8",,NR,1.0632,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs3923387-<b>T</b>,"2 x 10-8",,NR,1.0639,'-,NR,"PLEC, EPPK1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:143912625
+rs3184504-<b>T</b>,"4 x 10-11",,NR,1.0643,'-,NR,"SH2B3, ATXN2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:111446804
+rs34299154-<b>C</b>,"5 x 10-7",,NR,1.0644,'-,NR,ALDH7A1P4,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:62663656
+rs5756405-<b>A</b>,"5 x 10-11",,NR,1.0645,'-,NR,CSF2RB,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,22:36914912
+chr20:52210360-<b>G</b>,"2 x 10-7",,NR,1.0646,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs7620803-<b>T</b>,"7 x 10-7",,NR,1.0648,'-,NR,SIDT1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:113552210
+rs9900529-<b>C</b>,"5 x 10-8",,NR,1.0648,'-,NR,GRB2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:75339695
+rs4820955-<b>A</b>,"1 x 10-8",,NR,1.0652,'-,NR,LIMK2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,22:31226553
+rs802730-<b>T</b>,"1 x 10-9",,NR,1.0653,'-,NR,"PTPRK, THEMIS","Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:127958959
+rs72989863-<b>G</b>,"6 x 10-9",,NR,1.066,'-,NR,MARCHF1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:163572655
+rs11762408-<b>C</b>,"1 x 10-6",,NR,1.0665,'-,NR,"GIMAP2, GIMAP6","Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:150676640
+rs13066789-<b>C</b>,"1 x 10-8",,NR,1.0666,'-,NR,LPP,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:188269836
+rs1442118-<b>A</b>,"8 x 10-6",,NR,1.0668,'-,NR,LINC02163,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:104354615
+rs2052401-<b>C</b>,"2 x 10-7",,NR,1.0669,'-,NR,"GCG, EIF3EP2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:162105535
+rs17741873-<b>G</b>,"5 x 10-8",,NR,1.0676,'-,NR,"PLAU, CAMK2G","Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:73894042
+rs13385171-<b>C</b>,"3 x 10-11",,NR,1.0679,'-,NR,"SPRED2, DNAJB12P1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:65434709
+rs11231749-<b>C</b>,"1 x 10-11",,NR,1.0681,'-,NR,"PRDX5, CCDC88B","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:64327706
+rs72709458-<b>T</b>,"7 x 10-7",,NR,1.0683,'-,NR,TERT,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:1283640
+rs6433892-<b>A</b>,"1 x 10-6",,NR,1.0689,'-,NR,LINC01934,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:181106510
+rs7525478-<b>T</b>,"1 x 10-7",,NR,1.0697,'-,NR,CR1L,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:207692807
+rs760517-<b>C</b>,"5 x 10-11",,NR,1.07,'-,NR,"NCF4, NCF4-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,22:36862944
+rs4392367-<b>G</b>,"1 x 10-7",,NR,1.0701,'-,NR,CRTAP,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:33130167
+rs61708525-<b>G</b>,"2 x 10-8",,NR,1.0702,'-,NR,PLXNC1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:94267677
+rs719316-<b>T</b>,"2 x 10-13",,NR,1.0723,'-,NR,ATXN1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:16672529
+rs735542-<b>A</b>,"6 x 10-13",,NR,1.0728,'-,NR,"CASC19, PCAT1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:127163451
+rs3737798-<b>A</b>,"4 x 10-14",,NR,1.0741,'-,NR,VANGL2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:160420194
+rs6738544-<b>C</b>,"2 x 10-13",,NR,1.0741,'-,NR,STAT4,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:191124630
+rs4812772-<b>C</b>,"6 x 10-9",,NR,1.0743,'-,NR,TOX2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:43950411
+rs12614091-<b>A</b>,"6 x 10-12",,NR,1.076,'-,NR,"NPM1P33, KRT18P39","Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:203768138
+rs1857996-<b>C</b>,"8 x 10-7",,NR,1.0761,'-,NR,DOCK10,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:224942047
+rs10936602-<b>T</b>,"2 x 10-11",,NR,1.0766,'-,NR,"LRRC34, LRRIQ4","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:169818849
+rs11083862-<b>A</b>,"2 x 10-9",,NR,1.0769,'-,NR,SAE1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:47135282
+rs7855251-<b>T</b>,"1 x 10-10",,NR,1.0774,'-,NR,TRIM14,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,9:98105907
+rs13136820-<b>C</b>,"8 x 10-10",,NR,1.0775,'-,NR,"RHOH, LINC02265","Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:40305547
+chr6:119215402-<b>A</b>,"3 x 10-10",,NR,1.0776,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs3845959-<b>T</b>,"2 x 10-7",,NR,1.0787,'-,NR,ALDH1L1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:126148404
+rs2187163-<b>G</b>,"4 x 10-7",,NR,1.0793,'-,NR,BCL2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,18:63263862
+rs2317231-<b>G</b>,"3 x 10-16",,NR,1.0804,'-,NR,"VDAC1P9, FCRL3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:157716547
+rs354033-<b>G</b>,"8 x 10-10",,NR,1.0813,'-,NR,ZNF767P,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:149592373
+rs34681760-<b>C</b>,"2 x 10-11",,NR,1.0819,'-,NR,"TENT4A, LINC02102","Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:6712721
+rs9808753-<b>G</b>,"2 x 10-9",,NR,1.082,'-,NR,IFNGR2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,21:33415005
+rs12434551-<b>A</b>,"4 x 10-17",,NR,1.0822,'-,NR,"RNU6-921P, ZFP36L1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,14:68786647
+rs34695601-<b>T</b>,"6 x 10-13",,NR,1.0832,'-,NR,"BATF, FLVCR2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,14:75547955
+rs2084007-<b>C</b>,"2 x 10-13",,NR,1.0835,'-,NR,JADE2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:134555592
+rs10191360-<b>T</b>,"4 x 10-10",,NR,1.0836,'-,NR,"HNRNPKP2, CXCR4","Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:136127109
+rs2289746-<b>C</b>,"5 x 10-12",,NR,1.0846,'-,NR,CBLB,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:105737111
+rs55733613-<b>C</b>,"1 x 10-6",,NR,1.0852,'-,NR,"CBFA2T3, ACSF3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:89075315
+rs71314176-<b>G</b>,"8 x 10-6",,NR,1.0854,'-,NR,"IFNAR1, IL10RB","Multiple sclerosis","multiple sclerosis",'-,GCST009597,21:33323876
+rs1026916-<b>A</b>,"2 x 10-28",,NR,1.114082,'-,NR,STAT3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:42377817
+rs10271373-<b>A</b>,"3 x 10-9",,NR,1.0571942,'-,NR,ZC3HAV1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:139045049
+rs10414065-<b>T</b>,"4 x 10-6",,NR,1.0884947,'-,NR,"SLC7A10, CEBPA","Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:33230549
+rs1059501-<b>T</b>,"6 x 10-7",,NR,1.0588734,'-,NR,"CD27-AS1, CD27","Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:6451407
+rs10758669-<b>C</b>,"3 x 10-7",,NR,1.0605578,'-,NR,"JAK2, HNRNPA1P41","Multiple sclerosis","multiple sclerosis",'-,GCST009597,9:4981602
+rs1076928-<b>T</b>,"3 x 10-19",,NR,1.1299435,'-,NR,ETV7,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:36380912
+rs10853845-<b>G</b>,"2 x 10-6",,NR,1.0484378,'-,NR,FPR1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:51784930
+rs1087056-<b>A</b>,"3 x 10-19",,NR,1.0877842,'-,NR,"LINC02664, ZNF438","Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:31106832
+rs10891261-<b>C</b>,"6 x 10-8",,NR,1.0670081,'-,NR,POU2AF1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:111405360
+rs10893900-<b>G</b>,"3 x 10-6",,NR,1.048218,'-,NR,"FLI1, ETS1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:128632327
+rs10904115-<b>T</b>,"1 x 10-7",,NR,1.0595465,'-,NR,"LINC02660, LINC02639","Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:3875982
+rs10918297-<b>G</b>,"8 x 10-7",,NR,1.056859,'-,NR,UCK2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:165863039
+rs10951154-<b>C</b>,"3 x 10-10",,NR,1.0799136,'-,NR,"HOXA1, HOTAIRM1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:27095695
+rs10965250-<b>A</b>,"4 x 10-7",,NR,1.0634904,'-,NR,CDKN2B-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,9:22133285
+rs11125803-<b>C</b>,"5 x 10-10",,NR,1.0708932,'-,NR,ADCY3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:24829308
+rs11150602-<b>G</b>,"5 x 10-6",,NR,1.0729614,'-,NR,SETD1A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:30982502
+rs11161550-<b>G</b>,"2 x 10-9",,NR,1.061008,'-,NR,"SYDE2, C1orf52","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:85216337
+rs1129183-<b>T</b>,"4 x 10-7",,NR,1.0765421,'-,NR,LZTFL1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:45828480
+rs11578655-<b>G</b>,"3 x 10-8",,NR,1.0866022,'-,NR,SLC30A7,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:100947346
+rs11669861-<b>C</b>,"8 x 10-6",,NR,1.0506408,'-,NR,"MEF2B, BORCS8-MEF2B","Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:19166593
+rs11749040-<b>A</b>,"5 x 10-25",,NR,1.1495575,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:40396323
+rs11809700-<b>T</b>,"3 x 10-30",,NR,1.1300713,'-,NR,EVI5,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:92687078
+rs11810158-<b>T</b>,"5 x 10-6",,NR,1.0800303,'-,NR,FTH1P22,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:116800821
+rs11852059-<b>C</b>,"1 x 10-9",,NR,1.0950503,'-,NR,GNG2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,14:51839373
+rs11899404-<b>C</b>,"2 x 10-8",,NR,1.0546298,'-,NR,MIR3681HG,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:12467767
+rs12094392-<b>C</b>,"2 x 10-6",,NR,1.1760556,'-,NR,PHGDH,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:119731286
+rs12147246-<b>A</b>,"2 x 10-15",,NR,1.0943314,'-,NR,TRAF3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,14:102799507
+rs12211604-<b>G</b>,"2 x 10-8",,NR,1.0654166,'-,NR,RREB1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:7099796
+rs12456021-<b>A</b>,"2 x 10-7",,NR,1.0688329,'-,NR,ALPK2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,18:58546158
+rs1250551-<b>T</b>,"2 x 10-23",,NR,1.1009579,'-,NR,ZMIZ1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:79299578
+rs12588969-<b>G</b>,"2 x 10-9",,NR,1.0766581,'-,NR,"TRAF3, RCOR1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,14:102764421
+rs12722574-<b>A</b>,"4 x 10-7",,NR,1.1039965,'-,NR,IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:6024499
+rs12755416-<b>G</b>,"6 x 10-8",,NR,1.0824854,'-,NR,"HORMAD1, CTSS","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:150722004
+rs12971909-<b>A</b>,"6 x 10-9",,NR,1.0725011,'-,NR,"HDGFL2, UBXN6","Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:4466469
+rs13193860-<b>A</b>,"1 x 10-6",,NR,1.0665529,'-,NR,MARCKS,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:113828132
+rs13254990-<b>T</b>,"6 x 10-8",,NR,1.0632641,'-,NR,PVT1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:128064205
+rs13327021-<b>T</b>,"2 x 10-16",,NR,1.0831889,'-,NR,"LINC01980, EOMES","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:27741524
+rs13428812-<b>G</b>,"1 x 10-7",,NR,1.0542963,'-,NR,DNMT3A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:25269598
+rs1365120-<b>C</b>,"4 x 10-8",,NR,1.0957704,'-,NR,PRR5L,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:36416525
+rs1399180-<b>C</b>,"7 x 10-11",,NR,1.1015642,'-,NR,GATA3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:8056756
+rs140522-<b>T</b>,"1 x 10-21",,NR,1.1158223,'-,NR,"KLHDC7B-DT, ODF3B","Multiple sclerosis","multiple sclerosis",'-,GCST009597,22:50532837
+rs1415069-<b>G</b>,"3 x 10-8",,NR,1.0741138,'-,NR,DIPK1A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:92961312
+rs1465697-<b>T</b>,"3 x 10-18",,NR,1.0973334,'-,NR,"SLC6A16, CD37","Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:49333989
+rs16917546-<b>T</b>,"6 x 10-6",,NR,1.0648494,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:62637778
+rs17051321-<b>T</b>,"1 x 10-10",,NR,1.0843635,'-,NR,TNIP3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:121198294
+rs1738074-<b>C</b>,"3 x 10-35",,NR,1.1327595,'-,NR,"TAGAP, TAGAP-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:159044945
+rs1800693-<b>C</b>,"2 x 10-47",,NR,1.1494253,'-,NR,TNFRSF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:6330843
+rs1801133-<b>G</b>,"2 x 10-15",,NR,1.107052,'-,NR,MTHFR,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:11796321
+rs1819577-<b>A</b>,"1 x 10-7",,NR,1.0606704,'-,NR,MED6P1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:88067364
+rs2045769-<b>C</b>,"5 x 10-6",,NR,1.0637165,'-,NR,"RNA5SP158, KLF3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:38719543
+rs3747562-<b>G</b>,"9 x 10-6",,NR,1.0571942,'-,NR,PRICKLE1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:42460403
+rs3809627-<b>C</b>,"1 x 10-21",,NR,1.0943314,'-,NR,TBX6,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:30091839
+rs405343-<b>T</b>,"3 x 10-15",,NR,1.101079,'-,NR,"SSTR5-AS1, SOX8","Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:1017832
+rs408667-<b>A</b>,"3 x 10-7",,NR,1.0526316,'-,NR,GALC,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,14:87951477
+rs4262739-<b>G</b>,"4 x 10-12",,NR,1.0676917,'-,NR,ETS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:128551280
+rs4325907-<b>C</b>,"2 x 10-9",,NR,1.0751532,'-,NR,"ZPLD1, LINC02085","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:102030178
+rs4409785-<b>C</b>,"7 x 10-12",,NR,1.0874293,'-,NR,"FAM76B, SESN3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:95578258
+rs4661089-<b>T</b>,"2 x 10-6",,NR,1.0605578,'-,NR,"ETV3, ETV3L","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:157119355
+rs4728142-<b>A</b>,"3 x 10-9",,NR,1.058313,'-,NR,"IRF5, KCP","Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:128933913
+rs4765569-<b>C</b>,"2 x 10-7",,NR,1.0887316,'-,NR,NCOR2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:124466106
+rs4796224-<b>G</b>,"1 x 10-15",,NR,1.0915838,'-,NR,ZNHIT3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:36486677
+rs4808760-<b>C</b>,"6 x 10-25",,NR,1.1198208,'-,NR,"MPV17L2, IFI30","Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:18191169
+rs4812492-<b>C</b>,"3 x 10-6",,NR,1.0664392,'-,NR,ZHX3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:41309482
+rs483180-<b>C</b>,"1 x 10-17",,NR,1.0858942,'-,NR,PHGDH,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:119724882
+rs4834222-<b>T</b>,"2 x 10-7",,NR,1.0647359,'-,NR,FAM241A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:112153589
+rs4896153-<b>T</b>,"3 x 10-29",,NR,1.1152002,'-,NR,LINC00271,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:135512325
+rs4896477-<b>G</b>,"8 x 10-8",,NR,1.055409,'-,NR,ATP5PBP6,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:139580677
+rs531612-<b>T</b>,"1 x 10-9",,NR,1.0689471,'-,NR,"TSGA10IP, DRAP1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:65937961
+rs55858457-<b>T</b>,"3 x 10-8",,NR,1.0665529,'-,NR,CHST12,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:2403667
+rs56095240-<b>A</b>,"1 x 10-9",,NR,1.108156,'-,NR,FAM76B,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:95688666
+rs56376240-<b>A</b>,"7 x 10-8",,NR,1.0851872,'-,NR,HTR3A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:113978180
+rs57116599-<b>G</b>,"1 x 10-11",,NR,1.0944512,'-,NR,MERTK,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:112013222
+rs58394161-<b>C</b>,"1 x 10-14",,NR,1.1326311,'-,NR,GFI1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:92474402
+rs60600003-<b>G</b>,"5 x 10-19",,NR,1.1460004,'-,NR,ELMO1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:37342861
+rs61909096-<b>G</b>,"5 x 10-6",,NR,1.0527425,'-,NR,ETS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:128481247
+rs1112718-<b>A</b>,"2 x 10-17",,NR,1.086,'-,NR,Y_RNA,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:92719350
+rs11859008-<b>C</b>,"2 x 10-7",,NR,1.0863,'-,NR,"WWOX, RNA5SP431","Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:79252606
+rs983494-<b>G</b>,"6 x 10-16",,NR,1.0875,'-,NR,"SLAMF7, CD48","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:160734175
+rs10230723-<b>A</b>,"8 x 10-11",,NR,1.0876,'-,NR,SPATA48,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:50200284
+rs2546890-<b>A</b>,"5 x 10-19",,NR,1.0878,'-,NR,IL12B,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:159332892
+rs8062446-<b>T</b>,"4 x 10-9",,NR,1.0878,'-,NR,NLRC5,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:57043182
+rs61863928-<b>G</b>,"3 x 10-16",,NR,1.0891,'-,NR,ALDH7A1P4,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:62689789
+rs9610458-<b>T</b>,"1 x 10-19",,NR,1.0893,'-,NR,MAPK1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,22:21851064
+rs12622670-<b>T</b>,"5 x 10-16",,NR,1.0901,'-,NR,"PLEK, WDR4P2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:68419404
+chr7:50328339-<b>A</b>,"3 x 10-16",,NR,1.0912,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs13257990-<b>C</b>,"6 x 10-6",,NR,1.0912,'-,NR,"IFITM3P8, NASPP1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:60927999
+rs13414105-<b>C</b>,"7 x 10-10",,NR,1.0912,'-,NR,LBH,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:30249576
+rs17066362-<b>T</b>,"1 x 10-6",,NR,1.0919,'-,NR,RN7SKP211,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:105813894
+rs6533052-<b>A</b>,"7 x 10-16",,NR,1.0927,'-,NR,SLC9B1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:102990624
+rs7731626-<b>G</b>,"4 x 10-15",,NR,1.0944,'-,NR,ANKRD55,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:56148856
+rs2331964-<b>C</b>,"5 x 10-20",,NR,1.0948,'-,NR,IQCB1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:121824051
+rs1177228-<b>G</b>,"2 x 10-19",,NR,1.0953,'-,NR,PUS10,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:61015275
+rs61884005-<b>C</b>,"6 x 10-9",,NR,1.0953,'-,NR,"RRAS2, COPB1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:14381384
+rs10936182-<b>T</b>,"5 x 10-8",,NR,1.0971,'-,NR,"IL12A, IL12A-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:159994586
+rs34723276-<b>A</b>,"1 x 10-22",,NR,1.0973,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs134490-<b>T</b>,"1 x 10-7",,NR,1.0975,'-,NR,TTC28,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,22:28334187
+rs6032662-<b>C</b>,"5 x 10-19",,NR,1.0995,'-,NR,"CD40, RPL13P2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:46105671
+rs9878602-<b>T</b>,"2 x 10-18",,NR,1.1002,'-,NR,FOXP1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:71486187
+rs17780048-<b>C</b>,"5 x 10-12",,NR,1.1008,'-,NR,WAKMAR2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:137858009
+rs10951042-<b>C</b>,"1 x 10-18",,NR,1.1021,'-,NR,CARD11,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:3099783
+rs11079784-<b>C</b>,"2 x 10-27",,NR,1.1074,'-,NR,KPNB1-DT,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:47624914
+rs58166386-<b>G</b>,"4 x 10-24",,NR,1.108,'-,NR,EPS15L1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:16448610
+chr5:1519833-<b>T</b>,"8 x 10-6",,NR,1.1081,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs62208470-<b>G</b>,"5 x 10-6",,NR,1.1088,'-,NR,ZHX3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:41317131
+chr13:100026952-<b>A</b>,"9 x 10-17",,NR,1.11,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs1014486-<b>C</b>,"3 x 10-28",,NR,1.11,'-,NR,IL12A-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:159973324
+rs6589706-<b>A</b>,"5 x 10-26",,NR,1.11,'-,NR,"CXCR5, Y_RNA","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:118877104
+chr6:14691215-<b>C</b>,"1 x 10-17",,NR,1.1108,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs244656-<b>A</b>,"3 x 10-14",,NR,1.1116,'-,NR,TCF7,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:134114136
+rs631204-<b>A</b>,"5 x 10-25",,NR,1.1127,'-,NR,"LINC02539, BTF3L4P3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:137638318
+rs4560284-<b>A</b>,"6 x 10-8",,NR,1.1138,'-,NR,"BHLHE40-AS1, ITPR1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:4849521
+chr3:5035903-<b>C</b>,"2 x 10-6",,NR,1.1146,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+chr10:6390285-<b>C</b>,"1 x 10-6",,NR,1.1147,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs2150879-<b>G</b>,"4 x 10-31",,NR,1.1163,'-,NR,VMP1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:59781849
+rs12478539-<b>G</b>,"2 x 10-24",,NR,1.1165,'-,NR,LINC02580,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:43128185
+rs28834106-<b>T</b>,"4 x 10-19",,NR,1.1171,'-,NR,"KEAP1, PDE4A","Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:10481468
+rs2069852-<b>G</b>,"8 x 10-7",,NR,1.1173,'-,NR,"IL6, MTCYBP42","Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:22732641
+chr3:121783015-<b>T</b>,"8 x 10-10",,NR,1.1199,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs12365699-<b>G</b>,"2 x 10-19",,NR,1.1237,'-,NR,"CXCR5, Y_RNA","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:118872577
+rs67111717-<b>G</b>,"3 x 10-21",,NR,1.1041,'-,NR,RGS14,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:177363161
+rs59655222-<b>T</b>,"6 x 10-21",,NR,1.1049,'-,NR,INAVA,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:200906769
+rs2327586-<b>T</b>,"9 x 10-20",,NR,1.1053,'-,NR,"HBS1L, MYB","Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:135174088
+rs62013236-<b>C</b>,"9 x 10-17",,NR,1.106,'-,NR,"RASGRF1, CTSH","Multiple sclerosis","multiple sclerosis",'-,GCST009597,15:78955140
+rs6427540-<b>C</b>,"1 x 10-9",,NR,1.106,'-,NR,"SLAMF1, SETP9","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:160664798
+rs12925972-<b>C</b>,"1 x 10-19",,NR,1.107,'-,NR,WWOX,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:79077400
+rs2242508-<b>A</b>,"3 x 10-7",,NR,1.0589855,'-,NR,PHKG1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,7:56083796
+rs2248137-<b>C</b>,"2 x 10-19",,NR,1.0919415,'-,NR,CYP24A1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:54173204
+rs2269434-<b>C</b>,"1 x 10-13",,NR,1.0906315,'-,NR,MYBPC3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:47338861
+rs2273215-<b>G</b>,"3 x 10-6",,NR,1.076774,'-,NR,LINC01624,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:170276994
+rs2286974-<b>A</b>,"4 x 10-9",,NR,1.1008366,'-,NR,CLEC16A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:11020655
+rs2364485-<b>A</b>,"2 x 10-20",,NR,1.1158223,'-,NR,"LTBR, SRP14P1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:6405797
+rs2469434-<b>C</b>,"3 x 10-8",,NR,1.0546298,'-,NR,CD226,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,18:69876810
+rs249677-<b>A</b>,"6 x 10-13",,NR,1.0737679,'-,NR,NDFIP1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:142159774
+rs2585447-<b>C</b>,"3 x 10-10",,NR,1.0879025,'-,NR,"CYP24A1, BCAS1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:54127898
+rs2590438-<b>G</b>,"5 x 10-9",,NR,1.0687187,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:187848180
+rs2618101-<b>G</b>,"9 x 10-8",,NR,1.0674636,'-,NR,LINC01980,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:27883014
+rs27002-<b>C</b>,"4 x 10-6",,NR,1.0566356,'-,NR,MCTP1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:94870132
+rs2705616-<b>C</b>,"1 x 10-11",,NR,1.077238,'-,NR,AFF1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:86941244
+rs2724416-<b>T</b>,"2 x 10-6",,NR,1.0577533,'-,NR,LINC02732,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:110375886
+rs2726479-<b>C</b>,"4 x 10-11",,NR,1.0674636,'-,NR,"PPA2, RN7SL89P","Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:105334432
+rs2727790-<b>A</b>,"9 x 10-6",,NR,1.2525051,'-,NR,"APOA4, APOA5","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:116817667
+rs2836438-<b>A</b>,"3 x 10-10",,NR,1.1061947,'-,NR,ERG,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,21:38492803
+rs28703878-<b>G</b>,"5 x 10-22",,NR,1.1079105,'-,NR,PKIA-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:78504987
+rs2960172-<b>A</b>,"2 x 10-6",,NR,1.0571942,'-,NR,"ZNF652, FLJ40194","Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:49302219
+rs2986736-<b>C</b>,"9 x 10-17",,NR,1.1200718,'-,NR,ESPN,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:6452487
+rs31220-<b>G</b>,"3 x 10-6",,NR,1.0648494,'-,NR,"ITK, FAM71B","Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:157163344
+rs32658-<b>T</b>,"3 x 10-8",,NR,1.0631511,'-,NR,TNFAIP8,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:119367967
+rs34026809-<b>G</b>,"8 x 10-17",,NR,1.0905125,'-,NR,PHLDB1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:118609980
+rs35218683-<b>T</b>,"1 x 10-8",,NR,1.0792143,'-,NR,IFITM3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:321138
+rs35486093-<b>G</b>,"2 x 10-31",,NR,1.2090436,'-,NR,"C1orf52, Y_RNA","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:85264137
+rs62059189-<b>T</b>,"3 x 10-6",,NR,1.0752687,'-,NR,"Y_RNA, SLC2A4","Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:7272525
+rs6492971-<b>A</b>,"3 x 10-6",,NR,1.0539628,'-,NR,"DLL4, ISCA1P4","Multiple sclerosis","multiple sclerosis",'-,GCST009597,15:40940837
+rs6495124-<b>C</b>,"3 x 10-7",,NR,1.05241,'-,NR,SCAMP2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,15:74862438
+rs6496663-<b>C</b>,"1 x 10-12",,NR,1.0896807,'-,NR,"GABARAPL3, GOLGA2P8","Multiple sclerosis","multiple sclerosis",'-,GCST009597,15:90344352
+rs6564681-<b>C</b>,"4 x 10-14",,NR,1.0808474,'-,NR,"MAF, LINC01229","Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:79618823
+rs6589939-<b>G</b>,"2 x 10-12",,NR,1.0828371,'-,NR,"UBASH3B, GLULP3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:122647817
+rs6670198-<b>T</b>,"2 x 10-36",,NR,1.1367512,'-,NR,PRXL2B,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:2589088
+rs6672420-<b>A</b>,"1 x 10-9",,NR,1.0633773,'-,NR,RUNX3,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:24964519
+rs67457628-<b>T</b>,"7 x 10-6",,NR,1.0630382,'-,NR,"SMG6, HIC1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:2061984
+rs67934705-<b>G</b>,"4 x 10-8",,NR,1.0684903,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs6837324-<b>G</b>,"1 x 10-11",,NR,1.0665529,'-,NR,TXK,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:48125245
+rs6911131-<b>G</b>,"1 x 10-10",,NR,1.121202,'-,NR,PHACTR2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:143544084
+rs6990534-<b>G</b>,"6 x 10-20",,NR,1.1020498,'-,NR,PVT1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:127801845
+rs7260482-<b>C</b>,"1 x 10-9",,NR,1.0778185,'-,NR,CEACAM16-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:44640642
+rs72665771-<b>A</b>,"8 x 10-6",,NR,1.0556318,'-,NR,MAPK10,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:86592426
+rs72928038-<b>A</b>,"8 x 10-29",,NR,1.1543345,'-,NR,BACH2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:90267049
+rs7295386-<b>C</b>,"9 x 10-6",,NR,1.0539628,'-,NR,"RN7SL519P, ATF1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:50827114
+rs73060045-<b>G</b>,"8 x 10-7",,NR,1.1214534,'-,NR,BCL2L14,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:12015197
+rs73277163-<b>G</b>,"2 x 10-6",,NR,1.2033695,'-,NR,ETV6,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:11845842
+rs7698247-<b>G</b>,"6 x 10-7",,NR,1.0615711,'-,NR,"N4BP2, RHOH","Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:40190429
+rs7830997-<b>A</b>,"9 x 10-8",,NR,1.0625863,'-,NR,"RN7SL203P, TRAM1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:70529879
+rs7975763-<b>T</b>,"3 x 10-13",,NR,1.085305,'-,NR,PITPNM2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:123119506
+rs7977720-<b>T</b>,"5 x 10-24",,NR,1.0995052,'-,NR,"LINC02390, CLECL1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:9713753
+rs883871-<b>A</b>,"9 x 10-14",,NR,1.1280316,'-,NR,NR1D1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:40096407
+rs9308424-<b>G</b>,"9 x 10-14",,NR,1.0945709,'-,NR,"BATF3, NSL1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:212704434
+rs11066320-<b>A</b>,"3 x 10-6",,NR,1.0458,'-,NR,PTPN11,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:112468611
+rs71545193-<b>A</b>,"6 x 10-8",,NR,1.0568,'-,NR,EXOC2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:520595
+rs35280661-<b>G</b>,"2 x 10-6",,NR,1.0464,'-,NR,SGSM2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:2350174
+rs62088246-<b>G</b>,"7 x 10-6",,NR,1.0575,'-,NR,UNK,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:75811880
+rs2295799-<b>G</b>,"8 x 10-6",,NR,1.0501,'-,NR,"FAM221B, TMEM8B","Multiple sclerosis","multiple sclerosis",'-,GCST009597,9:35821800
+rs2811727-<b>A</b>,"7 x 10-6",,NR,1.0522,'-,NR,LCN6,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,9:136745506
+rs12909611-<b>C</b>,"8 x 10-6",,NR,1.0524,'-,NR,RORA,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,15:60865204
+rs16903340-<b>A</b>,"5 x 10-6",,NR,1.0524,'-,NR,"MEF2C, MEF2C-AS2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:88768123
+rs335123-<b>T</b>,"2 x 10-6",,NR,1.0585,'-,NR,ANKRD36BP2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:88794264
+rs17591266-<b>G</b>,"2 x 10-7",,NR,1.0586,'-,NR,COG6,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,13:39783540
+rs6921288-<b>A</b>,"2 x 10-7",,NR,1.0586,'-,NR,TMEM244,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,6:129897657
+rs3783196-<b>C</b>,"1 x 10-7",,NR,1.0588,'-,NR,RGCC,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,13:41465152
+rs6020055-<b>A</b>,"5 x 10-8",,NR,1.0590976,'-,NR,"RNU6-919P, SLC9A8","Multiple sclerosis","multiple sclerosis",'-,GCST009597,20:49805558
+rs13330176-<b>A</b>,"5 x 10-6",,NR,1.0546,'-,NR,LINC02132,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,16:85985481
+chr6:130348257-<b>T</b>,"3 x 10-6",,NR,1.0547,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs2505509-<b>C</b>,"5 x 10-7",,NR,1.0548,'-,NR,RASGEF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:43252974
+rs8078776-<b>A</b>,"9 x 10-6",,NR,1.0549,'-,NR,MINK1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:4875192
+rs11629690-<b>G</b>,"8 x 10-7",,NR,1.0558,'-,NR,AKAP13,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,15:85744493
+rs11919880-<b>A</b>,"8 x 10-10",,NR,1.0603,'-,NR,"TRIM71, CCR4","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:32920559
+rs11008218-<b>G</b>,"2 x 10-6",,NR,1.0564,'-,NR,"LINC02644, ZNF438","Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:30744074
+rs1567526-<b>G</b>,"3 x 10-6",,NR,1.0565,'-,NR,MYO5B,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,18:50155855
+rs10905353-<b>G</b>,"3 x 10-6",,NR,1.0566,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,10:8380654
+rs10789825-<b>G</b>,"2 x 10-6",,NR,1.0608,'-,NR,POU2AF1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,11:111379094
+rs28512338-<b>A</b>,"4 x 10-7",,NR,1.0609,'-,NR,"LIPG, SMUG1P1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,18:49600629
+rs290260-<b>C</b>,"6 x 10-7",,NR,1.0613,'-,NR,"SYK, OR7E108P","Multiple sclerosis","multiple sclerosis",'-,GCST009597,9:90792671
+rs7222450-<b>A</b>,"2 x 10-10",,NR,1.0617,'-,NR,"ARHGAP27, RNA5SP443","Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:45330304
+rs2333227-<b>C</b>,"8 x 10-6",,NR,1.0618,'-,NR,"MPO, TSPOAP1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,17:58281401
+rs4940730-<b>A</b>,"4 x 10-10",,NR,1.0626,'-,NR,ALPK2,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,18:58602505
+rs137955-<b>T</b>,"1 x 10-8",,NR,1.0568,'-,NR,"ENTHD1, GRAP2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,22:39895803
+rs2253675-<b>C</b>,"6 x 10-6",,NR,1.046,'-,NR,"SERBP1P3, RFT1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:53085518
+rs10931933-<b>G</b>,"1 x 10-6",,NR,1.0573,'-,NR,CASP8,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:201247748
+rs4941702-<b>G</b>,"3 x 10-6",,NR,1.0474,'-,NR,"LINC00423, TOMM22P3","Multiple sclerosis","multiple sclerosis",'-,GCST009597,13:32918762
+rs12609500-<b>C</b>,"5 x 10-9",,NR,1.0581,'-,NR,SMARCA4,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,19:11063252
+chr3:47005668-<b>G</b>,"4 x 10-7",,NR,1.0582,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs1684468-<b>T</b>,"9 x 10-7",,NR,1.0582,'-,NR,"NRROS, LINC01063","Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:196633959
+rs566267-<b>G</b>,"4 x 10-6",,NR,1.0527,'-,NR,PDE4B,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:66288850
+rs1877721-<b>G</b>,"2 x 10-6",,NR,1.053,'-,NR,"TNIP2, SH3BP2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,4:2767542
+rs2420518-<b>C</b>,"6 x 10-7",,NR,1.053,'-,NR,LINC01185,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:60827845
+rs7565445-<b>C</b>,"3 x 10-6",,NR,1.053,'-,NR,MIR4435-2HG,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:111177884
+rs2741190-<b>C</b>,"7 x 10-6",,NR,1.0531,'-,NR,"SLA, TG","Multiple sclerosis","multiple sclerosis",'-,GCST009597,8:133041985
+rs4543864-<b>T</b>,"3 x 10-6",,NR,1.0533,'-,NR,"LINC01136, LINC01353","Multiple sclerosis","multiple sclerosis",'-,GCST009597,1:203291372
+rs1152430-<b>C</b>,"8 x 10-6",,NR,1.0594,'-,NR,RPS6KA5,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,14:90906615
+rs6789653-<b>G</b>,"1 x 10-9",,NR,1.0595,'-,NR,ZBTB38,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,3:141432148
+rs9977672-<b>G</b>,"1 x 10-7",,NR,1.0595,'-,NR,RPL23AP12,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,21:39091357
+rs7134559-<b>C</b>,"6 x 10-7",,NR,1.0596,'-,NR,"NCKAP5L, SCAF11","Multiple sclerosis","multiple sclerosis",'-,GCST009597,12:46025303
+chr10:21867179-<b>T</b>,"4 x 10-6",,NR,1.0564,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs33384-<b>G</b>,"7 x 10-7",,NR,1.0603,'-,NR,"ARHGAP26, NR3C1","Multiple sclerosis","multiple sclerosis",'-,GCST009597,5:143229960
+chr16:30171625-<b>C</b>,"3 x 10-6",,NR,1.0606,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,"Mapping not available"
+rs62189580-<b>G</b>,"8 x 10-7",,NR,1.0566,'-,NR,"LINC01953, IKZF2","Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:213154257
+rs929566-<b>C</b>,"6 x 10-6",,NR,1.0567,'-,NR,NAB1,"Multiple sclerosis","multiple sclerosis",'-,GCST009597,2:190656715
+rs2300747-<b>A</b>,"3 x 10-10",,0.88,1.3,'-,[1.14-1.47],CD58,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,1:116561593
+rs3135388-<b>A</b>,"4 x 10-225",,0.22,2.75,'-,[2.46-3.07],'-,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,"Mapping not available"
+rs2523393-<b>A</b>,"1 x 10-17",,0.59,1.28,'-,[1.18-1.39],"HLA-F-AS1, HLA-F","Multiple sclerosis","multiple sclerosis",'-,GCST000424,6:29737882
+rs4680534-<b>C</b>,"6 x 10-6",,0.37,1.12,'-,[1.02-1.22],IL12A-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,3:159981157
+rs2104286-<b>T</b>,"9 x 10-8",,0.76,1.15,'-,[1.04-1.27],IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,10:6057082
+rs4149584-<b>T</b>,"5 x 10-6",,0.022,1.58,'-,[1.15-2.17],TNFRSF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,12:6333477
+rs882300-<b>C</b>,"1 x 10-7",,0.61,1.19,'-,[1.09-1.30],HNRNPKP2,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,2:136218685
+rs11865121-<b>C</b>,"2 x 10-7",,0.69,1.15,'-,[1.04-1.25],CLEC16A,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,16:11072831
+rs6897932-<b>C</b>,"2 x 10-6",,0.75,1.12,'-,[1.02-1.23],IL7R,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,5:35874473
+rs17445836-<b>G</b>,"4 x 10-9",,0.81,1.25,'-,[1.12-1.39],LINC02132,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,16:85984057
+rs17824933-<b>G</b>,"4 x 10-9",,0.25,1.18,'-,[1.07-1.30],CD6,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,11:60993140
+rs6896969-<b>C</b>,"2 x 10-7",,0.62,1.1,'-,[1.01-1.20],TTC33,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,5:40424324
+rs1790100-<b>G</b>,"7 x 10-7",,0.24,1.11,'-,[1.00-1.22],MPHOSPH9,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,12:123172178
+rs1250540-<b>G</b>,"2 x 10-6",,0.35,1.12,'-,[1.02-1.22],ZMIZ1,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,10:79276250
+rs1800693-<b>C</b>,"2 x 10-11",,0.45,1.2,'-,[1.10-1.31],TNFRSF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST000424,12:6330843
+rs9292777-<b>T</b>,"1 x 10-9",,NR,1.19,'-,[1.12-1.25],TTC33,"Multiple sclerosis","multiple sclerosis",'-,GCST001505,5:40437846
+rs3129934-<b>T</b>,"7 x 10-16",,0.10,2.34,'-,[1.90-2.87],"TSBP1, TSBP1-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST001459,6:32368410
+rs3129934-<b>T</b>,"9 x 10-11",,NR,3.3,'-,[2.3-4.9],"TSBP1, TSBP1-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST000252,6:32368410
+rs9320598-<b>?</b>,"9 x 10-7",,0.951,2.17,'-,[NR],'-,"Multiple sclerosis (OCB status)","multiple sclerosis",'-,GCST002072,6:97571204
+rs11026091-<b>?</b>,"2 x 10-6","(Cluxel minimum distance)",'-,'-,'-,'-,"NDUFA5P8, MRGPRE","Multiple sclerosis","multiple sclerosis",'-,GCST001860,11:3238579
+rs13279485-<b>?</b>,"1 x 10-6","(Cluxel size)",'-,'-,'-,'-,"ARHGEF10, KBTBD11-OT1","Multiple sclerosis","multiple sclerosis",'-,GCST001860,8:1935186
+rs4669226-<b>?</b>,"5 x 10-6","(Cluxel size)",'-,'-,'-,'-,LINC00298,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,2:7913466
+rs9568281-<b>?</b>,"3 x 10-7","(Cluxel size)",'-,'-,'-,'-,"ARL11, RCBTB1","Multiple sclerosis","multiple sclerosis",'-,GCST001860,13:49611068
+rs7924357-<b>?</b>,"1 x 10-6","(Cluxel size)",'-,'-,'-,'-,WTAPP1,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,11:102757321
+rs733724-<b>?</b>,"3 x 10-7","(Cluxel size)",'-,'-,'-,'-,HACE1,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,6:104775989
+rs17267338-<b>?</b>,"8 x 10-6","(Cluxel size)",'-,'-,'-,'-,VTI1A,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,10:112628513
+rs17749211-<b>?</b>,"8 x 10-6","(Cluxel size)",'-,'-,'-,'-,SAMD12,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,8:118379170
+rs1821625-<b>?</b>,"7 x 10-6","(Cluxel size)",'-,'-,'-,'-,NCKAP5,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,2:133472646
+rs12513380-<b>?</b>,"5 x 10-6","(Cluxel size)",'-,'-,'-,'-,TLL1,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,4:165909212
+rs533259-<b>?</b>,"6 x 10-9","(Cluxel size)",'-,'-,'-,'-,RNASEL,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,1:182579884
+rs17090640-<b>?</b>,"3 x 10-6","(Cluxel size)",'-,'-,'-,'-,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,4:179746494
+rs4271113-<b>?</b>,"9 x 10-7","(Cluxel minimum distance)",'-,'-,'-,'-,FAM47B,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,X:34874386
+rs2920001-<b>?</b>,"1 x 10-6","(Cluxel minimum distance)",'-,'-,'-,'-,DSC1,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,18:31209762
+rs5978649-<b>?</b>,"4 x 10-6","(Cluxel minimum distance)",'-,'-,'-,'-,EGFL6,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,X:13596999
+rs4916321-<b>?</b>,"7 x 10-6","(Cluxel size)",'-,'-,'-,'-,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001860,1:173315060
+rs12368653-<b>A</b>,"2 x 10-9","(Conditioned on rs7238078)",NR,1.1,'-,[1.09-1.12],"TSPAN31, AGAP2","Multiple sclerosis","multiple sclerosis",'-,GCST001198,12:57739473
+rs17594362-<b>A</b>,"4 x 10-6",,NR,1.11,'-,[1.09-1.13],"VWA8, RGCC","Multiple sclerosis","multiple sclerosis",'-,GCST001198,13:41565109
+rs7238078-<b>A</b>,"3 x 10-9",,NR,1.12,'-,[1.1-1.14],MALT1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,18:58716960
+rs281380-<b>G</b>,"2 x 10-6","(Conditioned on rs2303759)",NR,1.08,'-,[1.07-1.09],"FUT2, MAMSTR","Multiple sclerosis","multiple sclerosis",'-,GCST001198,19:48711213
+rs7522462-<b>G</b>,"2 x 10-9",,NR,1.11,'-,[1.1-1.13],INAVA,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:200912467
+rs2293370-<b>G</b>,"3 x 10-9",,NR,1.13,'-,[1.11-1.15],TIMMDC1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:119501087
+rs17174870-<b>G</b>,"1 x 10-8",,NR,1.11,'-,[1.09-1.13],MERTK,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,2:111907624
+rs1335532-<b>A</b>,"3 x 10-16",,NR,1.22,'-,[1.19-1.24],CD58,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:116558335
+rs9321490-<b>G</b>,"2 x 10-6","(Conditioned on rs11154801)",NR,1.1,'-,[1.08-1.11],"MYB, HBS1L","Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:135173737
+rs8112449-<b>G</b>,"1 x 10-6",,NR,1.08,'-,[1.07-1.1],CDC37,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,19:10409388
+rs6952809-<b>A</b>,"4 x 10-6","(Conditioned on rs1843938)",NR,1.08,'-,[1.06-1.09],CHST12,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,7:2408858
+rs7200786-<b>A</b>,"9 x 10-17",,NR,1.15,'-,[1.13-1.16],CLEC16A,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,16:11083944
+rs669607-<b>C</b>,"2 x 10-15",,NR,1.13,'-,[1.12-1.15],LINC01967,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:28029953
+rs13192841-<b>A</b>,"1 x 10-8","(Conditioned on rs17066096)",NR,1.1,'-,[1.09-1.12],LINC02539,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:137646077
+rs2425752-<b>A</b>,"5 x 10-10",,NR,1.11,'-,[1.1-1.13],NCOA5,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,20:46073481
+rs1062158-<b>A</b>,"2 x 10-6",,NR,1.08,'-,[1.07-1.1],NDFIP1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,5:142143435
+rs11810217-<b>A</b>,"6 x 10-15",,NR,1.15,'-,[1.13-1.16],EVI5,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:92682820
+rs12048904-<b>A</b>,"4 x 10-8",,NR,1.09,'-,[1.08-1.11],EXTL2,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:100865980
+rs2119704-<b>C</b>,"2 x 10-10",,NR,1.22,'-,[1.19-1.25],LINC01147,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,14:88021345
+rs9821630-<b>G</b>,"4 x 10-6",,NR,1.08,'-,[1.07-1.1],PLCL2,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:16929446
+rs7595037-<b>A</b>,"5 x 10-11",,NR,1.11,'-,[1.1-1.12],"PLEK, WDR4P2","Multiple sclerosis","multiple sclerosis",'-,GCST001198,2:68419963
+rs4613763-<b>G</b>,"3 x 10-16",,NR,1.2,'-,[1.18-1.22],'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,5:40392626
+rs7255066-<b>G</b>,"1 x 10-6",,NR,1.09,'-,[1.07-1.11],CEACAM16-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,19:44642803
+rs2019960-<b>G</b>,"5 x 10-9","(Conditioned on rs4410871)",NR,1.12,'-,[1.1-1.13],PVT1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,8:128180025
+rs4075958-<b>A</b>,"5 x 10-7",,NR,1.09,'-,[1.08-1.11],"RGS14, LMAN2","Multiple sclerosis","multiple sclerosis",'-,GCST001198,5:177357511
+rs180515-<b>G</b>,"9 x 10-8",,NR,1.09,'-,[1.08-1.11],RPS6KB1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,17:59946914
+rs11755724-<b>A</b>,"3 x 10-6",,NR,1.08,'-,[1.06-1.09],RREB1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:7118757
+rs11581062-<b>G</b>,"3 x 10-10",,NR,1.12,'-,[1.1-1.13],"SLC30A7, HNRNPA1P68","Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:100941963
+rs2744148-<b>G</b>,"8 x 10-8",,NR,1.12,'-,[1.1-1.14],"SSTR5-AS1, SOX8","Multiple sclerosis","multiple sclerosis",'-,GCST001198,16:1023552
+rs9891119-<b>C</b>,"2 x 10-10",,NR,1.11,'-,[1.09-1.12],STAT3,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,17:42355962
+rs290986-<b>A</b>,"9 x 10-7",,NR,1.1,'-,[1.08-1.12],"OR7E108P, SYK","Multiple sclerosis","multiple sclerosis",'-,GCST001198,9:90801254
+rs1738074-<b>G</b>,"7 x 10-15",,NR,1.13,'-,[1.12-1.15],"TAGAP, TAGAP-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:159044945
+rs1800693-<b>G</b>,"4 x 10-14",,NR,1.12,'-,[1.11-1.14],TNFRSF1A,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,12:6330843
+rs1077667-<b>G</b>,"9 x 10-14",,NR,1.16,'-,[1.14-1.18],TNFSF14,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,19:6668961
+rs4902647-<b>G</b>,"9 x 10-12",,NR,1.11,'-,[1.1-1.13],"ZFP36L1, RNU6-921P","Multiple sclerosis","multiple sclerosis",'-,GCST001198,14:68787474
+rs1250550-<b>A</b>,"6 x 10-9",,NR,1.1,'-,[1.09-1.12],ZMIZ1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,10:79300560
+rs354033-<b>G</b>,"5 x 10-9",,NR,1.11,'-,[1.1-1.13],ZNF767P,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,7:149592373
+rs2248359-<b>G</b>,"3 x 10-11",,NR,1.12,'-,[1.1-1.13],"PFDN4, CYP24A1","Multiple sclerosis","multiple sclerosis",'-,GCST001198,20:54174979
+rs806321-<b>A</b>,"5 x 10-7",,NR,1.08,'-,[1.07-1.1],DLEU1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,13:50267187
+rs3761959-<b>G</b>,"3 x 10-6",,NR,1.08,'-,[1.06-1.09],FCRL3,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:157699488
+rs2243123-<b>G</b>,"7 x 10-6",,NR,1.08,'-,[1.06-1.1],"IL12A, IL12A-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:159991864
+rs7090512-<b>G</b>,"5 x 10-20","(Conditioned on rs3118470)",NR,1.19,'-,[1.17-1.21],"RPL32P23, IL2RA","Multiple sclerosis","multiple sclerosis",'-,GCST001198,10:6068866
+rs386965-<b>G</b>,"4 x 10-6",,NR,1.09,'-,[1.07-1.11],"MAF, LINC01229","Multiple sclerosis","multiple sclerosis",'-,GCST001198,16:79618644
+rs4792814-<b>G</b>,"3 x 10-6",,NR,1.08,'-,[1.06-1.09],"RNA5SP443, MAP3K14","Multiple sclerosis","multiple sclerosis",'-,GCST001198,17:45325639
+rs874628-<b>A</b>,"1 x 10-8",,NR,1.11,'-,[1.09-1.12],MPV17L2,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,19:18193890
+rs10936599-<b>G</b>,"7 x 10-7",,NR,1.1,'-,[1.08-1.11],MYNN,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:169774313
+rs4409785-<b>G</b>,"6 x 10-7",,NR,1.1,'-,[1.09-1.12],"FAM76B, SESN3","Multiple sclerosis","multiple sclerosis",'-,GCST001198,11:95578258
+rs771767-<b>A</b>,"9 x 10-9",,NR,1.1,'-,[1.09-1.12],"LINC02085, ZPLD1","Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:102029794
+rs802734-<b>A</b>,"6 x 10-9",,NR,1.1,'-,[1.09-1.12],"PTPRK, THEMIS","Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:127957653
+rs1323292-<b>A</b>,"2 x 10-8",,NR,1.12,'-,[1.1-1.14],RGS1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:192571891
+rs307896-<b>G</b>,"5 x 10-7",,NR,1.09,'-,[1.08-1.11],SAE1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,19:47158236
+rs10201872-<b>A</b>,"2 x 10-10",,NR,1.14,'-,[1.12-1.16],SP140,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,2:230242009
+rs13333054-<b>A</b>,"1 x 10-8",,NR,1.11,'-,[1.1-1.13],LINC02132,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,16:85977427
+rs11154801-<b>A</b>,"1 x 10-13",,NR,1.13,'-,[1.11-1.15],AHI1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:135418217
+rs12456021-<b>A</b>,"4 x 10-6",,NR,1.1,'-,[1.08-1.12],ALPK2,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,18:58546158
+rs12212193-<b>G</b>,"4 x 10-8",,NR,1.09,'-,[1.08-1.1],BACH2,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:90287050
+rs2300603-<b>A</b>,"2 x 10-8",,NR,1.11,'-,[1.09-1.12],BATF,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,14:75539214
+rs228614-<b>G</b>,"1 x 10-7",,NR,1.09,'-,[1.07-1.1],MANBA,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,4:102657480
+rs2283792-<b>C</b>,"5 x 10-9",,NR,1.1,'-,[1.08-1.11],MAPK1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,22:21776836
+rs650258-<b>G</b>,"2 x 10-11",,NR,1.12,'-,[1.1-1.13],"CD6, CD5","Multiple sclerosis","multiple sclerosis",'-,GCST001198,11:61064810
+rs4648356-<b>C</b>,"1 x 10-14",,NR,1.14,'-,[1.12-1.16],TTC34,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:2792599
+rs9282641-<b>G</b>,"1 x 10-11",,NR,1.21,'-,[1.18-1.24],CD86,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:122077921
+rs4410871-<b>G</b>,"8 x 10-9",,NR,1.11,'-,[1.09-1.12],PVT1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,8:127802783
+rs12466022-<b>C</b>,"6 x 10-10",,NR,1.11,'-,[1.1-1.13],LINC02580,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,2:43131922
+rs10466829-<b>A</b>,"1 x 10-8",,NR,1.09,'-,[1.08-1.11],CLECL1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,12:9723495
+rs630923-<b>C</b>,"3 x 10-7",,NR,1.12,'-,[1.1-1.14],"CXCR5, Y_RNA","Multiple sclerosis","multiple sclerosis",'-,GCST001198,11:118883644
+rs233100-<b>G</b>,"1 x 10-6",,NR,1.08,'-,[1.07-1.1],"DDAH1, BCL10","Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:85306326
+rs2303759-<b>C</b>,"5 x 10-9",,NR,1.11,'-,[1.09-1.13],DKKL1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,19:49365794
+rs11129295-<b>A</b>,"1 x 10-9","(Conditioned on rs669607)",NR,1.11,'-,[1.09-1.12],"EOMES, LINC01980","Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:27747289
+rs140522-<b>A</b>,"2 x 10-8",,NR,1.1,'-,[1.09-1.12],"KLHDC7B-DT, ODF3B","Multiple sclerosis","multiple sclerosis",'-,GCST001198,22:50532837
+rs1520333-<b>G</b>,"2 x 10-7",,NR,1.1,'-,[1.08-1.11],PKIA-AS1,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,8:78488803
+rs7923837-<b>G</b>,"5 x 10-9",,NR,1.1,'-,[1.08-1.11],Y_RNA,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,10:92722160
+rs2546890-<b>A</b>,"1 x 10-11",,NR,1.11,'-,[1.1-1.13],IL12B,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,5:159332892
+rs17066096-<b>G</b>,"6 x 10-13",,NR,1.14,'-,[1.12-1.15],"IL22RA2, IL20RA","Multiple sclerosis","multiple sclerosis",'-,GCST001198,6:137131771
+rs6897932-<b>G</b>,"2 x 10-8",,NR,1.11,'-,[1.09-1.13],IL7R,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,5:35874473
+rs756699-<b>A</b>,"6 x 10-7",,NR,1.12,'-,[1.1-1.14],TCF7,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,5:134110884
+rs12048904-<b>A</b>,"4 x 10-8","(Conditioned on rs11581062)",NR,1.09,'-,[1.08-1.11],EXTL2,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,1:100865980
+rs4285028-<b>A</b>,"2 x 10-8","(Conditioned on rs9282641)",NR,1.1,'-,[1.09-1.12],SLC15A2,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:121941817
+rs4308217-<b>C</b>,"6 x 10-8","(Conditioned on rs4285028, rs9282641)",NR,1.1,'-,[1.08-1.11],CD86,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,3:122074340
+rs3118470-<b>G</b>,"3 x 10-11",,NR,1.12,'-,[1.1-1.13],IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,10:6059750
+DRB*15:01-<b>?</b>,"1 x 10-132",,NR,3.08,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,"Mapping not available"
+DRB*13:03-<b>?</b>,"1 x 10-11",,NR,2.43,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,"Mapping not available"
+DRB*03:01-<b>?</b>,"4 x 10-10",,NR,1.26,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,"Mapping not available"
+A*02:01-<b>?</b>,"9 x 10-23",,NR,1.37,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,"Mapping not available"
+DRB*08:01-<b>?</b>,"2 x 10-7",,NR,1.18,'-,NR,'-,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,"Mapping not available"
+rs6062314-<b>A</b>,"1 x 10-7",,NR,1.16,'-,[1.14-1.19],ZBTB46,"Multiple sclerosis","multiple sclerosis",'-,GCST001198,20:63778360
+rs793108-<b>A</b>,"3 x 10-6",,NR,1.08,'-,[1.06-1.09],"LINC02664, ZNF438","Multiple sclerosis","multiple sclerosis",'-,GCST001198,10:31126177
+rs703842-<b>A</b>,"5 x 10-11",,0.67,1.23,'-,[NR],"METTL1, CYP27B1","Multiple sclerosis","multiple sclerosis",'-,GCST000425,12:57768956
+rs9271366-<b>G</b>,"7 x 10-184",,0.15,2.78,'-,[NR],"HLA-DRB1, HLA-DQA1","Multiple sclerosis","multiple sclerosis",'-,GCST000425,6:32619077
+rs2104286-<b>A</b>,"7 x 10-6",,0.73,1.16,'-,[NR],IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST000425,10:6057082
+rs6074022-<b>G</b>,"1 x 10-7",,0.25,1.2,'-,[NR],"RPL13P2, CD40","Multiple sclerosis","multiple sclerosis",'-,GCST000425,20:46111557
+rs8049603-<b>T</b>,"1 x 10-6",,0.20,1.19,'-,[NR],USP31,"Multiple sclerosis","multiple sclerosis",'-,GCST000425,16:23055939
+rs6984045-<b>C</b>,"2 x 10-6",,0.02,1.59,'-,[NR],ASAP1,"Multiple sclerosis","multiple sclerosis",'-,GCST000425,8:130080167
+rs1335532-<b>A</b>,"1 x 10-7",,0.87,1.28,'-,[NR],CD58,"Multiple sclerosis","multiple sclerosis",'-,GCST000425,1:116558335
+rs6604026-<b>G</b>,"3 x 10-6",,0.28,1.17,'-,[NR],"RPL5, DIPK1A","Multiple sclerosis","multiple sclerosis",'-,GCST000425,1:92838046
+rs4953911-<b>T</b>,"2 x 10-7",,0.36,'-,'-,'-,MGAT5,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000577,2:134311223
+rs2150702-<b>G</b>,"3 x 10-8",,0.49,1.16,'-,[NR],"KIAA2026, MLANA","Multiple sclerosis","multiple sclerosis",'-,GCST001341,9:5893861
+rs6718520-<b>A</b>,"3 x 10-8",,0.48,1.17,'-,[NR],LINC02580,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,2:43098432
+rs2300747-<b>A</b>,"6 x 10-9",,0.91,1.37,'-,[NR],CD58,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,1:116561593
+rs3129889-<b>G</b>,"1 x 10-206",,0.20,2.97,'-,[NR],"HLA-DRA, HLA-DRB9","Multiple sclerosis","multiple sclerosis",'-,GCST001341,6:32445768
+rs2293152-<b>C</b>,"4 x 10-8",,0.62,1.22,'-,[NR],STAT3,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,17:42329511
+rs6074022-<b>C</b>,"5 x 10-6",,0.27,1.15,'-,[NR],"RPL13P2, CD40","Multiple sclerosis","multiple sclerosis",'-,GCST001341,20:46111557
+rs2546890-<b>A</b>,"8 x 10-8",,0.52,1.16,'-,[NR],IL12B,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,5:159332892
+rs8070463-<b>T</b>,"1 x 10-7",,0.50,1.15,'-,[NR],"TBKBP1, KPNB1","Multiple sclerosis","multiple sclerosis",'-,GCST001341,17:47691470
+rs2681424-<b>T</b>,"2 x 10-7",,0.40,1.16,'-,[NR],"Y_RNA, CD86","Multiple sclerosis","multiple sclerosis",'-,GCST001341,3:122050675
+rs1738074-<b>C</b>,"4 x 10-7",,0.58,1.15,'-,[NR],"TAGAP, TAGAP-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST001341,6:159044945
+rs1250542-<b>A</b>,"4 x 10-7",,0.37,1.15,'-,[NR],ZMIZ1,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,10:79274913
+rs7191700-<b>C</b>,"6 x 10-7",,0.67,1.15,'-,[NR],RMI2,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,16:11312946
+rs9596270-<b>T</b>,"7 x 10-7",,0.93,1.35,'-,[NR],DLEU1,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,13:50268304
+rs10866713-<b>A</b>,"7 x 10-7",,0.22,1.17,'-,[NR],LINC01845,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,5:159491886
+rs170934-<b>T</b>,"2 x 10-8",,0.48,1.17,'-,[NR],LINC01967,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,3:28037594
+rs9260489-<b>T</b>,"1 x 10-11",,0.45,1.21,'-,[NR],"HLA-W, HLA-A","Multiple sclerosis","multiple sclerosis",'-,GCST001341,6:29952555
+rs12722489-<b>C</b>,"4 x 10-8",,0.85,1.23,'-,[NR],IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,10:6060049
+rs10411936-<b>A</b>,"2 x 10-7",,0.30,1.16,'-,[NR],EPS15L1,"Multiple sclerosis","multiple sclerosis",'-,GCST001341,19:16437564
+rs7592330-<b>A</b>,"2 x 10-7",,0.56,1.15,'-,[NR],"PLEK, WDR4P2","Multiple sclerosis","multiple sclerosis",'-,GCST001341,2:68419651
+rs931555-<b>?</b>,"4 x 10-7",,NR,1.25,'-,[1.15-1.36],SPEF2,"Multiple sclerosis","multiple sclerosis",'-,GCST000949,5:35803475
+rs4939490-<b>?</b>,"1 x 10-9",,NR,1.3,'-,[1.19-1.42],"CD6, CD5","Multiple sclerosis","multiple sclerosis",'-,GCST000949,11:61026179
+rs12025416-<b>?</b>,"1 x 10-7",,NR,1.45,'-,[1.25-1.69],"CD58, LINC01762","Multiple sclerosis","multiple sclerosis",'-,GCST000949,1:116495665
+rs3135338-<b>A</b>,"2 x 10-25",,0.13,3.43,'-,[NR],"HLA-DRA, TSBP1-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST000593,6:32433440
+rs744166-<b>G</b>,"3 x 10-10",,0.41,1.15,'-,[1.10-1.20],STAT3,"Multiple sclerosis","multiple sclerosis",'-,GCST000593,17:42362183
+rs12722489-<b>C</b>,"3 x 10-8",,0.85,1.25,'-,[1.11-1.36],IL2RA,"Multiple sclerosis","multiple sclerosis",'-,GCST000062,10:6060049
+rs6604026-<b>C</b>,"8 x 10-6",,0.29,1.15,'-,[1.08-1.22],"RPL5, DIPK1A","Multiple sclerosis","multiple sclerosis",'-,GCST000062,1:92838046
+rs10984447-<b>A</b>,"8 x 10-6",,0.77,1.17,'-,[1.09-1.25],BRINP1,"Multiple sclerosis","multiple sclerosis",'-,GCST000062,9:119222275
+rs3135388-<b>A</b>,"9 x 10-81",,0.23,1.99,'-,[1.84-2.15],'-,"Multiple sclerosis","multiple sclerosis",'-,GCST000062,"Mapping not available"
+rs6498169-<b>G</b>,"4 x 10-6",,0.37,1.14,'-,[1.08-1.21],CLEC16A,"Multiple sclerosis","multiple sclerosis",'-,GCST000062,16:11155472
+rs6897932-<b>C</b>,"3 x 10-7",,0.75,1.18,'-,[1.11-1.26],IL7R,"Multiple sclerosis","multiple sclerosis",'-,GCST000062,5:35874473
+rs7779014-<b>T</b>,"8 x 10-6",(Continuous),0.2,'-,"0.48 unit increase",[NR],YWHAG,"Multiple sclerosis","multiple sclerosis",'-,GCST001096,7:76346269
+rs17149161-<b>A</b>,"6 x 10-6",(Extreme),0.2,1.87,'-,[NR],YWHAG,"Multiple sclerosis","multiple sclerosis",'-,GCST001096,7:76348912
+rs12644284-<b>?</b>,"4 x 10-6",(Extreme),0.67,2.04,'-,[NR],TRIM2,"Multiple sclerosis","multiple sclerosis",'-,GCST001096,4:153232848
+rs7789940-<b>G</b>,"6 x 10-6",(Extreme),0.19,1.87,'-,[NR],"YWHAG, HSPB1","Multiple sclerosis","multiple sclerosis",'-,GCST001096,7:76321913
+rs758944-<b>T</b>,"8 x 10-6",(Continuous),0.2,'-,"0.48 unit increase",[NR],"YWHAG, HSPB1","Multiple sclerosis","multiple sclerosis",'-,GCST001096,7:76323980
+rs11962089-<b>G</b>,"8 x 10-6",(Continuous),0.16,'-,"0.69 unit decrease",[NR],"BVES-AS1, POPDC3","Multiple sclerosis","multiple sclerosis",'-,GCST001096,6:105164345
+rs13117816-<b>?</b>,"7 x 10-6",,NR,'-,'-,'-,LINC02616,"Multiple sclerosis--Brain Glutamate Levels","multiple sclerosis",'-,GCST000783,4:37062709
+rs8007846-<b>?</b>,"9 x 10-6",,NR,'-,'-,'-,"NCOA4P1, FUT8","Multiple sclerosis--Brain Glutamate Levels","multiple sclerosis",'-,GCST000783,14:65796245
+rs8074980-<b>?</b>,"2 x 10-6",,NR,'-,'-,'-,CUEDC1,"Multiple sclerosis--Brain Glutamate Levels","multiple sclerosis",'-,GCST000783,17:57933599
+rs794185-<b>?</b>,"6 x 10-7",,NR,'-,'-,'-,SUMF1,"Multiple sclerosis--Brain Glutamate Levels","multiple sclerosis",'-,GCST000783,3:4395674
+rs2038256-<b>?</b>,"2 x 10-6",,NR,'-,'-,'-,LINC01551,"Multiple sclerosis--Brain Glutamate Levels","multiple sclerosis",'-,GCST000783,14:28780143
+rs10492972-<b>C</b>,"3 x 10-10",,0.27,1.34,'-,[1.23-1.48],KIF1B,"Multiple sclerosis","multiple sclerosis",'-,GCST000263,1:10293054
+rs17411949-<b>?</b>,"8 x 10-7",,NR,1.85,'-,[1.45-2.37],CLSTN2,"Multiple sclerosis (OCB status)","multiple sclerosis",'-,GCST001891,3:140380851
+rs3817963-<b>?</b>,"6 x 10-10",,NR,1.61,'-,[1.38-1.87],"TSBP1-AS1, BTNL2","Multiple sclerosis (OCB status)","multiple sclerosis",'-,GCST001891,6:32400310
+rs3129871-<b>?</b>,"6 x 10-15",,NR,1.72,'-,[1.59-1.86],"HLA-DRA, TSBP1-AS1","Multiple sclerosis (OCB status)","multiple sclerosis",'-,GCST001891,6:32438565
+rs2503875-<b>A</b>,"2 x 10-7",,NR,1.66,'-,[1.37-2.00],"LINC02633, RASGEF1A","Multiple sclerosis","multiple sclerosis",'-,GCST000716,10:43318601
+rs3780792-<b>G</b>,"1 x 10-6",,NR,1.6,'-,[1.32-1.92],VAV2,"Multiple sclerosis","multiple sclerosis",'-,GCST000716,9:133970221
+rs9271366-<b>G</b>,"4 x 10-17",,NR,2.62,'-,[2.09-3.28],"HLA-DRB1, HLA-DQA1","Multiple sclerosis","multiple sclerosis",'-,GCST000716,6:32619077
+rs3745672-<b>?</b>,"1 x 10-6",,NR,7.39,'-,[3.32-16.47],"ZNF433, ZNF433-AS1","Multiple sclerosis","multiple sclerosis",'-,GCST000716,19:12035555
+rs9657904-<b>T</b>,"2 x 10-10",,0.826,1.4,'-,[1.27-1.57],CBLB,"Multiple sclerosis","multiple sclerosis",'-,GCST000680,3:105867870
+rs2040406-<b>G</b>,"1 x 10-20",,0.26,2.05,'-,[NR],HLA-DQA1,"Multiple sclerosis","multiple sclerosis",'-,GCST000680,6:32635230
+rs1458175-<b>?</b>,"2 x 10-6",,0.49,1.34,'-,[NR],PDZRN4,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,12:41572059
+rs908821-<b>?</b>,"3 x 10-6",,0.71,1.37,'-,[NR],RPL23AP41,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,3:140821876
+rs7672826-<b>?</b>,"8 x 10-6",,0.34,1.37,'-,[NR],'-,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,"Mapping not available"
+rs9523762-<b>?</b>,"1 x 10-6",,0.35,1.36,'-,[NR],GPC5,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,13:92679633
+rs1529316-<b>?</b>,"2 x 10-6",,0.47,1.36,'-,[NR],CSMD1,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,8:3970616
+rs1755289-<b>?</b>,"3 x 10-6",,0.61,1.35,'-,[NR],ADAMTSL1,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,9:17938353
+rs397020-<b>?</b>,"8 x 10-7",,0.52,1.41,'-,[NR],"C20orf202, RAD21L1","Multiple sclerosis","multiple sclerosis",'-,GCST000269,20:1225242
+rs1109670-<b>?</b>,"9 x 10-6",,0.26,1.38,'-,[NR],"RPL30P3, ASAP2","Multiple sclerosis","multiple sclerosis",'-,GCST000269,2:9109909
+rs651477-<b>?</b>,"7 x 10-6",,0.26,1.38,'-,[NR],'-,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,2:118638115
+rs1841770-<b>?</b>,"8 x 10-6",,0.53,1.34,'-,[NR],LINC02032,"Multiple sclerosis","multiple sclerosis",'-,GCST000269,3:148038899
+rs1927457-<b>?</b>,"8 x 10-6",,0.31,'-,'-,[NR],SVIL,"Normalized brain volume","multiple sclerosis",'-,GCST000268,10:29719734
+rs11957313-<b>?</b>,"9 x 10-6",,0.13,'-,'-,[NR],KCNIP1,"Normalized brain volume","multiple sclerosis",'-,GCST000268,5:170523390
+rs9480865-<b>?</b>,"7 x 10-6",,0.16,'-,'-,[NR],FOXO3,"Normalized brain volume","multiple sclerosis",'-,GCST000268,6:108595370
+rs716595-<b>?</b>,"8 x 10-6",,0.08,'-,'-,[NR],MXI1,"Normalized brain volume","multiple sclerosis",'-,GCST000268,10:110246728
+rs261902-<b>?</b>,"4 x 10-6",,0.16,'-,'-,[NR],BICD1,"Normalized brain volume","multiple sclerosis",'-,GCST000268,12:32323793
+rs11666377-<b>?</b>,"7 x 10-6",,0.14,'-,'-,[NR],CPAMD8,"Brain lesion load","multiple sclerosis",'-,GCST000265,19:17007623
+rs2039485-<b>?</b>,"6 x 10-6",,0.22,'-,'-,[NR],"LINC02313, NUBPL","Brain lesion load","multiple sclerosis",'-,GCST000265,14:31884044
+rs6917747-<b>?</b>,"7 x 10-6",,0.15,'-,'-,[NR],IGF2R,"Brain lesion load","multiple sclerosis",'-,GCST000265,6:159981673
+rs2602397-<b>?</b>,"4 x 10-6",,0.45,'-,'-,[NR],"UGT1A12P, UGT1A11P","Brain lesion load","multiple sclerosis",'-,GCST000265,2:233595452
+rs10243024-<b>?</b>,"6 x 10-6",,0.23,'-,'-,[NR],MET,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,7:116706549
+rs299175-<b>?</b>,"4 x 10-6",,0.46,'-,'-,[NR],NLRP11,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,19:55802162
+rs7253363-<b>?</b>,"9 x 10-6",,0.05,'-,'-,[NR],ZNF627,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,19:11571680
+rs10259085-<b>?</b>,"4 x 10-6",,0.46,'-,'-,[NR],C1GALT1,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,7:7228800
+rs180358-<b>?</b>,"6 x 10-6",,0.23,'-,'-,[NR],"BUD13, LINC02702","Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,11:116728676
+rs1478091-<b>?</b>,"2 x 10-6",,0.06,'-,'-,[NR],'-,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,4:130869346
+rs7191888-<b>?</b>,"6 x 10-6",,0.17,'-,'-,[NR],ZFHX3,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,16:73547159
+rs12638253-<b>?</b>,"2 x 10-6",,0.47,'-,'-,[NR],LEKR1,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,3:156908302
+rs337718-<b>?</b>,"9 x 10-6",,0.29,'-,'-,[NR],'-,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,18:72107043
+rs10518025-<b>?</b>,"4 x 10-6",,0.14,'-,'-,[NR],'-,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,4:67198722
+rs6941421-<b>?</b>,"6 x 10-6",,0.24,'-,'-,[NR],RN7SL332P,"Multiple sclerosis (severity)","multiple sclerosis",'-,GCST000266,6:15088920
+rs6793295-<b>?</b>,"2 x 10-9",,NR,1.1072971,'-,'-,LRRC34,"Chronic lymphocytic leukemia or multiple sclerosis","multiple sclerosis, chronic lymphocytic leukemia",'-,GCST008721,3:169800667
+rs11755724-<b>?</b>,"1 x 10-8",,NR,1.0913455,'-,'-,RREB1,"Chronic lymphocytic leukemia or multiple sclerosis","multiple sclerosis, chronic lymphocytic leukemia",'-,GCST008721,6:7118757
+rs802734-<b>?</b>,"9 x 10-9",,NR,1.0934937,'-,'-,"PTPRK, THEMIS","Chronic lymphocytic leukemia or multiple sclerosis","multiple sclerosis, chronic lymphocytic leukemia",'-,GCST008721,6:127957653
+rs806321-<b>?</b>,"2 x 10-8",,NR,1.0863662,'-,'-,DLEU1,"Chronic lymphocytic leukemia or multiple sclerosis","multiple sclerosis, chronic lymphocytic leukemia",'-,GCST008721,13:50267187
+rs2777899-<b>?</b>,"3 x 10-8",,NR,1.0857763,'-,'-,VMP1,"Chronic lymphocytic leukemia or multiple sclerosis","multiple sclerosis, chronic lymphocytic leukemia",'-,GCST008721,17:59755030
+rs1292034-<b>?</b>,"3 x 10-8",,NR,1.08613,'-,'-,RPS6KB1,"Chronic lymphocytic leukemia or multiple sclerosis","multiple sclerosis, chronic lymphocytic leukemia",'-,GCST008721,17:59912499
+rs140522-<b>?</b>,"6 x 10-11",,NR,1.1084018,'-,'-,"KLHDC7B-DT, ODF3B","Chronic lymphocytic leukemia or multiple sclerosis","multiple sclerosis, chronic lymphocytic leukemia",'-,GCST008721,22:50532837
+rs1323292-<b>?</b>,"5 x 10-8",,NR,1.1111112,'-,'-,RGS1,"Diffuse large B-cell lymphoma or multiple sclerosis","multiple sclerosis, diffuse large B-cell lymphoma",'-,GCST008722,1:192571891
+rs806321-<b>?</b>,"5 x 10-8",,NR,1.0869565,'-,'-,DLEU1,"Diffuse large B-cell lymphoma or multiple sclerosis","multiple sclerosis, diffuse large B-cell lymphoma",'-,GCST008722,13:50267187
+rs16978630-<b>?</b>,"9 x 10-8",,NR,1.3333333,'-,'-,TNPO2,"Diffuse large B-cell lymphoma or multiple sclerosis","multiple sclerosis, diffuse large B-cell lymphoma",'-,GCST008722,19:12702869
+rs2425752-<b>?</b>,"5 x 10-9",,NR,1.098901,'-,'-,NCOA5,"Diffuse large B-cell lymphoma or multiple sclerosis","multiple sclerosis, diffuse large B-cell lymphoma",'-,GCST008722,20:46073481
+rs140522-<b>?</b>,"2 x 10-8",,NR,1.0869565,'-,'-,"KLHDC7B-DT, ODF3B","Diffuse large B-cell lymphoma or multiple sclerosis","multiple sclerosis, diffuse large B-cell lymphoma",'-,GCST008722,22:50532837
+rs7595037-<b>?</b>,"9 x 10-8",,NR,1.0833063,'-,'-,"PLEK, WDR4P2","Follicular lymphoma or multiple sclerosis","multiple sclerosis, follicular lymphoma",'-,GCST008718,2:68419963
+rs2425752-<b>?</b>,"1 x 10-7",,NR,1.0899183,'-,'-,NCOA5,"Follicular lymphoma or multiple sclerosis","multiple sclerosis, follicular lymphoma",'-,GCST008718,20:46073481
+rs1323292-<b>?</b>,"2 x 10-8",,NR,1.1227125,'-,'-,RGS1,"Marginal zone lymphoma or multiple sclerosis","multiple sclerosis, marginal zone B-cell lymphoma",'-,GCST008723,1:192571891
+rs1107345-<b>?</b>,"3 x 10-8",,NR,1.105461,'-,'-,IL2RA,"Marginal zone lymphoma or multiple sclerosis","multiple sclerosis, marginal zone B-cell lymphoma",'-,GCST008723,10:6045332
+rs1250550-<b>?</b>,"9 x 10-8",,NR,1.0931351,'-,'-,ZMIZ1,"Marginal zone lymphoma or multiple sclerosis","multiple sclerosis, marginal zone B-cell lymphoma",'-,GCST008723,10:79300560
+rs2777899-<b>?</b>,"2 x 10-8",,NR,1.0932546,'-,'-,VMP1,"Marginal zone lymphoma or multiple sclerosis","multiple sclerosis, marginal zone B-cell lymphoma",'-,GCST008723,17:59755030
+rs8021741-<b>?</b>,"2 x 10-8",,NR,1.0946907,'-,'-,"FLVCR2, BATF","Marginal zone lymphoma or multiple sclerosis","multiple sclerosis, marginal zone B-cell lymphoma",'-,GCST008723,14:75556057
+rs2425752-<b>?</b>,"1 x 10-7",,NR,1.0957704,'-,'-,NCOA5,"Marginal zone lymphoma or multiple sclerosis","multiple sclerosis, marginal zone B-cell lymphoma",'-,GCST008723,20:46073481
+rs6062314-<b>?</b>,"2 x 10-8",,NR,1.1615751,'-,'-,ZBTB46,"Marginal zone lymphoma or multiple sclerosis","multiple sclerosis, marginal zone B-cell lymphoma",'-,GCST008723,20:63778360
+rs7941030-<b>?</b>,"8 x 10-6",,NR,'-,'-,[0.8691-0.9509],"UBASH3B, GLULP3","Multiple sclerosis and HDL levels (pleiotropy)","multiple sclerosis, high density lipoprotein cholesterol measurement",'-,GCST007124,11:122651667
+rs7255066-<b>?</b>,"4 x 10-6",,NR,'-,'-,[0.8566-0.9447],CEACAM16-AS1,"Multiple sclerosis and HDL levels (pleiotropy)","multiple sclerosis, high density lipoprotein cholesterol measurement",'-,GCST007124,19:44642803
+rs210131-<b>?</b>,"2 x 10-8",,NR,'-,'-,[1.1096-1.2146],GGNBP1,"Multiple sclerosis and systolic blood pressure (pleiotropy)","multiple sclerosis, systolic blood pressure",'-,GCST007125,6:33567689
+rs394199-<b>?</b>,"2 x 10-8",,NR,'-,'-,[0.8625-0.9356],GGNBP1,"Multiple sclerosis and systolic blood pressure (pleiotropy)","multiple sclerosis, systolic blood pressure",'-,GCST007125,6:33585803
+rs12456021-<b>?</b>,"8 x 10-6",,NR,'-,'-,[0.8663-0.9455],ALPK2,"Multiple sclerosis and systolic blood pressure (pleiotropy)","multiple sclerosis, systolic blood pressure",'-,GCST007125,18:58546158
+rs942637-<b>?</b>,"2 x 10-7",,NR,'-,'-,[1.0883-1.1837],ITPR3,"Multiple sclerosis and body mass index (pleiotropy)","multiple sclerosis, body mass index",'-,GCST007126,6:33685334
+rs471942-<b>?</b>,"5 x 10-6",,NR,'-,'-,[1.0918-1.2145],IP6K3,"Multiple sclerosis and waist-to-hip-ratio (pleiotropy)","multiple sclerosis, waist-hip ratio",'-,GCST007127,6:33729008
+rs6662618-<b>?</b>,"3 x 10-10",,NR,'-,'-,[1.0965-1.1754],"RN7SL824P, GFI1","Multiple sclerosis and type 2 diabetes (pleiotropy)","multiple sclerosis, type II diabetes mellitus",'-,GCST007120,1:92469854
+rs11864333-<b>?</b>,"8 x 10-6",,NR,'-,'-,[1.0444-1.1097],RMI2,"Multiple sclerosis and type 2 diabetes (pleiotropy)","multiple sclerosis, type II diabetes mellitus",'-,GCST007120,16:11381719
+rs17519972-<b>?</b>,"9 x 10-8",,NR,'-,'-,[1.0719-1.1489],RPAP2,"Multiple sclerosis and C-reactive protein levels (pleiotropy)","multiple sclerosis, C-reactive protein measurement",'-,GCST007121,1:92362948
+rs17123757-<b>?</b>,"3 x 10-6",,NR,'-,'-,[1.0664-1.1551],S1PR1,"Multiple sclerosis and C-reactive protein levels (pleiotropy)","multiple sclerosis, C-reactive protein measurement",'-,GCST007121,1:101157404
+rs771767-<b>?</b>,"1 x 10-8",,NR,'-,'-,[1.0713-1.1401],"LINC02085, ZPLD1","Multiple sclerosis and C-reactive protein levels (pleiotropy)","multiple sclerosis, C-reactive protein measurement",'-,GCST007121,3:102029794
+rs1500710-<b>?</b>,"6 x 10-6",,NR,'-,'-,[0.8841-0.9526],ARHGEF3,"Multiple sclerosis and triglyceride levels (pleiotropy)","multiple sclerosis, triglyceride measurement",'-,GCST007122,3:56880037
+rs1398607-<b>?</b>,"1 x 10-8",,NR,'-,'-,[1.0794-1.1687],"ZPLD1, LINC02085","Multiple sclerosis and triglyceride levels (pleiotropy)","multiple sclerosis, triglyceride measurement",'-,GCST007122,3:102036894
+rs1920296-<b>?</b>,"7 x 10-8",,NR,'-,'-,[0.8523-0.9336],IQCB1,"Multiple sclerosis and triglyceride levels (pleiotropy)","multiple sclerosis, triglyceride measurement",'-,GCST007122,3:121824730
+rs806321-<b>?</b>,"4 x 10-6",,NR,'-,'-,[1.0466-1.1118],DLEU1,"Multiple sclerosis and triglyceride levels (pleiotropy)","multiple sclerosis, triglyceride measurement",'-,GCST007122,13:50267187
+rs307896-<b>?</b>,"1 x 10-6",,NR,'-,'-,[1.0574-1.1396],SAE1,"Multiple sclerosis and triglyceride levels (pleiotropy)","multiple sclerosis, triglyceride measurement",'-,GCST007122,19:47158236
+rs2072711-<b>?</b>,"4 x 10-6",,NR,'-,'-,[1.0615-1.1455],NCF4,"Multiple sclerosis and triglyceride levels (pleiotropy)","multiple sclerosis, triglyceride measurement",'-,GCST007122,22:36872513
+rs3761959-<b>?</b>,"1 x 10-6",,NR,'-,'-,[0.8596-0.9422],FCRL3,"Multiple sclerosis and LDL levels (pleiotropy)","multiple sclerosis, low density lipoprotein cholesterol measurement",'-,GCST007123,1:157699488
+rs4409785-<b>?</b>,"6 x 10-6",,NR,'-,'-,[0.8432-0.9405],"FAM76B, SESN3","Multiple sclerosis and LDL levels (pleiotropy)","multiple sclerosis, low density lipoprotein cholesterol measurement",'-,GCST007123,11:95578258
+rs4792814-<b>?</b>,"5 x 10-6",,NR,'-,'-,[0.8694-0.9496],"RNA5SP443, MAP3K14","Multiple sclerosis and LDL levels (pleiotropy)","multiple sclerosis, low density lipoprotein cholesterol measurement",'-,GCST007123,17:45325639
+rs2413436-<b>?</b>,"9 x 10-6",,NR,'-,'-,[1.0437-1.1088],CSF2RB,"Multiple sclerosis and LDL levels (pleiotropy)","multiple sclerosis, low density lipoprotein cholesterol measurement",'-,GCST007123,22:36916519
+rs12756986-<b>?</b>,"4 x 10-6",,NR,'-,'-,[1.068-1.1594],S1PR1,"Multiple sclerosis and HDL levels (pleiotropy)","multiple sclerosis, high density lipoprotein cholesterol measurement",'-,GCST007124,1:101139197
+rs9821630-<b>?</b>,"8 x 10-6",,NR,'-,'-,[0.8628-0.9484],PLCL2,"Multiple sclerosis and HDL levels (pleiotropy)","multiple sclerosis, high density lipoprotein cholesterol measurement",'-,GCST007124,3:16929446
+rs338610-<b>?</b>,"3 x 10-7",,NR,'-,'-,[0.8376-0.9303],LINC01967,"Multiple sclerosis and HDL levels (pleiotropy)","multiple sclerosis, high density lipoprotein cholesterol measurement",'-,GCST007124,3:28039951
+rs4285028-<b>?</b>,"4 x 10-8",,NR,'-,'-,[1.0701-1.1419],SLC15A2,"Multiple sclerosis and HDL levels (pleiotropy)","multiple sclerosis, high density lipoprotein cholesterol measurement",'-,GCST007124,3:121941817
+rs290986-<b>?</b>,"1 x 10-6",,NR,'-,'-,[1.0641-1.1436],"OR7E108P, SYK","Multiple sclerosis and HDL levels (pleiotropy)","multiple sclerosis, high density lipoprotein cholesterol measurement",'-,GCST007124,9:90801254
+rs11808092-<b>A</b>,"2 x 10-8",,NR,'-,'-,'-,EVI5,"Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis","multiple sclerosis, Epstein Barr virus nuclear antigen 1 IgG measurement",'-,GCST003340,1:92607671
+rs669607-<b>A</b>,"4 x 10-9",,NR,'-,'-,'-,LINC01967,"Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis","multiple sclerosis, Epstein Barr virus nuclear antigen 1 IgG measurement",'-,GCST003340,3:28029953
+rs2255214-<b>T</b>,"5 x 10-8",,NR,'-,'-,'-,"Y_RNA, CD86","Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis","multiple sclerosis, Epstein Barr virus nuclear antigen 1 IgG measurement",'-,GCST003340,3:122051692
+rs12722561-<b>C</b>,"6 x 10-8",,NR,'-,'-,'-,IL2RA,"Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis","multiple sclerosis, Epstein Barr virus nuclear antigen 1 IgG measurement",'-,GCST003340,10:6027930
+rs2935183-<b>?</b>,"5 x 10-7",,NR,'-,'-,'-,NPEPPS,"Multiple sclerosis or amyotrophic lateral sclerosis","multiple sclerosis, amyotrophic lateral sclerosis",'-,GCST002274,17:47530206
+rs6659742-<b>?</b>,"7 x 10-7","(OCB negative vs. controls)",NR,1.99,'-,[1.52-2.61],SNHG28,"Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,1:159848723
+rs9283487-<b>?</b>,"3 x 10-7","(OCB positive vs. controls)",NR,1.61,'-,[1.33-1.92],"CHROMR, PRKRA","Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,2:178431544
+rs3817963-<b>?</b>,"8 x 10-6","(OCB positive vs. controls)",NR,1.52,'-,[1.27-1.79],"TSBP1-AS1, BTNL2","Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,6:32400310
+rs3129871-<b>?</b>,"1 x 10-16","(OCB positive vs. controls)",NR,1.98,'-,[1.68-2.32],"HLA-DRA, TSBP1-AS1","Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,6:32438565
+rs3828840-<b>?</b>,"5 x 10-15","(OCB positive vs. controls)",NR,1.94,'-,[1.64-2.29],HLA-DRB6,"Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,6:32553130
+rs9271640-<b>?</b>,"2 x 10-20","(OCB positive vs. controls)",NR,2.37,'-,[1.97-2.84],"HLA-DQA1, HLA-DRB1","Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,6:32624423
+rs9275563-<b>?</b>,"6 x 10-11","(OCB positive vs. controls)",NR,1.75,'-,[1.47-2.04],"HLA-DQB3, MTCO3P1","Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,6:32710135
+rs3129720-<b>?</b>,"5 x 10-15","(OCB positive vs. controls)",NR,1.91,'-,[1.62-2.24],"HLA-DQB1, MTCO3P1","Multiple sclerosis (OCB status)","multiple sclerosis, oligoclonal band measurement",'-,GCST001892,6:32695854
+rs1437898-<b>?</b>,"8 x 10-6",,0.40,'-,'-,[NR],NCKAP5,"Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,2:132989057
+rs1557351-<b>?</b>,"4 x 10-6",,0.22,'-,'-,[NR],"LINC-ROR, BOD1L2","Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,18:57085083
+rs17157903-<b>?</b>,"3 x 10-6",,0.14,'-,'-,[NR],RELN,"Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,7:103987589
+rs2116078-<b>?</b>,"3 x 10-6",,0.48,'-,'-,[NR],"KCNB2, RNA5SP271","Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,8:72451754
+rs4704970-<b>?</b>,"7 x 10-6",,0.20,'-,'-,[NR],SGCD,"Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,5:156073982
+rs1386330-<b>?</b>,"2 x 10-6",,0.13,'-,'-,[NR],Y_RNA,"Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,11:88086259
+rs2842483-<b>?</b>,"5 x 10-6",,0.29,'-,'-,[NR],PCSK5,"Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,9:76291234
+rs12047808-<b>?</b>,"6 x 10-6",,0.13,'-,'-,[NR],AXDND1,"Multiple sclerosis (age of onset)","multiple sclerosis, age at onset",'-,GCST000267,1:179500179
+rs11871306-<b>C</b>,"2 x 10-10",,0.02,2.15,'-,[1.70-2.78],WNT9B,"Relapse in treatment-naive multiple sclerosis (time to event)","multiple sclerosis, disease recurrence",'-,GCST012218,17:46877618
+rs10514650-<b>A</b>,"2 x 10-6",,NR,4.2,'-,NR,NUTF2P8,"Depression in multiple sclerosis (pre-diagnosis)","multiple sclerosis, unipolar depression",'-,GCST011679,2:21296299
+rs10832000-<b>G</b>,"2 x 10-6",,NR,4.27,'-,NR,ARNTL,"Depression in multiple sclerosis (pre-diagnosis)","multiple sclerosis, unipolar depression",'-,GCST011679,11:13228852
+rs28758178-<b>A</b>,"3 x 10-6",,NR,4.44,'-,NR,TM2D3,"Depression in multiple sclerosis (pre-diagnosis)","multiple sclerosis, unipolar depression",'-,GCST011679,15:101648782
+rs74696548-<b>G</b>,"3 x 10-6",,NR,5.1,'-,NR,SGO1-AS1,"Depression in multiple sclerosis (pre-diagnosis)","multiple sclerosis, unipolar depression",'-,GCST011679,3:20734902
+rs12612334-<b>C</b>,"3 x 10-6",,NR,1.91,'-,NR,UBBP1,"Depression in multiple sclerosis (post-diagnosis)","multiple sclerosis, unipolar depression",'-,GCST011678,2:75885737
+rs898-<b>C</b>,"4 x 10-6",,NR,2.02,'-,NR,PTGFR,"Depression in multiple sclerosis (post-diagnosis)","multiple sclerosis, unipolar depression",'-,GCST011678,1:78537573
+rs10513196-<b>A</b>,"4 x 10-7",,NR,1.9,'-,NR,"BBX, LINC01990","Depression in multiple sclerosis","multiple sclerosis, unipolar depression",'-,GCST011680,3:107506831
+rs3003482-<b>G</b>,"3 x 10-6",,NR,1.83,'-,NR,PADI1,"Depression in multiple sclerosis","multiple sclerosis, unipolar depression",'-,GCST011680,1:17224106
