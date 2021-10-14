@@ -90,6 +90,8 @@ venn.diagram(
   cat.fontfamily = "sans"
 )
 
+# Two SNPs in common for all. Lupus and RArthritis many in common and those two + T1Diabetes
+
 myCol2 <- brewer.pal(5, "Spectral")
 
 # Compare MS, Arthritis, Lupus, T1Diabetes, Asthma
@@ -113,6 +115,8 @@ venn.diagram(
   cat.fontfamily = "sans"
 )
 
+# Asthma has good amount in common with Arthritis and T1Diabetes, but not together.
+
 # Compare IBD, Graves, Celiac, Asthma
 
 venn.diagram(
@@ -134,6 +138,8 @@ venn.diagram(
   cat.fontfamily = "sans"
 )
 
+# IBD and asthma most in common, but some with IBD, Celiac and asthma, and just celiac and asthma
+
 # Compare IBD, Graves, Hashimoto's, Celiac, Asthma
 
 venn.diagram(
@@ -154,6 +160,75 @@ venn.diagram(
   cat.default.pos = "outer",
   cat.fontfamily = "sans"
 )
+
+# Nothing really of interest on this one
+
+# Comparing MS, Arthritis, Lupus, and Asthma
+
+venn.diagram(
+  x = list(MSSNP, RArthritisSNP, LupusSNP, AsthmaSNP),
+  category.names = c("MS", "RArthritis", "Lupus", "Asthma"),
+  filename = 'SNPs_venn_diagramm5.png',
+  output=TRUE,
+  lwd = 1.5,
+  lty = 'blank',
+  fill = myCol,
+  
+  # Numbers
+  cex = .4,
+  fontface = "bold",
+  fontfamily = "sans",
+  cat.cex = .4,
+  cat.fontface = "bold",
+  cat.default.pos = "outer",
+  cat.fontfamily = "sans"
+)
+
+# Lupus and Arthritis most similar, Asthma/ arthritis, arthritis/ MS, MS/ Lupus
+
+# Compare IBD, T1Diabetes, Celiac, Asthma
+
+venn.diagram(
+  x = list(IBDSNP, T1DiabetesSNP, CeliacSNP, AsthmaSNP),
+  category.names = c("IBD", "T1Diabetes", "Celiac", "Asthma"),
+  filename = 'SNPs_venn_diagramm6.png',
+  output=TRUE,
+  lwd = 1.5,
+  lty = 'blank',
+  fill = myCol,
+  
+  # Numbers
+  cex = .4,
+  fontface = "bold",
+  fontfamily = "sans",
+  cat.cex = .4,
+  cat.fontface = "bold",
+  cat.default.pos = "outer",
+  cat.fontfamily = "sans"
+)
+
+# Compare IBD, Graves, Hashimoto's Celiac
+
+venn.diagram(
+  x = list(IBDSNP, GravesSNP, HashimotoSNP, CeliacSNP),
+  category.names = c("IBD", "Graves", "Hashimoto's", "Celiac"),
+  filename = 'SNPs_venn_diagramm7.png',
+  output=TRUE,
+  lwd = 1.5,
+  lty = 'blank',
+  fill = myCol,
+  
+  # Numbers
+  cex = .4,
+  fontface = "bold",
+  fontfamily = "sans",
+  cat.cex = .4,
+  cat.fontface = "bold",
+  cat.default.pos = "outer",
+  cat.fontfamily = "sans"
+)
+
+# One with all, Hashimoto's and Graves similar
 
 #Looking at the overlap between AD C and CE
 
