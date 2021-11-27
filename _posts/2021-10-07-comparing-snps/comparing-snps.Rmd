@@ -19,7 +19,7 @@ I needed to narrow down which genetic diseases I was looking at because there ar
 To start, I used SNP data from GWAS studies and began finding similarities between asthma and other autoimmune diseases specifically. For each dataset of diseases, I needed to extract the needed information. In this case, it was the allele difference and the gene that the SNP came from. Afterward, I could make a Venn diagram to visualize the SNP locations that were the same in different diseases.
 
 ```{r graphic, echo = FALSE, fig.cap= "Compare IBD, Graves, Celiac, Asthma", out.width='100%'}
-knitr::include_graphics("SNPs_venn_diagramm2.png")
+knitr::include_graphics(path.expand("SNPs_venn_diagramm2.png"))
 ```
 
 

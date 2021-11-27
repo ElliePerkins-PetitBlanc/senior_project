@@ -20,7 +20,7 @@
     "categories": [],
     "contents": "\r\nI needed to narrow down which genetic diseases I was looking at because there are just so many. To choose them, I pulled some of the most common autoimmune diseases from the top 15. I really only used the ones I had heard of before and came out with 8 diseases to look at other than asthma.\r\nTo start, I used SNP data from GWAS studies and began finding similarities between asthma and other autoimmune diseases specifically. For each dataset of diseases, I needed to extract the needed information. In this case, it was the allele difference and the gene that the SNP came from. Afterward, I could make a Venn diagram to visualize the SNP locations that were the same in different diseases.\r\n\r\n\r\n\r\nFigure 1: Compare IBD, Graves, Celiac, Asthma\r\n\r\n\r\n\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-10-07-comparing-snps/SNPs_venn_diagramm2.png",
-    "last_modified": "2021-11-27T13:19:29-07:00",
+    "last_modified": "2021-11-27T14:18:04-07:00",
     "input_file": "comparing-snps.knit.md"
   },
   {
