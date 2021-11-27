@@ -437,4 +437,3 @@ SNP<- unique(tbl_a3$ID)
 #Data Frame for mix of all the diseases
 data.frame(SNP, MS_list, d_list, IBD_list, c_list, RA_list, l_list, a3_list, POS_list)
 
-

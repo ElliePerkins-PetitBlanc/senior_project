@@ -372,13 +372,13 @@ venn.diagram(
 # Compare IBD, Graves, Hashimoto's, Celiac
 
 venn.diagram(
-  x = list(IBDGene, GravesGene, HashimotoGene, CeliacGene),
-  category.names = c("IBD", "Graves", "Hashimoto's", "Celiac"),
-  filename = 'Genes_venn_diagramm7.png',
+  x = list(IBDGene, GravesGene, HashimotoGene, CeliacGene, AsthmaGene),
+  category.names = c("IBD", "Graves", "Hashimoto's", "Celiac", "Asthma"),
+  filename = 'Genes_venn_diagramm8.png',
   output=TRUE,
   lwd = 1.5,
   lty = 'blank',
-  fill = myCol,
+  fill = myCol2,
   
   # Numbers
   cex = .4,
@@ -389,3 +389,79 @@ venn.diagram(
   cat.default.pos = "outer",
   cat.fontfamily = "sans"
 )
+
+filter <- AsthmaGene[AsthmaGene %in% IBDGene]
+filter2 <- AsthmaGene[AsthmaGene %in% T1DiabetesGene]
+filter3 <- AsthmaGene[AsthmaGene %in% RArthritisGene]
+filter4 <- AsthmaGene[AsthmaGene %in% LupusGene]
+filter5 <- AsthmaGene[AsthmaGene %in% POSGene]
+filter6 <- AsthmaGene[AsthmaGene %in% CeliacGene]
+filter7 <- AsthmaGene[AsthmaGene %in% MSGene]
+filter8 <- AsthmaGene[AsthmaGene %in% GravesGene]
+filter9 <- AsthmaGene[AsthmaGene %in% HashimotoGene]
+
+tbl_a <- AsthmaGene[AsthmaGene %in% filter]
+tbl_a2 <- AsthmaGene[AsthmaGene %in% filter2]
+tbl_a3 <- AsthmaGene[AsthmaGene %in% filter3]
+tbl_a4 <- AsthmaGene[AsthmaGene %in% filter4]
+tbl_a5 <- AsthmaGene[AsthmaGene %in% filter5]
+tbl_a6 <- AsthmaGene[AsthmaGene %in% filter6]
+tbl_a7 <- AsthmaGene[AsthmaGene %in% filter7]
+tbl_a8 <- AsthmaGene[AsthmaGene %in% filter8]
+tbl_a9 <- AsthmaGene[AsthmaGene %in% filter9]
+
+tbl_d <- T1DiabetesGene[T1DiabetesGene %in% filter2]
+tbl_ar <- RArthritisGene[RArthritisGene %in% filter3]
+tbl_l <- LupusGene[LupusGene %in% filter4]
+tbl_POS <- POSGene[POSGene %in% filter5]
+tbl_IBD <- IBDGene[IBDGene %in% filter]
+tbl_c <- CeliacGene[CeliacGene %in% filter6]
+tbl_MS <- MSGene[MSGene %in% filter7]
+tbl_g <- GravesGene[GravesGene %in% filter8]
+tbl_h <- HashimotoGene[HashimotoGene %in% filter9]
+
+data.frame(tbl_a3, tbl_ar)
+data.frame(tbl_a6, tbl_c)
+data.frame(tbl_a2, tbl_d)
+data.frame(tbl_a8, tbl_g)
+data.frame(tbl_a9, tbl_h)
+data.frame(tbl_a, tbl_IBD)
+data.frame(tbl_a4, tbl_l)
+data.frame(tbl_a7, tbl_MS)
+data.frame(tbl_a5, tbl_POS)
+
+data.frame(tbl_a, tbl_d, tbl_ar, tbl_l, tbl_POS, tbl_IBD, tbl_c, tbl_MS, tbl_g, tbl_h)
+
+a_list <- AsthmaGene
+d_list <- c()
+ar_list <- c()
+l_list <- c()
+POS_list <- c()
+IBD_list <- c()
+c_list <- c()
+MS_list <- c()
+g_list <- c()
+h_list <- c()
+
+for (i in AsthmaGene) {
+  c_genes <- paste(unique(CeliacGene[CeliacGene == i]), collapse = "")
+  IBD_genes <- paste(unique(IBDGene[IBDGene == i], 1), collapse = "")
+  d_genes <- paste(unique(T1DiabetesGene[T1DiabetesGene == i], 1), collapse = "")
+  ar_genes <- paste(unique(RArthritisGene[RArthritisGene == i], 1), collapse = "")
+  l_genes <- paste(unique(LupusGene[LupusGene == i], 1), collapse = "")
+  MS_genes <- paste(unique(MSGene[MSGene == i], 1), collapse = "")
+  g_genes <- paste(unique(GravesGene[GravesGene == i], 1), collapse = "")
+  h_genes <- paste(unique(HashimotoGene[HashimotoGene == i], 1), collapse = "")
+  
+  d_list <- append(d_list, d_genes)
+  ar_list <- append(ar_list, ar_genes)
+  l_list <- append(l_list, l_genes)
+  IBD_list <- append(IBD_list, IBD_genes)
+  c_list <- append(c_list, c_genes)
+  MS_list <- append(MS_list, MS_genes)
+  g_list <- append(g_list, g_genes)
+  h_list <- append(h_list, h_genes)
+  
+}
+
+data.frame(a_list, c_list, IBD_list, d_list, ar_list, l_list, MS_list, g_list, h_list)

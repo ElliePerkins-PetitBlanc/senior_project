@@ -86,37 +86,37 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-<title>Senior Project: Comparing SNPs</title>
+<title>Senior Project: Comparing Proteins</title>
 
-<meta property="description" itemprop="description" content="How we compare SNPs"/>
+<meta property="description" itemprop="description" content="How to compare the proteins in diseases"/>
 
 
 <!--  https://schema.org/Article -->
-<meta property="article:published" itemprop="datePublished" content="2021-10-07"/>
-<meta property="article:created" itemprop="dateCreated" content="2021-10-07"/>
+<meta property="article:published" itemprop="datePublished" content="2021-11-24"/>
+<meta property="article:created" itemprop="dateCreated" content="2021-11-24"/>
 
 <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-<meta property="og:title" content="Senior Project: Comparing SNPs"/>
+<meta property="og:title" content="Senior Project: Comparing Proteins"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="How we compare SNPs"/>
+<meta property="og:description" content="How to compare the proteins in diseases"/>
 <meta property="og:locale" content="en_US"/>
 <meta property="og:site_name" content="Senior Project"/>
 
 <!--  https://dev.twitter.com/cards/types/summary -->
 <meta property="twitter:card" content="summary"/>
-<meta property="twitter:title" content="Senior Project: Comparing SNPs"/>
-<meta property="twitter:description" content="How we compare SNPs"/>
+<meta property="twitter:title" content="Senior Project: Comparing Proteins"/>
+<meta property="twitter:description" content="How to compare the proteins in diseases"/>
 
 <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Comparing SNPs"]},{"type":"character","attributes":{},"value":["How we compare SNPs"]},{"type":"character","attributes":{},"value":["10-07-2021"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Comparing Proteins"]},{"type":"character","attributes":{},"value":["How to compare the proteins in diseases"]},{"type":"character","attributes":{},"value":["11-24-2021"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"character","attributes":{},"value":["comparing-snps_files/anchor-4.2.2/anchor.min.js","comparing-snps_files/bowser-1.9.3/bowser.min.js","comparing-snps_files/distill-2.2.21/template.v2.js","comparing-snps_files/header-attrs-2.11/header-attrs.js","comparing-snps_files/jquery-3.6.0/jquery-3.6.0.js","comparing-snps_files/jquery-3.6.0/jquery-3.6.0.min.js","comparing-snps_files/jquery-3.6.0/jquery-3.6.0.min.map","comparing-snps_files/popper-2.6.0/popper.min.js","comparing-snps_files/tippy-6.2.7/tippy-bundle.umd.min.js","comparing-snps_files/tippy-6.2.7/tippy-light-border.css","comparing-snps_files/tippy-6.2.7/tippy.css","comparing-snps_files/tippy-6.2.7/tippy.umd.min.js","comparing-snps_files/webcomponents-2.0.0/webcomponents.js","SNPs_venn_diagramm2.png"]}
+  {"type":"character","attributes":{},"value":["Protien_comparison_chart.png"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2061,7 +2061,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Comparing SNPs","description":"How we compare SNPs","authors":[],"publishedDate":"2021-10-07T00:00:00.000-06:00"}
+{"title":"Comparing Proteins","description":"How to compare the proteins in diseases","authors":[],"publishedDate":"2021-11-24T00:00:00.000-07:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2084,24 +2084,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Comparing SNPs</h1>
+<h1>Comparing Proteins</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>How we compare SNPs</p></p>
+<p><p>How to compare the proteins in diseases</p></p>
 </div>
 
 
 <div class="d-article">
-<p>I needed to narrow down which genetic diseases I was looking at because there are just so many. To choose them, I pulled some of the most common autoimmune diseases from the top 15. I really only used the ones I had heard of before and came out with 8 diseases to look at other than asthma.</p>
-<p>To start, I used SNP data from GWAS studies and began finding similarities between asthma and other autoimmune diseases specifically. For each dataset of diseases, I needed to extract the needed information. In this case, it was the allele difference and the gene that the SNP came from. Afterward, I could make a Venn diagram to visualize the SNP locations that were the same in different diseases.</p>
-<div class="layout-chunk" data-layout="l-body">
-<div class="figure"><span style="display:block;" id="fig:graphic"></span>
-<img src="SNPs_venn_diagramm2.png" alt="Compare IBD, Graves, Celiac, Asthma" width="100%" />
-<p class="caption">
-Figure 1: Compare IBD, Graves, Celiac, Asthma
-</p>
-</div>
-</div>
+<p>The dataset that I got from NCBI has the mapped proteins for the associated SNPs, which makes this so much easier. I had to figure out how to write some code that would allow me to find the unique values of the mapped protein column in the dataset. For some reason it was harder for me than I anticipated. It was actually separating the different proteins out when there was more than one that the SNP was mapped to.</p>
+<p>After I got the unique values, I was able to compare the diseases to asthma, my disease in question. That was another hurtle I needed to jump with coding, but it wasn’t too bad. I created a different filter for each of the diseases being compared to asthma. After that I could compare which proteins were the same with some tables. I needed to figure out how to compare things that were different lengths. It took a little while to figure that out too. What I ended up doing was creating loop that appended lists with the genes that were effected in both the disease and in asthma. I was shocked to find that the thyroid diseases were the ones that had the most proteins effected as asthma over some of the other diseases I was looking at. It was surprising because there are no related SNPs between the thyroid diseases and asthma.</p>
 <p>Learn more about using Distill at <a href="https://rstudio.github.io/distill" class="uri">https://rstudio.github.io/distill</a>.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
