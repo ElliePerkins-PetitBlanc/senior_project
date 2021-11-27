@@ -1,0 +1,65 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Background trait(s)","Study accession",Location
+rs7563201-<b>G</b>,"3 x 10-10",,0.54,1.13,'-,[1.09–1.17],THADA,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,2:43334641
+rs1351592-<b>G</b>,"1 x 10-12",,0.17,1.18,'-,[1.13–1.23],ERBB4,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,2:212529988
+rs11225154-<b>A</b>,"8 x 10-11",,0.09,1.22,'-,[1.15–1.29],YAP1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,11:102172509
+rs11031006-<b>A</b>,"1 x 10-9",,0.14,1.16,'-,[1.11–1.22],FSHB,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,11:30204981
+rs13164856-<b>T</b>,"4 x 10-9",,0.73,1.13,'-,[1.09–1.18],"IRF1-AS1, IRF1","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,5:132477512
+rs1275468-<b>C</b>,"2 x 10-8",,0.75,1.13,'-,[1.08–1.18],KRR1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,12:75541377
+rs7312770-<b>C</b>,"2 x 10-7",,0.47,1.1,'-,[1.06–1.15],"RPS26, ERBB3","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,12:56073803
+rs7218361-<b>A</b>,"1 x 10-6",,0.04,1.25,'-,[1.14–1.37],"NEUROD2, CDK12","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,17:39569151
+rs10760321-<b>A</b>,"1 x 10-6",,0.71,1.11,'-,[1.07–1.16],LHX2,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST003144,9:124101917
+rs78025940-<b>A</b>,"2 x 10-10",,0.02,4.75,'-,[2.82-7.98],"KAZN, KAZN-AS1","Polycystic ovary syndrome (reproductive subtype)","polycystic ovary syndrome",'-,GCST010570,1:14404304
+rs76182733-<b>G</b>,"3 x 10-9",,0.01,5.68,'-,3.00-10.78,"IQCA1, ACKR3","Polycystic ovary syndrome (reproductive subtype)","polycystic ovary syndrome",'-,GCST010570,2:236518238
+rs17023134-<b>G</b>,"1 x 10-8",,0.05,3.02,'-,2.06-4.42,UNC5C,"Polycystic ovary syndrome (reproductive subtype)","polycystic ovary syndrome",'-,GCST010570,4:95183520
+rs7735176-<b>A</b>,"1 x 10-8",,0.01,5.09,'-,2.62-9.86,"BTG4P1, CDH10","Polycystic ovary syndrome (reproductive subtype)","polycystic ovary syndrome",'-,GCST010570,5:24728347
+rs11031006-<b>?</b>,"9 x 10-6",,NR,'-,'-,'-,FSHB,"Polycystic ovary syndrome (reproductive subtype)","polycystic ovary syndrome",'-,GCST010570,11:30204981
+rs55762028-<b>C</b>,"1 x 10-8",,0.01,1.86,'-,0.92-3.75,RNU6-627P,"Polycystic ovary syndrome (metabolic subtype)","polycystic ovary syndrome",'-,GCST010569,2:163325912
+rs10835638-<b>T</b>,"5 x 10-12",,0.16,1.81,'-,1.44-2.27,FSHB,"Polycystic ovary syndrome (indeterminate subtype)","polycystic ovary syndrome",'-,GCST010568,11:30230805
+rs7563201-<b>A</b>,"4 x 10-10",,0.45,'-,"0.1081 unit decrease",[0.074-0.142],THADA,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,2:43334641
+rs2178575-<b>A</b>,"3 x 10-14",,0.15,'-,"0.1663 unit increase",[0.12-0.21],ERBB4,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,2:212527042
+rs13164856-<b>T</b>,"1 x 10-10",,0.73,'-,"0.1235 unit increase",[0.086-0.161],"IRF1-AS1, IRF1","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,5:132477512
+rs804279-<b>A</b>,"4 x 10-12",,0.26,'-,"0.1276 unit increase",[0.092-0.164],"NEIL2, GATA4","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,8:11766380
+rs10739076-<b>A</b>,"3 x 10-8",,0.31,'-,"0.1097 unit increase",[0.071-0.148],"CD274, PLGRKT","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,9:5440589
+rs7864171-<b>A</b>,"3 x 10-8",,0.43,'-,"0.0933 unit decrease",[0.06-0.126],AOPEP,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,9:94960984
+rs9696009-<b>A</b>,"8 x 10-11",,0.07,'-,"0.202 unit increase",[0.14-0.26],DENND1A,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,9:123856954
+rs11031005-<b>T</b>,"9 x 10-13",,0.85,'-,"0.1593 unit decrease",[0.12-0.2],FSHB,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,11:30204809
+rs11225154-<b>A</b>,"5 x 10-11",,0.09,'-,"0.1787 unit increase",[0.13-0.23],YAP1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,11:102172509
+rs1784692-<b>T</b>,"2 x 10-10",,0.82,'-,"0.1438 unit increase",[0.1-0.188],ZBTB16,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,11:114078510
+rs2271194-<b>A</b>,"5 x 10-9",,0.42,'-,"0.0971 unit increase",[0.065-0.13],ERBB3,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,12:56083910
+rs1795379-<b>T</b>,"2 x 10-9",,0.24,'-,"0.1174 unit decrease",[0.079-0.156],KRR1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,12:75547262
+rs8043701-<b>A</b>,"1 x 10-9",,0.82,'-,"0.1273 unit decrease",[0.087-0.168],"CASC22, TOX3","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,16:52341865
+rs853854-<b>T</b>,"2 x 10-9",,0.5,'-,"0.0975 unit decrease",[0.066-0.129],MAPRE1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST007089,20:32832951
+rs7666129-<b>A</b>,"6 x 10-6",,0.75,1.59,'-,[NR],LINC01060,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST002741,4:188576910
+rs10505648-<b>A</b>,"5 x 10-8",,0.906,1.92,'-,[NR],LINC02055,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST002741,8:136144207
+rs500492-<b>A</b>,"6 x 10-6",,0.65,1.32,'-,[NR],"SOX8, SSTR5-AS1","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST002741,16:1000877
+rs10986105-<b>T</b>,"2 x 10-6",,0.05,1.69,'-,[1.3-2.2],DENND1A,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST005273,9:123787676
+rs7574059-<b>C</b>,"2 x 10-7",,0.58,1.19,'-,[1.06-1.34],ELOAP1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST005273,2:123613428
+rs804279-<b>A</b>,"8 x 10-10",,0.26,1.35,'-,[1.18-1.54],"NEIL2, GATA4","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST005273,8:11766380
+rs10993397-<b>C</b>,"5 x 10-13",,0.56,1.37,'-,[1.22-1.54],AOPEP,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST005273,9:94917489
+rs11031006-<b>A</b>,"2 x 10-8",,0.15,1.41,'-,[1.21-1.65],FSHB,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST005273,11:30204981
+rs1784692-<b>T</b>,"1 x 10-6",,0.82,1.39,'-,[1.19-1.61],ZBTB16,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST005273,11:114078510
+rs1355471-<b>A</b>,"8 x 10-8",,0.49,1.15,'-,[1.02-1.29],CCDC91,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST005273,12:28568792
+rs13429458-<b>A</b>,"2 x 10-23",,0.91,1.49,'-,[1.39-1.61],THADA,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST000914,2:43411699
+rs10818854-<b>A</b>,"9 x 10-18",,0.09,1.51,'-,[1.37-1.65],DENND1A,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST000914,9:123684499
+rs2479106-<b>G</b>,"8 x 10-19",,0.22,1.34,'-,[1.26-1.43],DENND1A,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST000914,9:123762933
+rs13405728-<b>A</b>,"8 x 10-21",,0.76,1.41,'-,[1.30-1.49],"STON1-GTF2A1L, LHCGR","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST000914,2:48751020
+rs12478601-<b>C</b>,"3 x 10-23",,0.71,1.39,'-,[1.30-1.49],THADA,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST000914,2:43494369
+rs13429458-<b>A</b>,"4 x 10-13",,NR,1.49,'-,[NR],THADA,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,2:43411699
+rs2479106-<b>G</b>,"5 x 10-10",,NR,1.35,'-,[NR],DENND1A,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,9:123762933
+rs13405728-<b>A</b>,"4 x 10-9",,NR,1.35,'-,[NR],"STON1-GTF2A1L, LHCGR","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,2:48751020
+rs2268361-<b>C</b>,"1 x 10-12",,0.504,1.15,'-,[NR],FSHR,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,2:48974473
+rs3802457-<b>G</b>,"5 x 10-14",,0.904,1.3,'-,[NR],AOPEP,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,9:94979054
+rs1894116-<b>G</b>,"1 x 10-22",,0.194,1.27,'-,[NR],YAP1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,11:102199908
+rs705702-<b>G</b>,"9 x 10-26",,0.245,1.27,'-,[NR],"RAB5B, SUOX","Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,12:55996852
+rs2272046-<b>A</b>,"2 x 10-21",,0.907,1.43,'-,[NR],HMGA2,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,12:65830681
+rs4784165-<b>G</b>,"4 x 10-11",,0.325,1.15,'-,[NR],CASC22,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,16:52313907
+rs2059807-<b>G</b>,"1 x 10-8",,0.301,1.14,'-,[NR],INSR,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,19:7166098
+rs6022786-<b>A</b>,"2 x 10-9",,0.339,1.13,'-,[NR],SUMO1P1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST001634,20:53830764
+chr1:120172286-<b>T</b>,"6 x 10-7",,0.0106,'-,"0.9817 unit increase",[0.6-1.37],'-,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST010687,"Mapping not available"
+chr10:96167706-<b>A</b>,"1 x 10-6",,0.0068,'-,"1.0969 unit increase",[0.65-1.54],'-,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST010687,"Mapping not available"
+rs17186366-<b>C</b>,"3 x 10-8",,0.084,1.37,'-,[1.23-1.54],LINC02529,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST010687,6:159477229
+rs113168128-<b>A</b>,"5 x 10-8",,0.021,1.72,'-,[1.42-2.10],ERBB4,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST010687,2:211427047
+rs144248326-<b>C</b>,"8 x 10-7",,0.0103,2.13,'-,[1.56-2.86],WWTR1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST010687,3:149602086
+rs1159315-<b>G</b>,"2 x 10-7",,0.3655,'-,"1.117 unit increase",NR,GABRB1,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST006659,4:47001059
+rs12450465-<b>G</b>,"8 x 10-6",,0.3312,'-,"0.8755 unit decrease",NR,ASIC2,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST006659,17:33053293
+rs2060941-<b>A</b>,"5 x 10-8",,0.02708,'-,"2.139 unit decrease",NR,IKZF3,"Polycystic ovary syndrome","polycystic ovary syndrome",'-,GCST006659,17:39826630
