@@ -19,7 +19,7 @@ I took MATH 425 in Fall 2020 and MATH 450 in Winter 2021, but I am registered fo
 
 ### Project Background
 
-Many diseases have genetic markers that make people predisposed to them like asthma, diabetes, thyroid problems, and even skin things like eczema. These are actually all autoimmune diseases that I mentioned, which I spent a semester learning about a couple semesters ago in my bioinformatics class. I know there are some that have similar markers and if you have one illness, you can be more likely to have others. I have a lot of diseases that run in my family including asthma, arthritis, and Hashimoto's thyroiditis. When there are more than one autoimmune diseases found in the same patient, it is called co-occurence and if there are at least 3 autoimmune  diseases, it is called multiple autoimmune syndrome (MAS). I wanted to look at which ones were connected.
+Many diseases have genetic markers that make people predisposed to them like asthma, diabetes, thyroid problems, and even skin things like eczema. These are actually all autoimmune diseases that I mentioned, which I spent a semester learning about a couple semesters ago in my bioinformatics class. I know there are some that have similar markers and if you have one illness, you can be more likely to have others. I have a lot of diseases that run in my family including asthma, arthritis, and Hashimoto's thyroiditis. When there are more than one autoimmune diseases found in the same patient, it is called co-occurence and if there are at least 3 autoimmune  diseases, it is called multiple autoimmune syndrome (MAS). I wanted to look at which ones were possibly connected.
 
 ### Domain to Investigate
 

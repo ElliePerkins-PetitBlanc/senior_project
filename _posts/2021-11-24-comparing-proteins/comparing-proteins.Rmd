@@ -15,7 +15,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 The dataset that I got from NCBI has the mapped proteins for the associated SNPs, which makes this so much easier. I had to figure out how to write some code that would allow me to find the unique values of the mapped protein column in the dataset. For some reason it was harder for me than I anticipated. It was actually separating the different proteins out when there was more than one that the SNP was mapped to.
 
-After I got the unique values, I was able to compare the diseases to asthma, my disease in question. That was another hurtle I needed to jump with coding, but it wasn't too bad. I created a different filter for each of the diseases being compared to asthma. After that I could compare which proteins were the same with some tables. I needed to figure out how to compare things that were different lengths. It took a little while to figure that out too. What I ended up doing was creating loop that appended lists with the genes that were effected in both the disease and in asthma. I was shocked to find that the thyroid diseases were the ones that had the most proteins effected as asthma over some of the other diseases I was looking at. It was surprising because there are no related SNPs between the thyroid diseases and asthma.
+After I got the unique values, I was able to compare the diseases to asthma, my disease in question. That was another hurtle I needed to jump with coding, but it wasn't too bad. I created a different filter for each of the diseases being compared to asthma. After that I could compare which proteins were the same with some tables. I needed to figure out how to compare things that were different lengths. It took a little while to figure that out too. What I ended up doing was creating loop that appended lists with the genes that were effected in both the disease and in asthma.
+
+```{r graphic, echo = FALSE, fig.cap= "Result Chart", out.width='100%'}
+knitr::include_graphics("Protien_comparison_chart.png")
+```
+
+I was shocked to find that the thyroid diseases were the ones that had the most proteins effected as asthma over some of the other diseases I was looking at. It was surprising because there are no related SNPs between the thyroid diseases and asthma.
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
