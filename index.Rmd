@@ -1,5 +1,10 @@
 ---
 title: "Senior Project"
 site: distill::distill_website
-listing: posts
+listing: 
+  posts:
+    - welcome
+    - 2021-09-24-initial-post
+    - 2021-10-07-comparing-snps
+    - 2021-11-24-comparing-proteins
 ---

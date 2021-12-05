@@ -13,15 +13,7 @@
       "title": "Senior Project",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-27T14:58:48-07:00"
-    },
-    {
-      "path": "me.html",
-      "title": "Me",
-      "description": "About me.",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-27T14:58:49-07:00"
+      "last_modified": "2021-11-29T15:14:29-07:00"
     }
   ],
   "collections": ["posts/posts.json"]
