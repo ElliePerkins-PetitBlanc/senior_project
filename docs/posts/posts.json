@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2021-12-13-concluding-remarks/",
+    "title": "Concluding Remarks",
+    "description": "Wrapping up the semester project conclusions and last remarks.",
+    "author": [],
+    "date": "2021-12-13",
+    "categories": [],
+    "contents": "\r\nAs some last remarks after doing all this work I found it super surprising that diseases that had no overlap on the small scale genetic variation were the most similar in the gene and where the variation was there. I am talking about asthma and Hashimoto’s Thyroiditis and Graves in this case. My conclusion there is that there may be some kind of relation there making it more likely that someone with asthma would have one of the thyroid autoimmune diseases at least in comparison to the other diseases that I looked at. This might not be saying much except the fact that my mom had asthma growing up and has been diagnosed with Hashimoto’s Thyroiditis for about 18 years now.\r\nGoing forward I would love to look at more of the clinical data and studies on if there is a relation with those who have asthma and those who have Hashimoto’s Thyroiditis or Graves disease. This would be very interesting, but could be very limited by the amount of research done for Hashimoto’s Thyroiditis.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-13T16:51:42-07:00",
+    "input_file": "concluding-remarks.knit.md"
+  },
+  {
     "path": "posts/2021-11-24-comparing-proteins/",
     "title": "Comparing Proteins",
     "description": "How to compare the proteins in diseases",
@@ -8,8 +20,8 @@
     "categories": [],
     "contents": "\r\nThe dataset that I got from NCBI has the mapped proteins for the associated SNPs, which makes this so much easier. I had to figure out how to write some code that would allow me to find the unique values of the mapped protein column in the dataset. For some reason it was harder for me than I anticipated. It was actually separating the different proteins out when there was more than one that the SNP was mapped to.\r\nAfter I got the unique values, I was able to compare the diseases to asthma, my disease in question. That was another hurtle I needed to jump with coding, but it wasn’t too bad. I created a different filter for each of the diseases being compared to asthma. After that I could compare which proteins were the same with some tables. I needed to figure out how to compare things that were different lengths. It took a little while to figure that out too. What I ended up doing was creating loop that appended lists with the genes that were effected in both the disease and in asthma.\r\n\r\n\r\n\r\nFigure 1: Result Chart\r\n\r\n\r\n\r\nI was shocked to find that the thyroid diseases were the ones that had the most proteins effected as asthma over some of the other diseases I was looking at. It was surprising because there are no related SNPs between the thyroid diseases and asthma.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-11-24-comparing-proteins/Protien_comparison_chart.png",
-    "last_modified": "2021-11-27T22:40:42-07:00",
-    "input_file": {}
+    "last_modified": "2021-12-13T16:50:28-07:00",
+    "input_file": "comparing-proteins.knit.md"
   },
   {
     "path": "posts/2021-10-07-comparing-snps/",
@@ -20,8 +32,8 @@
     "categories": [],
     "contents": "\r\nI needed to narrow down which genetic diseases I was looking at because there are just so many. To choose them, I pulled some of the most common autoimmune diseases from the top 15. I really only used the ones I had heard of before and came out with 8 diseases to look at other than asthma.\r\nTo start, I used SNP data from GWAS studies and began finding similarities between asthma and other autoimmune diseases specifically. For each dataset of diseases, I needed to extract the needed information. In this case, it was the allele difference and the gene that the SNP came from. Afterward, I could make a Venn diagram to visualize the SNP locations that were the same in different diseases.\r\n\r\n\r\n\r\nFigure 1: Compare IBD, Graves, Celiac, Asthma\r\n\r\n\r\n\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": "posts/2021-10-07-comparing-snps/SNP_example_Venn_diagram.png",
-    "last_modified": "2021-11-27T22:45:19-07:00",
-    "input_file": {}
+    "last_modified": "2021-12-13T16:51:20-07:00",
+    "input_file": "comparing-snps.knit.md"
   },
   {
     "path": "posts/2021-09-24-initial-post/",
