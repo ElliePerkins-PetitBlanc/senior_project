@@ -1,0 +1,23 @@
+---
+title: "Concluding Remarks"
+description: |
+  Wrapping up the semester project conclusions and last remarks.
+date: 12-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+As some last remarks after doing all this work I found it super surprising that diseases that had no overlap on the small scale genetic variation were the most similar in the gene and where the variation was there. I am talking about asthma and Hashimoto's Thyroiditis and Graves in this case. My conclusion there is that there may be some kind of relation there making it more likely that someone with asthma would have one of the thyroid autoimmune diseases at least in comparison to the other diseases that I looked at. This might not be saying much except the fact that my mom had asthma growing up and has been diagnosed with Hashimoto's Thyroiditis for about 18 years now. 
+
+Going forward I would love to look at more of the clinical data and studies on if there is a relation with those who have asthma and those who have Hashimoto's Thyroiditis or Graves disease. This would be very interesting, but could be very limited by the amount of research done for Hashimoto's Thyroiditis.
+
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
