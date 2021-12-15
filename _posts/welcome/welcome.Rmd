@@ -1,13 +1,19 @@
 ---
 title: "Welcome"
 description: |
-  Welcome to my blog for my Senior Project. I am very excited to be working with genetic data to find diseases that are related to one another and how closly they may be related. Please feel free to browse around and see what I'm up to!
+  Welcome to my blog for my Senior Project. 
 author:
 date: 09-20-2021
 output:
   distill::distill_article:
     self_contained: false
 ---
+
+I am very excited to be working with genetic data to find diseases that are related to one another and how closely they may be related. Please feel free to browse around and see what I'm up to!
+
+```{r graphic, echo = FALSE,'100%'}
+knitr::include_graphics("3-D_DNA.jpg")
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
