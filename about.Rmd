@@ -7,3 +7,7 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r graphic, echo = FALSE, fig.cap = "", out.width ='100%'}
+knitr::include_graphics("Newer_pic.jpg")
+```
